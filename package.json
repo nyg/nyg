@@ -1,0 +1,30 @@
+{
+   "name": "github-readme",
+   "version": "1.0.0",
+   "description": "GitHub README.md",
+   "type": "module",
+   "main": "src/index.js",
+   "repository": {
+      "type": "git",
+      "url": "git+ssh://git@github.com/nyg/nyg.git"
+   },
+   "keywords": [
+      "readme"
+   ],
+   "author": "nyg",
+   "license": "MIT",
+   "bugs": {
+      "url": "https://github.com/nyg/nyg/issues"
+   },
+   "dependencies": {
+      "@apollo/client": "3.9.5",
+      "graphql": "16.8.1",
+      "handlebars": "4.7.8"
+   },
+   "devDependencies": {
+      "eslint": "8.57.0"
+   },
+   "scripts": {
+      "dev": "node src/index.js"
+   }
+}
