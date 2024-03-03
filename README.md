@@ -42,10 +42,34 @@
 - [**`example-js-cli-app`**](https://git.sr.ht/~nyg/example-js-cli-app) — *A simple Node.js command-line app example using ESM.*
 - [**`ncc-pkg-examples`**](nyg/ncc-pkg-examples) — *Trying and failing to package a Next.js app with `ncc` and `pkg`.*
 
-#### Stats
+### Dynamic statistics
+
+#### Most starred gists
+
+| Description | Stargazers | Comments | Forks
+| --- | ---: | ---: | ---: |
+| [iOS, Swift: Create a PDF file from an HTML string](https://gist.github.com/b8cd742250826cb1471f) | 74 | 29 | 14
+| [Get the memory address of both class and structure instances in Swift.](https://gist.github.com/b6a80bf79e72599230c312c69e963e60) | 34 | 0 | 8
+| [Get and set an EXIF UserComment to a JPEG image using the ImageIO framework.](https://gist.github.com/c90f36abbd30f72c8b6681ef23db886b) | 10 | 0 | 2
+
+#### Most forked gists
+
+| Description | Forks | Stargazers | Comments
+| --- | ---: | ---: | ---: |
+| [iOS, Swift: Create a PDF file from an HTML string](https://gist.github.com/b8cd742250826cb1471f) | 14 | 74 | 29
+| [Get the memory address of both class and structure instances in Swift.](https://gist.github.com/b6a80bf79e72599230c312c69e963e60) | 8 | 34 | 0
+| [Get and set an EXIF UserComment to a JPEG image using the ImageIO framework.](https://gist.github.com/c90f36abbd30f72c8b6681ef23db886b) | 2 | 10 | 0
+
+#### Most commented gists
+
+| Description | Comments | Stargazers | Forks
+| --- | ---: | ---: | ---: |
+| [iOS, Swift: Create a PDF file from an HTML string](https://gist.github.com/b8cd742250826cb1471f) | 29 | 74 | 14
+| [Using Yahoo Query Language (YQL) to get JSON from an external URL and bypass the Access-Control-Allow-Origin restriction.](https://gist.github.com/d5c906a47dbeb9ad84cbed9fd207105d) | 1 | 0 | 0
+| [Oracle: outputs the necessary delete statements to delete a row and all rows preventing it from being deleted because of &quot;child record found&quot; error.](https://gist.github.com/eb091e6c7c59b71fa4c9d49860574d2c) | 0 | 0 | 0
+
+#### Misc
 
 ![Profile](https://github-readme-stats.vercel.app/api?username=nyg&show_icons=true&show=discussions_started)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nyg&layout=compact)
-
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=nyg.nyg)
