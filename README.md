@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### Personal knowledge base: [`notes.andstuff.club`](https://notes.andstuff.club/)
+#### Personal knowledge base: [`notes.andstuff.club`](https://notes.andstuff.dev)
 
 - [Configuring `sshpass` with `gpg` and Zsh completion](https://notes.andstuff.club/softwares/sshpass)
 - [SUID, GUID & Sticky bits explanation](https://notes.andstuff.club/os/linux/suid)
