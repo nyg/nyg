@@ -58,26 +58,12 @@
 
 #### Most starred gists
 
-| Description | ![stargazers](assets/stargazers.svg) | ![comments](assets/comments.svg) | ![forks](assets/forks.svg)
+| Description | ![stargazers](assets/stargazers.svg) | ![forks](assets/forks.svg) | ![comments](assets/comments.svg)
 | :--- | ---: | ---: | ---: |
-| [iOS, Swift: Create a PDF file from an HTML string](https://gist.github.com/b8cd742250826cb1471f) | 75 | 29 | 14
-| [Get the memory address of both class and structure instances in Swift.](https://gist.github.com/b6a80bf79e72599230c312c69e963e60) | 34 | 0 | 8
-| [Get and set an EXIF UserComment to a JPEG image using the ImageIO framework.](https://gist.github.com/c90f36abbd30f72c8b6681ef23db886b) | 10 | 0 | 2
-
-#### Most forked gists
-
-| Description | ![forks](assets/forks.svg) | ![stargazers](assets/stargazers.svg) | ![comments](assets/comments.svg)
-| :--- | ---: | ---: | ---: |
-| [iOS, Swift: Create a PDF file from an HTML string](https://gist.github.com/b8cd742250826cb1471f) | 14 | 75 | 29
-| [Get the memory address of both class and structure instances in Swift.](https://gist.github.com/b6a80bf79e72599230c312c69e963e60) | 8 | 34 | 0
-| [Get and set an EXIF UserComment to a JPEG image using the ImageIO framework.](https://gist.github.com/c90f36abbd30f72c8b6681ef23db886b) | 2 | 10 | 0
-
-#### Most commented gist
-
-| Description | ![comments](assets/comments.svg) | ![stargazers](assets/stargazers.svg) | ![forks](assets/forks.svg)
-| :--- | ---: | ---: | ---: |
-| [iOS, Swift: Create a PDF file from an HTML string](https://gist.github.com/b8cd742250826cb1471f) | 29 | 75 | 14
-| [Using Yahoo Query Language (YQL) to get JSON from an external URL and bypass the Access-Control-Allow-Origin restriction.](https://gist.github.com/d5c906a47dbeb9ad84cbed9fd207105d) | 1 | 0 | 0
+| [iOS, Swift: Create a PDF file from an HTML string](https://gist.github.com/b8cd742250826cb1471f) | 75 | 14 | 29
+| [Get the memory address of both class and structure instances in Swift.](https://gist.github.com/b6a80bf79e72599230c312c69e963e60) | 34 | 8 | 0
+| [Get and set an EXIF UserComment to a JPEG image using the ImageIO framework.](https://gist.github.com/c90f36abbd30f72c8b6681ef23db886b) | 10 | 2 | 0
+| [Get boot time and uptime for macOS &amp; iOS.](https://gist.github.com/d81308a92fbf7e9c44c5f72db5ee2171) | 4 | 0 | 0
 
 #### Misc
 
