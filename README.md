@@ -13,7 +13,7 @@
 #### Top
 
 - [**`dependabot-vuln-viewer`**](nyg/dependabot-vuln-viewer) — *Overview of Dependabot security alerts for multiple GitHub repositories, uses [Apollo GraphQL](apollographql/apollo-client).*
-- [**`kraken-api-java`**](nyg/kraken-api-java) — *A quickly written Java library for querying the Kraken REST API. Has 49 starts, not sure why though.*
+- [**`kraken-api-java`**](nyg/kraken-api-java) — *A quickly written Java library for querying the Kraken REST API.*
 - [**`crypto-tools`**](nyg/crypto-tools) — *Some tools for Binance and Kraken accounts.*
 
 #### Misc
@@ -48,11 +48,16 @@
 
 #### Gists
 
-- [**`pdk.c`**](https://gist.github.com/nyg/e366c27a70a77bf06581a0e6a8211cc9) — *Create a password-derived key using libsodium.*
-- [**`AddJPEGComment.swift`**](https://gist.github.com/nyg/bdeae8190a41b4b56bde8e13dd471ecc) — *Add a JPEG comment marker to file in pure Swift.*
-- [**`EXIFUserComment.swift`**](https://gist.github.com/nyg/c90f36abbd30f72c8b6681ef23db886b) — *Get and set an EXIF UserComment to a JPEG image using the ImageIO framework.*
-- [**`uptime.c`**](https://gist.github.com/nyg/dbdef21a1a0632c389d4d756d4fc1c0d) — *Get boot time and uptime on macOS in C.*
-- [**`Uptime.swift`**](https://gist.github.com/nyg/d81308a92fbf7e9c44c5f72db5ee2171) — *Get boot time and uptime for macOS & iOS.*
+- [**`AllJCAServices.java`**](https://gist.github.com/feedae9fd75fee0f27f788b2dc155633) — *List all JCA security provider services and export them to a CSV file.*
+- [**`AddJPEGComment.swift`**](https://gist.github.com/bdeae8190a41b4b56bde8e13dd471ecc) — *Add a JPEG comment marker to file in pure Swift.*
+- [**`EXIFUserComment.swift`**](https://gist.github.com/c90f36abbd30f72c8b6681ef23db886b) — *Get and set an EXIF UserComment to a JPEG image using the ImageIO framework.*
+- [**`MemoryAddress.swift`**](https://gist.github.com/b6a80bf79e72599230c312c69e963e60) — *Get the memory address of both class and structure instances in Swift.*
+- [**`iOSCreatePDF.swift`**](https://gist.github.com/b8cd742250826cb1471f) — *iOS, Swift: Create a PDF file from an HTML string.*
+- [**`Uptime.swift`**](https://gist.github.com/d81308a92fbf7e9c44c5f72db5ee2171) — *Get boot time and uptime for macOS & iOS.*
+- [**`uptime.c`**](https://gist.github.com/dbdef21a1a0632c389d4d756d4fc1c0d) — *Get boot time and uptime on macOS in C.*
+- [**`pdk.c`**](https://gist.github.com/e366c27a70a77bf06581a0e6a8211cc9) — *Create a password-derived key using libsodium.*
+- [**`fk_generate_delete.sql`**](https://gist.github.com/eb091e6c7c59b71fa4c9d49860574d2c) — *Oracle: outputs the necessary delete statements to delete a row and all rows preventing it from being deleted because of "child record found" error.*
+- [**`fk_delete_recursive.sql`**](https://gist.github.com/57b2719feba6cded14b01e53530941ef) — *Oracle: delete a row and all rows preventing it to be deleted because of "child record found" errors.*
 
 ### Dynamic statistics
 
@@ -60,7 +65,7 @@
 
 | Description | ![stargazers](assets/stargazers.svg) | ![forks](assets/forks.svg) | ![comments](assets/comments.svg)
 | :--- | ---: | ---: | ---: |
-| [iOS, Swift: Create a PDF file from an HTML string](https://gist.github.com/b8cd742250826cb1471f) | 75 | 14 | 29
+| [iOS, Swift: Create a PDF file from an HTML string.](https://gist.github.com/b8cd742250826cb1471f) | 75 | 14 | 29
 | [Get the memory address of both class and structure instances in Swift.](https://gist.github.com/b6a80bf79e72599230c312c69e963e60) | 34 | 8 | 0
 | [Get and set an EXIF UserComment to a JPEG image using the ImageIO framework.](https://gist.github.com/c90f36abbd30f72c8b6681ef23db886b) | 10 | 2 | 0
 | [Get boot time and uptime for macOS &amp; iOS.](https://gist.github.com/d81308a92fbf7e9c44c5f72db5ee2171) | 4 | 0 | 0
