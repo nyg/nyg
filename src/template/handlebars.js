@@ -24,7 +24,16 @@ export const listBlockHelper = function (context, options) {
 }
 
 export const gistHelper = function (context, options) {
-   const render = gist => new Handlebars.SafeString(`[**\`${gist.files[0].name}\`**](${gist.url}) — *${gist.description}*`)
+
+   const render = gist => {
+      let stats = ''
+      if (options.hash.showStats) {
+         stats = ` ${gist.stargazerCount}![stargazers](assets/stargazers.svg)`
+      }
+
+      return new Handlebars.SafeString(`[**\`${gist.files[0].name}\`**](${gist.url})${stats} — *${gist.description}*`)
+   }
+
    const gistWithFileName = options.data.root.gists.filter(gist => gist.files[0].name === context)[0]
    const gistWithName = options.data.root.gists.filter(gist => gist.name === context)[0]
 

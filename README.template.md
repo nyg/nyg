@@ -46,16 +46,19 @@
 - [**`example-js-cli-app`**](https://git.sr.ht/~nyg/example-js-cli-app) — *A simple Node.js command-line app example using ESM.*
 - [**`ncc-pkg-examples`**](nyg/ncc-pkg-examples) — *Trying and failing to package a Next.js app with `ncc` and `pkg`.*
 
-#### Gists
+#### Swift gists
 
-- {{gist 'AllJCAServices.java'}}
-- {{gist 'AddJPEGComment.swift'}}
+- {{gist 'AddJPEGComment.swift' showStats=true}}
 - {{gist 'EXIFUserComment.swift'}}
 - {{gist 'MemoryAddress.swift'}}
 - {{gist 'iOSCreatePDF.swift'}}
 - {{gist 'Uptime.swift'}}
+
+#### Misc gists
+
 - {{gist 'uptime.c'}}
 - {{gist 'pdk.c'}}
+- {{gist 'AllJCAServices.java'}}
 - {{gist 'fk_generate_delete.sql'}}
 - {{gist 'fk_delete_recursive.sql'}}
 
