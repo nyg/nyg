@@ -58,24 +58,24 @@
 
 #### Most starred gists
 
-| Description | {{{icons.stargazers}}} | {{{icons.comments}}} | {{{icons.forks}}}
-| --- | ---: | ---: | ---: |
+| Description | ![stargazers](assets/stargazers.svg) | ![comments](assets/comments.svg) | ![forks](assets/forks.svg)
+| :--- | ---: | ---: | ---: |
 {{#list gists sortBy='stargazerCount' direction='desc' top=3}}
 | [{{description}}]({{url}}) | {{stargazerCount}} | {{comments.totalCount}} | {{forks.totalCount}}
 {{/list}}
 
 #### Most forked gists
 
-| Description | {{{icons.forks}}} | {{{icons.stargazers}}} | {{{icons.comments}}}
-| --- | ---: | ---: | ---: |
+| Description | ![forks](assets/forks.svg) | ![stargazers](assets/stargazers.svg) | ![comments](assets/comments.svg)
+| :--- | ---: | ---: | ---: |
 {{#list gists sortBy='forks.totalCount' direction='desc' top=3}}
 | [{{description}}]({{url}}) | {{forks.totalCount}} | {{stargazerCount}} | {{comments.totalCount}}
 {{/list}}
 
 #### Most commented gist
 
-| Description | {{{icons.comments}}} | {{{icons.stargazers}}} | {{{icons.forks}}}
-| --- | ---: | ---: | ---: |
+| Description | ![comments](assets/comments.svg) | ![stargazers](assets/stargazers.svg) | ![forks](assets/forks.svg)
+| :--- | ---: | ---: | ---: |
 {{#list gists sortBy='comments.totalCount' direction='desc' top=2}}
 | [{{description}}]({{url}}) | {{comments.totalCount}} | {{stargazerCount}} | {{forks.totalCount}}
 {{/list}}
