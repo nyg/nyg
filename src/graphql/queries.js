@@ -1,5 +1,53 @@
 import { gql } from '@apollo/client/core/index.js'
 
+/* Fragments */
+
+export const gqlGistFragment = gql`
+   fragment GistDetail on Gist {
+      id
+      url
+      name
+      description
+      stargazerCount
+      createdAt
+      updatedAt
+      forks(first: 1, orderBy: { direction: DESC, field: CREATED_AT }) {
+         totalCount
+         nodes {
+            createdAt
+            owner { login }
+         }
+      }
+      comments(last: 1) {
+         totalCount
+         nodes {
+            createdAt
+            author { login }
+         }
+      }
+      files {
+         name
+      }
+   }`
+
+export const gqlRepositoryFragment = gql`
+   fragment RepositoryDetail on Repository {
+      id
+      createdAt
+      description
+      forkCount
+      issues { totalCount }
+      name
+      primaryLanguage { name }
+      pullRequests { totalCount }
+      pushedAt
+      stargazerCount
+      updatedAt
+      url
+   }`
+
+/* Queries */
+
 export const gqlUserInfo = gql`{
    viewer {
       id
@@ -31,35 +79,6 @@ export const gqlUserInfo = gql`{
     }
 }`
 
-export const gqlGistFragment = gql`
-   fragment GistDetail on Gist {
-      id
-      url
-      name
-      description
-      stargazerCount
-      createdAt
-      updatedAt
-      forks(first: 1, orderBy: { direction: DESC, field: CREATED_AT }) {
-         totalCount
-         nodes {
-            createdAt
-            owner { login }
-         }
-      }
-      comments(last: 1) {
-         totalCount
-         nodes {
-            createdAt
-            author { login }
-         }
-      }
-      files {
-         name
-      }
-   }
-`
-
 export const gqlUserGists = gql`
    ${gqlGistFragment}
    query Gists($count: Int!, $cursor: String) {
@@ -74,6 +93,26 @@ export const gqlUserGists = gql`
             edges {
                node {
                   ...GistDetail
+               }
+            }
+         }
+      }
+   }`
+
+export const gqlUserRepositories = gql`
+   ${gqlRepositoryFragment}
+   query Repository($count: Int!, $cursor: String) {
+      viewer {
+         id
+         repositories(first: $count, after: $cursor, orderBy: { field: UPDATED_AT, direction: ASC}, privacy: PUBLIC) {
+            totalCount
+            pageInfo {
+               hasNextPage
+               endCursor
+            }
+            edges {
+               node {
+                  ...RepositoryDetail
                }
             }
          }

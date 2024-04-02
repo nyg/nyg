@@ -47,3 +47,10 @@ export const gistHelper = function (context, options) {
       return `Error: no gist found with information: ${context}`
    }
 }
+
+export const sourceHutHelper = function (options) {
+   const name = Handlebars.escapeExpression(options.hash.name)
+   const desc = Handlebars.escapeExpression(options.hash.description)
+   const owner = Handlebars.escapeExpression(options.hash.owner)
+   return new Handlebars.SafeString(`[**\`${name}\`**](https://git.sr.ht/~${owner}/${name}) — *${desc}*`)
+}

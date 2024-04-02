@@ -1,7 +1,7 @@
 import { ApolloClient, gql } from '@apollo/client/core/index.js'
 import { InMemoryCache } from '@apollo/client/cache/index.js'
 import { relayStylePagination } from '@apollo/client/utilities/index.js'
-import { gqlGistFragment, gqlUserGists, gqlUserInfo } from './queries.js'
+import { gqlGistFragment, gqlRepositoryFragment, gqlUserGists, gqlUserRepositories, gqlUserInfo } from './queries.js'
 
 
 function RelayStylePaginationFetcher(observableQuery, extractField) {
@@ -25,26 +25,36 @@ const client = new ApolloClient({
          User: {
             fields: {
                // Note: https://stackoverflow.com/a/78084689
-               gists: relayStylePagination(['privacy'])
+               gists: relayStylePagination(['privacy']),
+               repositories: relayStylePagination(['privacy'])
             }
          }
       }
    })
 })
 
+// Fetch general user information
 await client.query({ query: gqlUserInfo })
 
-const gistQuery = client.watchQuery({ query: gqlUserGists, variables: { count: 30 } })
+// Fetch all public gists
+const gistQuery = client.watchQuery({ query: gqlUserGists, variables: { count: 100 } })
 await new RelayStylePaginationFetcher(gistQuery, data => data.viewer.gists).fetchAll()
 
+// Fetch all public repositories
+const repositoryQuery = client.watchQuery({ query: gqlUserRepositories, variables: { count: 100 } })
+await new RelayStylePaginationFetcher(repositoryQuery, data => data.viewer.repositories).fetchAll()
+
+// Retrieve data from cache
 const { viewer } = await client.readQuery({
    query: gql`{
       viewer {
          publicGists: gists(privacy: PUBLIC) {
             totalCount
-            edges {
-               node
-            }
+            edges { node }
+         }
+         publicRepositories: repositories(privacy: PUBLIC) {
+            totalCount
+            edges { node }
          }
       }
    }`
@@ -53,3 +63,7 @@ const { viewer } = await client.readQuery({
 export const gists = viewer.publicGists.edges
    .map(edge => edge.node.__ref)
    .map(ref => client.readFragment({ id: ref, fragment: gqlGistFragment }))
+
+export const repositories = viewer.publicRepositories.edges
+   .map(edge => edge.node.__ref)
+   .map(ref => client.readFragment({ id: ref, fragment: gqlRepositoryFragment }))
