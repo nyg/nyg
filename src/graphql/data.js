@@ -2,7 +2,6 @@ import { ApolloClient, gql } from '@apollo/client/core/index.js'
 import { InMemoryCache } from '@apollo/client/cache/index.js'
 import { relayStylePagination } from '@apollo/client/utilities/index.js'
 import { gqlGistFragment, gqlUserGists, gqlUserInfo } from './queries.js'
-import { githubToken } from '../../.env.js'
 
 
 function RelayStylePaginationFetcher(observableQuery, extractField) {
@@ -20,7 +19,7 @@ function RelayStylePaginationFetcher(observableQuery, extractField) {
 
 const client = new ApolloClient({
    uri: 'https://api.github.com/graphql',
-   headers: { Authorization: `Bearer ${githubToken}` },
+   headers: { Authorization: `Bearer ${process.env.USER_TOKEN}` },
    cache: new InMemoryCache({
       typePolicies: {
          User: {
