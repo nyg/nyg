@@ -12,28 +12,28 @@
 
 #### Top
 
-- [**`dependabot-vuln-viewer`**](https://github.com/nyg/dependabot-vuln-viewer) — *Overview of Dependabot security alerts for multiple GitHub repositories, uses [Apollo GraphQL](apollographql/apollo-client).*
-- [**`kraken-api-java`**](https://github.com/nyg/kraken-api-java) — *A quickly written Java library for querying the Kraken REST API.*
-- [**`crypto-tools`**](https://github.com/nyg/crypto-tools) — *Some tools for Binance and Kraken accounts.*
+- [**`dependabot-vuln-viewer`**](https://github.com/nyg/dependabot-vuln-viewer) <sup>2☆</sup> — *Displays Dependabot security alerts for multiple GitHub repositories.*
+- [**`kraken-api-java`**](https://github.com/nyg/kraken-api-java) <sup>49☆</sup> — *Java library to query the Kraken REST API.*
+- [**`crypto-tools`**](https://github.com/nyg/crypto-tools) <sup>2☆</sup> — *Miscellaneous cryptocurrency-related tools (formerly binance-staking-overview).*
 
 #### Misc
 
-- [**`HTMLWithImagesToPDF`**](https://github.com/nyg/HTMLWithImagesToPDF) — *Showcasing a bug in iOS when generating a PDF from an HTML page using `UIMarkupTextPrintFormatter`.*
-- [**`opaque-impl`**](https://github.com/nyg/opaque-impl) — *PoC implementation in SageMath of OPAQUE, an asymmetric PAKE protocol.*
+- [**`HTMLWithImagesToPDF`**](https://github.com/nyg/HTMLWithImagesToPDF) <sup>39☆</sup> — *Showcasing a bug in iOS when generating a PDF from an HTML page using UIMarkupTextPrintFormatter.*
+- [**`opaque-impl`**](https://github.com/nyg/opaque-impl) <sup>1☆</sup> — *PoC implementation in SageMath of OPAQUE, an asymmetric PAKE protocol.*
 - [**`so3-support-graphique`**](https://gitlab.com/nyg/so3-support-graphique) — *My Bachelor project consisted of adding GUI support for the school's own operating system ([SO3](smartobjectoriented/so3)) using [LVGL](lvgl/lvgl). The project is hosted [here](https://nyg.gitlab.io/so3-support-graphique/index.html).*
 - [**`maven-basics`**](https://git.sr.ht/~nyg/maven-basics) — *Maven from scratch.*
-- [**`sh`**](https://git.sr.ht/~nyg/sh) — *My very own post-install scripts and dot files, please don't use them.*
+- [**`sh`**](https://git.sr.ht/~nyg/sh) — *My very own post-install scripts and dot files, please don&#x27;t use them.*
 
 #### Cryptocurrency
 
-- [**`yield-borg`**](https://github.com/nyg/yield-borg) — *A graph of SwissBorg's different yield programs.*
-- [**`smart-contracts`**](https://github.com/nyg/smart-contracts) — *Some basic smart contracts in Solidity and Vyper.*
+- [**`yield-borg`**](https://github.com/nyg/yield-borg) — *Chart of the different yields available on the SwissBorg platform.*
+- [**`smart-contracts`**](https://github.com/nyg/smart-contracts) <sup>3☆</sup> — *Set of smart contracts developed for educational purposes.*
 
 #### Dictionary
 
-- [**`wiktionary-to-kindle`**](https://github.com/nyg/wiktionary-to-kindle) — *PoC for converting Wiktionary entries to a .mobi dictionary for Kindle, works but will not render Wiki templates which make it kind of useless. Ideally I should be using Wiktionary HTML dumps.*
+- [**`wiktionary-to-kindle`**](https://github.com/nyg/wiktionary-to-kindle) <sup>29☆</sup> — *Converts Wiktionary entries into a MOBI dictionary for Kindle, works but will not render templates making it useless. Ideally, use Wiktionary HTML dumps.*
 - [**`wiktionarize`**](https://github.com/nyg/wiktionarize) — *Simple web pages that searches words of a text in multiple Wiktionaries.*
-- [**`epub-dictionary`**](https://github.com/nyg/epub-dictionary) — *An abondonned attempt at creating a EPUB library.*
+- [**`epub-dictionary`**](https://github.com/nyg/epub-dictionary) — *An abandoned attempt at creating an EPUB library.*
 
 #### Code examples
 
@@ -44,7 +44,7 @@
 - [**`example-java-querydsl`**](https://git.sr.ht/~nyg/example-java-querydsl) — *An attempt at defining JPA entities in one Maven module and importing this module in another, and generating QueryDSL&#x27;s query type classes from there (works with Java EE but not Jakarta).*
 - [**`example-java-cli-app`**](https://git.sr.ht/~nyg/example-java-cli-app) — *An example app that uses the [Apache Commons CLI library](https://commons.apache.org/proper/commons-cli).*
 - [**`example-js-cli-app`**](https://git.sr.ht/~nyg/example-js-cli-app) — *A simple Node.js command-line app example using ESM.*
-- [**`ncc-pkg-examples`**](https://github.com/nyg/ncc-pkg-examples) — *Trying and failing to package a Next.js app with `ncc` and `pkg`.*
+- [**`ncc-pkg-examples`**](https://github.com/nyg/ncc-pkg-examples) — *Trying and failing to package a Next.js app with ncc and pkg.*
 
 #### Swift gists
 
@@ -69,8 +69,8 @@
 | Description | ![stargazers](assets/stargazers.svg) | ![forks](assets/forks.svg) | ![issues](assets/issues.svg)
 | :--- | ---: | ---: | ---: |
 | [Java library to query the Kraken REST API.](https://github.com/nyg/kraken-api-java) | 49 | 28 | 8
-| [Generate a PDF from an HTML file containing images (iOS).](https://github.com/nyg/HTMLWithImagesToPDF) | 39 | 4 | 1
-| [Converts a set of Wiktionary entries to a .mobi dictionary usable by a Kindle.](https://github.com/nyg/wiktionary-to-kindle) | 29 | 9 | 7
+| [Showcasing a bug in iOS when generating a PDF from an HTML page using UIMarkupTextPrintFormatter.](https://github.com/nyg/HTMLWithImagesToPDF) | 39 | 4 | 1
+| [Converts Wiktionary entries into a MOBI dictionary for Kindle, works but will not render templates making it useless. Ideally, use Wiktionary HTML dumps.](https://github.com/nyg/wiktionary-to-kindle) | 29 | 9 | 7
 
 #### Most starred gists
 
@@ -84,4 +84,3 @@
 
 ![Profile](https://github-readme-stats.vercel.app/api?username=nyg&show_icons=true&show=discussions_started)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nyg&layout=compact)
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=nyg.nyg)
