@@ -48,7 +48,7 @@
 
 #### Swift gists
 
-- {{gist 'AddJPEGComment.swift' showStats=true}}
+- {{gist 'AddJPEGComment.swift'}}
 - {{gist 'EXIFUserComment.swift'}}
 - {{gist 'MemoryAddress.swift'}}
 - {{gist 'iOSCreatePDF.swift'}}
