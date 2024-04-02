@@ -13,7 +13,7 @@
 #### Top
 
 - [**`dependabot-vuln-viewer`**](nyg/dependabot-vuln-viewer) — *Overview of Dependabot security alerts for multiple GitHub repositories, uses [Apollo GraphQL](apollographql/apollo-client).*
-- [**`kraken-api-java`**](nyg/kraken-api-java) — *A quickly written Java library for querying the Kraken REST API. Has 49 starts, not sure why though.*
+- [**`kraken-api-java`**](nyg/kraken-api-java) — *A quickly written Java library for querying the Kraken REST API.*
 - [**`crypto-tools`**](nyg/crypto-tools) — *Some tools for Binance and Kraken accounts.*
 
 #### Misc
@@ -48,11 +48,16 @@
 
 #### Gists
 
-- [**`pdk.c`**](https://gist.github.com/nyg/e366c27a70a77bf06581a0e6a8211cc9) — *Create a password-derived key using libsodium.*
-- [**`AddJPEGComment.swift`**](https://gist.github.com/nyg/bdeae8190a41b4b56bde8e13dd471ecc) — *Add a JPEG comment marker to file in pure Swift.*
-- [**`EXIFUserComment.swift`**](https://gist.github.com/nyg/c90f36abbd30f72c8b6681ef23db886b) — *Get and set an EXIF UserComment to a JPEG image using the ImageIO framework.*
-- [**`uptime.c`**](https://gist.github.com/nyg/dbdef21a1a0632c389d4d756d4fc1c0d) — *Get boot time and uptime on macOS in C.*
-- [**`Uptime.swift`**](https://gist.github.com/nyg/d81308a92fbf7e9c44c5f72db5ee2171) — *Get boot time and uptime for macOS & iOS.*
+- {{gist 'AllJCAServices.java'}}
+- {{gist 'AddJPEGComment.swift'}}
+- {{gist 'EXIFUserComment.swift'}}
+- {{gist 'MemoryAddress.swift'}}
+- {{gist 'iOSCreatePDF.swift'}}
+- {{gist 'Uptime.swift'}}
+- {{gist 'uptime.c'}}
+- {{gist 'pdk.c'}}
+- {{gist 'fk_generate_delete.sql'}}
+- {{gist 'fk_delete_recursive.sql'}}
 
 ### Dynamic statistics
 

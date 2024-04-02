@@ -1,3 +1,6 @@
+import Handlebars from 'handlebars'
+
+
 const compare = (items) => {
    const [a, b] = items
    if (!b) {
@@ -18,4 +21,20 @@ export const listBlockHelper = function (context, options) {
       .slice(0, length)
       .map(item => options.fn(item))
       .join('')
+}
+
+export const gistHelper = function (context, options) {
+   const render = gist => new Handlebars.SafeString(`[**\`${gist.files[0].name}\`**](${gist.url}) — *${gist.description}*`)
+   const gistWithFileName = options.data.root.gists.filter(gist => gist.files[0].name === context)[0]
+   const gistWithName = options.data.root.gists.filter(gist => gist.name === context)[0]
+
+   if (gistWithFileName) {
+      return render(gistWithFileName)
+   }
+   else if (gistWithName) {
+      return render(gistWithName)
+   }
+   else {
+      return `Error: no gist found with information: ${context}`
+   }
 }

@@ -35,6 +35,7 @@ export const gqlGistFragment = gql`
    fragment GistDetail on Gist {
       id
       url
+      name
       description
       stargazerCount
       createdAt
@@ -52,6 +53,9 @@ export const gqlGistFragment = gql`
             createdAt
             author { login }
          }
+      }
+      files {
+         name
       }
    }
 `
