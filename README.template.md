@@ -58,7 +58,7 @@
 
 #### Most starred gists
 
-| Description | Stargazers | Comments | Forks
+| Description | {{{icons.stargazers}}} | {{{icons.comments}}} | {{{icons.forks}}}
 | --- | ---: | ---: | ---: |
 {{#list gists sortBy='stargazerCount' direction='desc' top=3}}
 | [{{description}}]({{url}}) | {{stargazerCount}} | {{comments.totalCount}} | {{forks.totalCount}}
@@ -66,7 +66,7 @@
 
 #### Most forked gists
 
-| Description | Forks | Stargazers | Comments
+| Description | {{{icons.forks}}} | {{{icons.stargazers}}} | {{{icons.comments}}}
 | --- | ---: | ---: | ---: |
 {{#list gists sortBy='forks.totalCount' direction='desc' top=3}}
 | [{{description}}]({{url}}) | {{forks.totalCount}} | {{stargazerCount}} | {{comments.totalCount}}
@@ -74,7 +74,7 @@
 
 #### Most commented gist
 
-| Description | Comments | Stargazers | Forks
+| Description | {{{icons.comments}}} | {{{icons.stargazers}}} | {{{icons.forks}}}
 | --- | ---: | ---: | ---: |
 {{#list gists sortBy='comments.totalCount' direction='desc' top=2}}
 | [{{description}}]({{url}}) | {{comments.totalCount}} | {{stargazerCount}} | {{forks.totalCount}}

@@ -60,7 +60,7 @@
 
 | Description | Stargazers | Comments | Forks
 | --- | ---: | ---: | ---: |
-| [iOS, Swift: Create a PDF file from an HTML string](https://gist.github.com/b8cd742250826cb1471f) | 0 | 29 | 14
+| [iOS, Swift: Create a PDF file from an HTML string](https://gist.github.com/b8cd742250826cb1471f) | 75 | 29 | 14
 | [Get the memory address of both class and structure instances in Swift.](https://gist.github.com/b6a80bf79e72599230c312c69e963e60) | 34 | 0 | 8
 | [Get and set an EXIF UserComment to a JPEG image using the ImageIO framework.](https://gist.github.com/c90f36abbd30f72c8b6681ef23db886b) | 10 | 0 | 2
 
