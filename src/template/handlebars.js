@@ -48,6 +48,22 @@ export const gistHelper = function (context, options) {
    }
 }
 
+export const githubRepositoryHelper = function (context, options) {
+
+   const render = repo => {
+      const desc = Handlebars.escapeExpression(repo.description)
+      const stars = options.hash.showStars !== false && repo.stargazerCount > 0
+         ? ` <sup>${repo.stargazerCount}☆</sup>`
+         : ''
+      return new Handlebars.SafeString(`[**\`${repo.name}\`**](${repo.url})${stars} — *${desc}*`)
+   }
+
+   const repository = options.data.root.repositories.filter(repo => repo.name === context)[0]
+   return repository
+      ? render(repository)
+      : `Error: no gist found with information: ${context}`
+}
+
 export const sourceHutHelper = function (options) {
    const name = Handlebars.escapeExpression(options.hash.name)
    const desc = Handlebars.escapeExpression(options.hash.description)

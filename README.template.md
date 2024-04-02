@@ -12,28 +12,28 @@
 
 #### Top
 
-- [**`dependabot-vuln-viewer`**](https://github.com/nyg/dependabot-vuln-viewer) — *Overview of Dependabot security alerts for multiple GitHub repositories, uses [Apollo GraphQL](apollographql/apollo-client).*
-- [**`kraken-api-java`**](https://github.com/nyg/kraken-api-java) — *A quickly written Java library for querying the Kraken REST API.*
-- [**`crypto-tools`**](https://github.com/nyg/crypto-tools) — *Some tools for Binance and Kraken accounts.*
+- {{repo 'dependabot-vuln-viewer'}}
+- {{repo 'kraken-api-java'}}
+- {{repo 'crypto-tools'}}
 
 #### Misc
 
-- [**`HTMLWithImagesToPDF`**](https://github.com/nyg/HTMLWithImagesToPDF) — *Showcasing a bug in iOS when generating a PDF from an HTML page using `UIMarkupTextPrintFormatter`.*
-- [**`opaque-impl`**](https://github.com/nyg/opaque-impl) — *PoC implementation in SageMath of OPAQUE, an asymmetric PAKE protocol.*
+- {{repo 'HTMLWithImagesToPDF'}}
+- {{repo 'opaque-impl'}}
 - [**`so3-support-graphique`**](https://gitlab.com/nyg/so3-support-graphique) — *My Bachelor project consisted of adding GUI support for the school's own operating system ([SO3](smartobjectoriented/so3)) using [LVGL](lvgl/lvgl). The project is hosted [here](https://nyg.gitlab.io/so3-support-graphique/index.html).*
-- [**`maven-basics`**](https://git.sr.ht/~nyg/maven-basics) — *Maven from scratch.*
-- [**`sh`**](https://git.sr.ht/~nyg/sh) — *My very own post-install scripts and dot files, please don't use them.*
+- {{srht owner='nyg' name='maven-basics' description='Maven from scratch.'}}
+- {{srht owner='nyg' name='sh' description='My very own post-install scripts and dot files, please don\'t use them.'}}
 
 #### Cryptocurrency
 
-- [**`yield-borg`**](https://github.com/nyg/yield-borg) — *A graph of SwissBorg's different yield programs.*
-- [**`smart-contracts`**](https://github.com/nyg/smart-contracts) — *Some basic smart contracts in Solidity and Vyper.*
+- {{repo 'yield-borg'}}
+- {{repo 'smart-contracts'}}
 
 #### Dictionary
 
-- [**`wiktionary-to-kindle`**](https://github.com/nyg/wiktionary-to-kindle) — *PoC for converting Wiktionary entries to a .mobi dictionary for Kindle, works but will not render Wiki templates which make it kind of useless. Ideally I should be using Wiktionary HTML dumps.*
-- [**`wiktionarize`**](https://github.com/nyg/wiktionarize) — *Simple web pages that searches words of a text in multiple Wiktionaries.*
-- [**`epub-dictionary`**](https://github.com/nyg/epub-dictionary) — *An abondonned attempt at creating a EPUB library.*
+- {{repo 'wiktionary-to-kindle'}}
+- {{repo 'wiktionarize'}}
+- {{repo 'epub-dictionary'}}
 
 #### Code examples
 
@@ -44,7 +44,7 @@
 - {{srht owner='nyg' name='example-java-querydsl' description='An attempt at defining JPA entities in one Maven module and importing this module in another, and generating QueryDSL\'s query type classes from there (works with Java EE but not Jakarta).'}}
 - {{srht owner='nyg' name='example-java-cli-app' description='An example app that uses the [Apache Commons CLI library](https://commons.apache.org/proper/commons-cli).'}}
 - {{srht owner='nyg' name='example-js-cli-app' description='A simple Node.js command-line app example using ESM.'}}
-- [**`ncc-pkg-examples`**](https://github.com/nyg/ncc-pkg-examples) — *Trying and failing to package a Next.js app with `ncc` and `pkg`.*
+- {{repo 'ncc-pkg-examples'}}
 
 #### Swift gists
 
@@ -84,4 +84,3 @@
 
 ![Profile](https://github-readme-stats.vercel.app/api?username=nyg&show_icons=true&show=discussions_started)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nyg&layout=compact)
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=nyg.nyg)
