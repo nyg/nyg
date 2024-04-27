@@ -35,7 +35,7 @@ jobs:
       - name: Commit changes if any
         # https://github.com/actions/checkout/pull/1184
         run: |
-          [ -z "$(git status --porcelain)" ] && exit
+          [ -z "$(git status --porcelain | grep README.md)" ] && exit
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add README.md
