@@ -70,13 +70,13 @@
 | :--- | ---: | ---: | ---: |
 | [Java library to query the Kraken REST API.](https://github.com/nyg/kraken-api-java) | 53 | 28 | 9
 | [Showcasing a bug in iOS when generating a PDF from an HTML page using UIMarkupTextPrintFormatter.](https://github.com/nyg/HTMLWithImagesToPDF) | 42 | 4 | 1
-| [Converts Wiktionary entries into a MOBI dictionary for Kindle, works but will not render templates making it useless. Ideally, use Wiktionary HTML dumps.](https://github.com/nyg/wiktionary-to-kindle) | 32 | 8 | 7
+| [Converts Wiktionary entries into a MOBI dictionary for Kindle, works but will not render templates making it useless. Ideally, use Wiktionary HTML dumps.](https://github.com/nyg/wiktionary-to-kindle) | 32 | 8 | 8
 
 #### Most starred gists
 
 | Description | ![stargazers](assets/stargazers.svg) | ![forks](assets/forks.svg) | ![comments](assets/comments.svg)
 | :--- | ---: | ---: | ---: |
-| [iOS, Swift: Create a PDF file from an HTML string.](https://gist.github.com/b8cd742250826cb1471f) | 75 | 14 | 29
+| [iOS, Swift: Create a PDF file from an HTML string.](https://gist.github.com/b8cd742250826cb1471f) | 75 | 14 | 30
 | [Get the memory address of both class and structure instances in Swift.](https://gist.github.com/b6a80bf79e72599230c312c69e963e60) | 36 | 10 | 0
 | [Get and set an EXIF UserComment to a JPEG image using the ImageIO framework.](https://gist.github.com/c90f36abbd30f72c8b6681ef23db886b) | 11 | 3 | 0
 
