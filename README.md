@@ -56,7 +56,7 @@
 
 #### Misc gists
 
-- [**`uptime.c`**](https://gist.github.com/dbdef21a1a0632c389d4d756d4fc1c0d) — *Get boot time and uptime on macOS in C.*
+- [**`uptime.c`**](https://gist.github.com/dbdef21a1a0632c389d4d756d4fc1c0d) <sup>1☆</sup> — *Get boot time and uptime on macOS in C.*
 - [**`pdk.c`**](https://gist.github.com/e366c27a70a77bf06581a0e6a8211cc9) — *Create a password-derived key using libsodium.*
 - [**`AllJCAServices.java`**](https://gist.github.com/feedae9fd75fee0f27f788b2dc155633) — *List all JCA security provider services and export them to a CSV file.*
 - [**`fk_generate_delete.sql`**](https://gist.github.com/eb091e6c7c59b71fa4c9d49860574d2c) — *Oracle: outputs the necessary delete statements to delete a row and all rows preventing it from being deleted because of &quot;child record found&quot; error.*
