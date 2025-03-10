@@ -18,7 +18,7 @@
 
 #### Misc
 
-- [**`HTMLWithImagesToPDF`**](https://github.com/nyg/HTMLWithImagesToPDF) <sup>42☆</sup> — *Showcasing a bug in iOS when generating a PDF from an HTML page using UIMarkupTextPrintFormatter.*
+- [**`HTMLWithImagesToPDF`**](https://github.com/nyg/HTMLWithImagesToPDF) <sup>43☆</sup> — *Showcasing a bug in iOS when generating a PDF from an HTML page using UIMarkupTextPrintFormatter.*
 - [**`opaque-impl`**](https://github.com/nyg/opaque-impl) <sup>1☆</sup> — *PoC implementation in SageMath of OPAQUE, an asymmetric PAKE protocol.*
 - [**`so3-support-graphique`**](https://gitlab.com/nyg/so3-support-graphique) — *My Bachelor project consisted of adding GUI support for the school's own operating system ([SO3](smartobjectoriented/so3)) using [LVGL](lvgl/lvgl). The project is hosted [here](https://nyg.gitlab.io/so3-support-graphique/index.html).*
 - [**`maven-basics`**](https://git.sr.ht/~nyg/maven-basics) — *Maven from scratch.*
@@ -31,7 +31,7 @@
 
 #### Dictionary
 
-- [**`wiktionary-to-kindle`**](https://github.com/nyg/wiktionary-to-kindle) <sup>35☆</sup> — *Converts Wiktionary entries into a MOBI dictionary for Kindle, works but will not render templates making it useless. Ideally, use Wiktionary HTML dumps.*
+- [**`wiktionary-to-kindle`**](https://github.com/nyg/wiktionary-to-kindle) <sup>36☆</sup> — *Converts Wiktionary entries into a MOBI dictionary for Kindle, works but will not render templates making it useless. Ideally, use Wiktionary HTML dumps.*
 - [**`wiktionarize`**](https://github.com/nyg/wiktionarize) — *Simple web pages that searches words of a text in multiple Wiktionaries.*
 - [**`epub-dictionary`**](https://github.com/nyg/epub-dictionary) — *An abandoned attempt at creating an EPUB library.*
 
@@ -69,8 +69,8 @@
 | Description | ![stargazers](assets/stargazers.svg) | ![forks](assets/forks.svg) | ![issues](assets/issues.svg)
 | :--- | ---: | ---: | ---: |
 | [Java library to query the Kraken REST API.](https://github.com/nyg/kraken-api-java) | 56 | 28 | 9
-| [Showcasing a bug in iOS when generating a PDF from an HTML page using UIMarkupTextPrintFormatter.](https://github.com/nyg/HTMLWithImagesToPDF) | 42 | 4 | 1
-| [Converts Wiktionary entries into a MOBI dictionary for Kindle, works but will not render templates making it useless. Ideally, use Wiktionary HTML dumps.](https://github.com/nyg/wiktionary-to-kindle) | 35 | 8 | 8
+| [Showcasing a bug in iOS when generating a PDF from an HTML page using UIMarkupTextPrintFormatter.](https://github.com/nyg/HTMLWithImagesToPDF) | 43 | 4 | 1
+| [Converts Wiktionary entries into a MOBI dictionary for Kindle, works but will not render templates making it useless. Ideally, use Wiktionary HTML dumps.](https://github.com/nyg/wiktionary-to-kindle) | 36 | 8 | 8
 
 #### Most starred gists
 
