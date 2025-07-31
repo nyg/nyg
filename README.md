@@ -14,7 +14,7 @@
 
 - [**`dependabot-vuln-viewer`**](https://github.com/nyg/dependabot-vuln-viewer) <sup>2☆</sup> — *Displays Dependabot security alerts for multiple GitHub repositories.*
 - [**`kraken-api-java`**](https://github.com/nyg/kraken-api-java) <sup>58☆</sup> — *Java library to query the Kraken REST API.*
-- [**`crypto-tools`**](https://github.com/nyg/crypto-tools) <sup>3☆</sup> — *Miscellaneous cryptocurrency-related tools (formerly binance-staking-overview).*
+- [**`crypto-tools`**](https://github.com/nyg/crypto-tools) <sup>2☆</sup> — *Miscellaneous cryptocurrency-related tools (formerly binance-staking-overview).*
 
 #### Misc
 
