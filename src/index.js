@@ -1,7 +1,7 @@
+import { gistHelper, githubRepositoryHelper, listBlockHelper, sourceHutHelper } from './template/handlebars.js'
+import { gists, repositories } from './graphql/data.js'
 import { readFile, writeFile } from 'node:fs/promises'
 import Handlebars from 'handlebars'
-import { gistHelper, listBlockHelper, sourceHutHelper, githubRepositoryHelper } from './template/handlebars.js'
-import { gists, repositories } from './graphql/data.js'
 
 
 Handlebars.registerHelper('list', listBlockHelper)
