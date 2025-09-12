@@ -28,7 +28,7 @@ jobs:
           run_install: true
       - name: Generate README.md
         run: |
-          pnpm prod
+          pnpm generate
         env:
           # note: GITHUB_TOKEN doesn't seem to work due to permissions
           USER_TOKEN: ${{ secrets.USER_TOKEN }}
