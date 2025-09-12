@@ -1,9 +1,9 @@
 import 'dotenv/config'
 
 import { ApolloClient, gql, HttpLink } from '@apollo/client'
+import { gqlGistFragment, gqlRepositoryFragment, gqlUserGists, gqlUserInfo, gqlUserRepositories } from './queries.js'
 import { InMemoryCache } from '@apollo/client/cache'
 import { relayStylePagination } from '@apollo/client/utilities'
-import { gqlGistFragment, gqlRepositoryFragment, gqlUserGists, gqlUserRepositories, gqlUserInfo } from './queries.js'
 
 
 function RelayStylePaginationFetcher(observableQuery, extractField) {

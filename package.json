@@ -26,6 +26,7 @@
       "eslint": "9.32.0"
    },
    "scripts": {
-      "generate": "node src/index.js"
+      "generate": "node src/index.js",
+      "lint": "eslint . --fix"
    }
 }
