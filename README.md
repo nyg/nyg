@@ -13,7 +13,7 @@
 #### Top
 
 - [**`dependabot-vuln-viewer`**](https://github.com/nyg/dependabot-vuln-viewer) <sup>2☆</sup> — *Displays Dependabot security alerts for multiple GitHub repositories.*
-- [**`kraken-api-java`**](https://github.com/nyg/kraken-api-java) <sup>58☆</sup> — *Java library to query the Kraken REST API.*
+- [**`kraken-api-java`**](https://github.com/nyg/kraken-api-java) <sup>59☆</sup> — *Java library to query the Kraken REST API.*
 - [**`crypto-tools`**](https://github.com/nyg/crypto-tools) <sup>2☆</sup> — *Miscellaneous cryptocurrency-related tools (formerly binance-staking-overview).*
 
 #### Misc
@@ -68,7 +68,7 @@
 
 | Description | ![stargazers](assets/stargazers.svg) | ![forks](assets/forks.svg) | ![issues](assets/issues.svg)
 | :--- | ---: | ---: | ---: |
-| [Java library to query the Kraken REST API.](https://github.com/nyg/kraken-api-java) | 58 | 28 | 9
+| [Java library to query the Kraken REST API.](https://github.com/nyg/kraken-api-java) | 59 | 28 | 9
 | [Showcasing a bug in iOS when generating a PDF from an HTML page using UIMarkupTextPrintFormatter.](https://github.com/nyg/HTMLWithImagesToPDF) | 44 | 4 | 1
 | [Converts Wiktionary entries into a MOBI dictionary for Kindle, works but will not render templates making it useless. Ideally, use Wiktionary HTML dumps.](https://github.com/nyg/wiktionary-to-kindle) | 39 | 8 | 8
 
