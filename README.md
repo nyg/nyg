@@ -26,7 +26,7 @@
 
 #### Cryptocurrency
 
-- [**`yield-borg`**](https://github.com/nyg/yield-borg) — *Chart of the different yields available on the SwissBorg platform.*
+- [**`yield-borg`**](https://github.com/nyg/yield-borg) — *Historical charts of the yields available on the SwissBorg platform.*
 - [**`smart-contracts`**](https://github.com/nyg/smart-contracts) <sup>3☆</sup> — *Set of smart contracts developed for educational purposes.*
 
 #### Dictionary
