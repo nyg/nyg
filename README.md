@@ -50,7 +50,7 @@
 
 - [**`AddJPEGComment.swift`**](https://gist.github.com/bdeae8190a41b4b56bde8e13dd471ecc) <sup>2☆</sup> — *Add a JPEG comment marker to file in pure Swift.*
 - [**`EXIFUserComment.swift`**](https://gist.github.com/c90f36abbd30f72c8b6681ef23db886b) <sup>11☆</sup> — *Get and set an EXIF UserComment to a JPEG image using the ImageIO framework.*
-- [**`MemoryAddress.swift`**](https://gist.github.com/b6a80bf79e72599230c312c69e963e60) <sup>36☆</sup> — *Get the memory address of both class and structure instances in Swift.*
+- [**`MemoryAddress.swift`**](https://gist.github.com/b6a80bf79e72599230c312c69e963e60) <sup>37☆</sup> — *Get the memory address of both class and structure instances in Swift.*
 - [**`iOSCreatePDF.swift`**](https://gist.github.com/b8cd742250826cb1471f) <sup>75☆</sup> — *iOS, Swift: Create a PDF file from an HTML string.*
 - [**`Uptime.swift`**](https://gist.github.com/d81308a92fbf7e9c44c5f72db5ee2171) <sup>4☆</sup> — *Get boot time and uptime for macOS &amp; iOS.*
 
@@ -77,7 +77,7 @@
 | Description | ![stargazers](assets/stargazers.svg) | ![forks](assets/forks.svg) | ![comments](assets/comments.svg)
 | :--- | ---: | ---: | ---: |
 | [iOS, Swift: Create a PDF file from an HTML string.](https://gist.github.com/b8cd742250826cb1471f) | 75 | 13 | 30
-| [Get the memory address of both class and structure instances in Swift.](https://gist.github.com/b6a80bf79e72599230c312c69e963e60) | 36 | 10 | 0
+| [Get the memory address of both class and structure instances in Swift.](https://gist.github.com/b6a80bf79e72599230c312c69e963e60) | 37 | 10 | 0
 | [Get and set an EXIF UserComment to a JPEG image using the ImageIO framework.](https://gist.github.com/c90f36abbd30f72c8b6681ef23db886b) | 11 | 3 | 0
 
 #### Misc
