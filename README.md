@@ -77,7 +77,7 @@
 
 #### Cards (by *[readme-tools/github-readme-stats](https://github.com/readme-tools/github-readme-stats)*)
 
-<div align="center">
+<div>
   <img src="assets/cards/stats.svg" alt="Profile" />
   <img src="assets/cards/top-langs.svg" alt="Top Langs" />
 </div>
