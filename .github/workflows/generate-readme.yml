@@ -55,11 +55,10 @@ jobs:
       - name: Commit changes if any
         # https://github.com/actions/checkout/pull/1184
         run: |
-          ls -lAF . assets
-          git diff
-          git diff --quiet HEAD && exit
+          ls -lAF . assets assets/cards
+          git status -s
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add README.md assets/cards
-          git commit -m "Update README.md and cards"
+          git commit -m "Update README.md and cards" || exit 0
           git push
