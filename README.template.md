@@ -2,7 +2,7 @@
 
 #### Personal knowledge base: [`notes.andstuff.dev`](https://notes.andstuff.dev)
 
-#### Most interestign projects
+#### Most interesting projects
 
 - {{repo 'scrapy-seleniumbase-cdp'}}
 - {{repo 'autoscout24-trends'}}
