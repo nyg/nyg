@@ -11,7 +11,7 @@
 - [**`crypto-tools`**](https://github.com/nyg/crypto-tools) <sup>2☆</sup> — *Miscellaneous cryptocurrency-related tools.*
 - [**`yield-borg`**](https://github.com/nyg/yield-borg) — *Historical charts of the yields available on the SwissBorg platform.*
 
-I've also contributed code to [jmxterm](https://github.com/jiaqi/jmxterm) and it's more active fork: [LeMyst/jmxterm](https://github.com/LeMyst/jmxterm).
+I've also contributed code to [jmxterm](https://github.com/jiaqi/jmxterm) and its more active fork: [LeMyst/jmxterm](https://github.com/LeMyst/jmxterm).
 
 #### Misc
 
