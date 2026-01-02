@@ -17,21 +17,41 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v6
+
       - name: Install Node.js
         uses: actions/setup-node@v6
         with:
           node-version: latest
+
       - name: Install pnpm
         uses: pnpm/action-setup@v3
         with:
           version: latest
           run_install: true
+
+      - name: Generate stats card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: stats
+          options: show_icons=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage
+          path: assets/cards/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate top languages card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          options: layout=compact
+          path: assets/cards/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Generate README.md
         run: |
           pnpm generate
         env:
           # note: GITHUB_TOKEN doesn't seem to work due to permissions
           USER_TOKEN: ${{ secrets.USER_TOKEN }}
+
       - name: Commit changes if any
         # https://github.com/actions/checkout/pull/1184
         run: |

@@ -2,7 +2,7 @@
 
 #### Personal knowledge base: [`notes.andstuff.dev`](https://notes.andstuff.dev)
 
-#### Most interesting projects
+#### Top projects
 
 - {{repo 'scrapy-seleniumbase-cdp'}}
 - {{repo 'autoscout24-trends'}}
@@ -11,7 +11,10 @@
 - {{repo 'crypto-tools'}}
 - {{repo 'yield-borg'}}
 
-I've also contributed code to [jmxterm](https://github.com/jiaqi/jmxterm) and its more active fork: [LeMyst/jmxterm](https://github.com/LeMyst/jmxterm).
+#### Contributions
+
+- [LeMyst/jmxterm](https://github.com/LeMyst/jmxterm) *(active fork)*
+- [jiaqi/jmxterm](https://github.com/jiaqi/jmxterm)
 
 #### Misc
 
@@ -72,7 +75,9 @@ I've also contributed code to [jmxterm](https://github.com/jiaqi/jmxterm) and it
 | [{{description}}]({{url}}) | {{stargazerCount}} | {{forks.totalCount}} | {{comments.totalCount}}
 {{/list}}
 
-#### Misc
+#### Cards (by *[readme-tools/github-readme-stats](https://github.com/readme-tools/github-readme-stats)*)
 
-![Profile](https://github-readme-stats.vercel.app/api?username=nyg&show_icons=true&show=discussions_started)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nyg&layout=compact)
+<div align="center">
+  <img src="assets/cards/stats.svg" alt="Profile" />
+  <img src="assets/cards/top-langs.svg" alt="Top Langs" />
+</div>
