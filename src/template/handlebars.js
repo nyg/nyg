@@ -61,7 +61,7 @@ export const githubRepositoryHelper = function (context, options) {
    const repository = options.data.root.repositories.filter(repo => repo.name === context)[0]
    return repository
       ? render(repository)
-      : `Error: no gist found with information: ${context}`
+      : `Error: no repo found with information: ${context}`
 }
 
 export const sourceHutHelper = function (options) {
