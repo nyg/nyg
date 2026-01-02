@@ -2,7 +2,7 @@
 
 #### Personal knowledge base: [`notes.andstuff.dev`](https://notes.andstuff.dev)
 
-#### Most interesting projects
+#### Top projects
 
 - [**`scrapy-seleniumbase-cdp`**](https://github.com/nyg/scrapy-seleniumbase-cdp) <sup>1☆</sup> — *Scrapy downloader middleware that uses SeleniumBase&#x27;s pure CDP mode to make requests.*
 - [**`autoscout24-trends`**](https://github.com/nyg/autoscout24-trends) — *Track AutoScout24 listings over time to visualize price trends and market changes for specific car models.*
@@ -11,7 +11,10 @@
 - [**`crypto-tools`**](https://github.com/nyg/crypto-tools) <sup>2☆</sup> — *Miscellaneous cryptocurrency-related tools.*
 - [**`yield-borg`**](https://github.com/nyg/yield-borg) — *Historical charts of the yields available on the SwissBorg platform.*
 
-I've also contributed code to [jmxterm](https://github.com/jiaqi/jmxterm) and its more active fork: [LeMyst/jmxterm](https://github.com/LeMyst/jmxterm).
+#### Contributions
+
+- [LeMyst/jmxterm](https://github.com/LeMyst/jmxterm) *(active fork)*
+- [jiaqi/jmxterm](https://github.com/jiaqi/jmxterm)
 
 #### Misc
 
@@ -72,7 +75,9 @@ I've also contributed code to [jmxterm](https://github.com/jiaqi/jmxterm) and it
 | [Get the memory address of both class and structure instances in Swift.](https://gist.github.com/b6a80bf79e72599230c312c69e963e60) | 37 | 10 | 0
 | [Get and set an EXIF UserComment to a JPEG image using the ImageIO framework.](https://gist.github.com/c90f36abbd30f72c8b6681ef23db886b) | 11 | 3 | 0
 
-#### Misc
+#### Cards (by *[readme-tools/github-readme-stats](https://github.com/readme-tools/github-readme-stats)*)
 
-![Profile](https://github-readme-stats.vercel.app/api?username=nyg&show_icons=true&show=discussions_started)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nyg&layout=compact)
+<div align="center">
+  <img src="assets/cards/stats.svg" alt="Profile" />
+  <img src="assets/cards/top-langs.svg" alt="Top Langs" />
+</div>
