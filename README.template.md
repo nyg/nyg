@@ -11,7 +11,7 @@
 - {{repo 'crypto-tools'}}
 - {{repo 'yield-borg'}}
 
-I've also contributed code to [jmxterm](https://github.com/jiaqi/jmxterm) and it's more active fork: [LeMyst/jmxterm](https://github.com/LeMyst/jmxterm).
+I've also contributed code to [jmxterm](https://github.com/jiaqi/jmxterm) and its more active fork: [LeMyst/jmxterm](https://github.com/LeMyst/jmxterm).
 
 #### Misc
 
