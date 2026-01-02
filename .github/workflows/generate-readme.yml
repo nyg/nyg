@@ -33,7 +33,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: show_icons=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage
+          options: show_icons=true&include_all_commits=true&show=discussions_started,discussions_answered,prs_merged
           path: assets/cards/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -55,8 +55,6 @@ jobs:
       - name: Commit changes if any
         # https://github.com/actions/checkout/pull/1184
         run: |
-          ls -lAF . assets assets/cards
-          git status -s
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add README.md assets/cards
