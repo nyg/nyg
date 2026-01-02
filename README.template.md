@@ -2,19 +2,16 @@
 
 #### Personal knowledge base: [`notes.andstuff.dev`](https://notes.andstuff.dev)
 
-- 2024-03-31 – [Releasing Java softwares with the Maven release plugin](https://notes.andstuff.dev/prog/java/release/)
-- 2023-05-14 – [JDBC: showing different ways of obtaining a database connection](https://notes.andstuff.dev/prog/java/jdbc)
-- 2023-03-18 – [Log4j2: logging events in different files based on ThreadContext variables](https://notes.andstuff.dev/prog/java/log4j2)
-- 2023-02-25 – [Configuring `sshpass` with `gpg` and Zsh completion](https://notes.andstuff.dev/softwares/sshpass)
-- 2022-12-04 – [SUID, GUID & Sticky bits explanation](https://notes.andstuff.dev/os/linux/suid)
-- 2022-12-04 – [Maven basics (*work in progess*)](https://notes.andstuff.dev/softwares/maven)
-- *and many other incomplete notes…*
+#### Most interestign projects
 
-#### Top
-
+- {{repo 'scrapy-seleniumbase-cdp'}}
+- {{repo 'autoscout24-trends'}}
 - {{repo 'dependabot-vuln-viewer'}}
 - {{repo 'kraken-api-java'}}
 - {{repo 'crypto-tools'}}
+- {{repo 'yield-borg'}}
+
+I've also contributed code to [jmxterm](https://github.com/jiaqi/jmxterm) and it's more active fork: [LeMyst/jmxterm](https://github.com/LeMyst/jmxterm).
 
 #### Misc
 
@@ -23,11 +20,6 @@
 - [**`so3-support-graphique`**](https://gitlab.com/nyg/so3-support-graphique) — *My Bachelor project consisted of adding GUI support for the school's own operating system ([SO3](smartobjectoriented/so3)) using [LVGL](lvgl/lvgl). The project is hosted [here](https://nyg.gitlab.io/so3-support-graphique/index.html).*
 - {{srht owner='nyg' name='maven-basics' description='Maven from scratch.'}}
 - {{srht owner='nyg' name='sh' description='My very own post-install scripts and dot files, please don\'t use them.'}}
-
-#### Cryptocurrency
-
-- {{repo 'yield-borg'}}
-- {{repo 'smart-contracts'}}
 
 #### Dictionary
 
