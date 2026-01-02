@@ -2,19 +2,16 @@
 
 #### Personal knowledge base: [`notes.andstuff.dev`](https://notes.andstuff.dev)
 
-- 2024-03-31 – [Releasing Java softwares with the Maven release plugin](https://notes.andstuff.dev/prog/java/release/)
-- 2023-05-14 – [JDBC: showing different ways of obtaining a database connection](https://notes.andstuff.dev/prog/java/jdbc)
-- 2023-03-18 – [Log4j2: logging events in different files based on ThreadContext variables](https://notes.andstuff.dev/prog/java/log4j2)
-- 2023-02-25 – [Configuring `sshpass` with `gpg` and Zsh completion](https://notes.andstuff.dev/softwares/sshpass)
-- 2022-12-04 – [SUID, GUID & Sticky bits explanation](https://notes.andstuff.dev/os/linux/suid)
-- 2022-12-04 – [Maven basics (*work in progess*)](https://notes.andstuff.dev/softwares/maven)
-- *and many other incomplete notes…*
+#### Most interestign projects
 
-#### Top
-
+- [**`scrapy-seleniumbase-cdp`**](https://github.com/nyg/scrapy-seleniumbase-cdp) <sup>1☆</sup> — *Scrapy downloader middleware that uses SeleniumBase&#x27;s pure CDP mode to make requests*
+- [**`autoscout24-trends`**](https://github.com/nyg/autoscout24-trends) — *Track AutoScout24 listings over time to visualize price trends and market changes for specific car models.*
 - [**`dependabot-vuln-viewer`**](https://github.com/nyg/dependabot-vuln-viewer) <sup>2☆</sup> — *Displays Dependabot security alerts for multiple GitHub repositories.*
 - [**`kraken-api-java`**](https://github.com/nyg/kraken-api-java) <sup>59☆</sup> — *Java library to query the Kraken REST API.*
-- [**`crypto-tools`**](https://github.com/nyg/crypto-tools) <sup>2☆</sup> — *Miscellaneous cryptocurrency-related tools (formerly binance-staking-overview).*
+- [**`crypto-tools`**](https://github.com/nyg/crypto-tools) <sup>2☆</sup> — *Miscellaneous cryptocurrency-related tools.*
+- [**`yield-borg`**](https://github.com/nyg/yield-borg) — *Historical charts of the yields available on the SwissBorg platform.*
+
+I've also contributed code to [jmxterm](https://github.com/jiaqi/jmxterm) and it's more active fork: [LeMyst/jmxterm](https://github.com/LeMyst/jmxterm).
 
 #### Misc
 
@@ -23,11 +20,6 @@
 - [**`so3-support-graphique`**](https://gitlab.com/nyg/so3-support-graphique) — *My Bachelor project consisted of adding GUI support for the school's own operating system ([SO3](smartobjectoriented/so3)) using [LVGL](lvgl/lvgl). The project is hosted [here](https://nyg.gitlab.io/so3-support-graphique/index.html).*
 - [**`maven-basics`**](https://git.sr.ht/~nyg/maven-basics) — *Maven from scratch.*
 - [**`sh`**](https://git.sr.ht/~nyg/sh) — *My very own post-install scripts and dot files, please don&#x27;t use them.*
-
-#### Cryptocurrency
-
-- [**`yield-borg`**](https://github.com/nyg/yield-borg) — *Historical charts of the yields available on the SwissBorg platform.*
-- [**`smart-contracts`**](https://github.com/nyg/smart-contracts) <sup>3☆</sup> — *Set of smart contracts developed for educational purposes.*
 
 #### Dictionary
 
