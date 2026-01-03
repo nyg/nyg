@@ -13,8 +13,18 @@
 
 #### Contributions
 
-- [LeMyst/jmxterm](https://github.com/LeMyst/jmxterm) *(active fork)*
-- [jiaqi/jmxterm](https://github.com/jiaqi/jmxterm)
+| Repository | Pull requests |
+| :--- | ---: |
+| [LeMyst/jmxterm](https://github.com/LeMyst/jmxterm) | [#143](https://github.com/LeMyst/jmxterm/pull/143 ) [#149](https://github.com/LeMyst/jmxterm/pull/149 ) [#156](https://github.com/LeMyst/jmxterm/pull/156 ) [#166](https://github.com/LeMyst/jmxterm/pull/166 ) [#172](https://github.com/LeMyst/jmxterm/pull/172 )  |
+| [jiaqi/jmxterm](https://github.com/jiaqi/jmxterm) | [#110](https://github.com/jiaqi/jmxterm/pull/110 ) [#112](https://github.com/jiaqi/jmxterm/pull/112 ) [#113](https://github.com/jiaqi/jmxterm/pull/113 ) [#129](https://github.com/jiaqi/jmxterm/pull/129 )  |
+| [pljson/pljson](https://github.com/pljson/pljson) | [#72](https://github.com/pljson/pljson/pull/72 )  |
+| [libjpeg-turbo/libjpeg-turbo](https://github.com/libjpeg-turbo/libjpeg-turbo) | [#175](https://github.com/libjpeg-turbo/libjpeg-turbo/pull/175 )  |
+| [swissquote/carnotzet](https://github.com/swissquote/carnotzet) | [#151](https://github.com/swissquote/carnotzet/pull/151 )  |
+| [renovatebot/renovate](https://github.com/renovatebot/renovate) | [#14431](https://github.com/renovatebot/renovate/pull/14431 )  |
+| [druskacik/binance-staking-notification-bot](https://github.com/druskacik/binance-staking-notification-bot) | [#1](https://github.com/druskacik/binance-staking-notification-bot/pull/1 )  |
+| [aalmiray/mastering-maven](https://github.com/aalmiray/mastering-maven) | [#2](https://github.com/aalmiray/mastering-maven/pull/2 )  |
+| [mojohaus/buildplan-maven-plugin](https://github.com/mojohaus/buildplan-maven-plugin) | [#164](https://github.com/mojohaus/buildplan-maven-plugin/pull/164 )  |
+| [hendrixjoseph/opencsv-record-mapping](https://github.com/hendrixjoseph/opencsv-record-mapping) | [#2](https://github.com/hendrixjoseph/opencsv-record-mapping/pull/2 )  |
 
 #### Misc
 
@@ -57,7 +67,7 @@
 - [**`fk_generate_delete.sql`**](https://gist.github.com/eb091e6c7c59b71fa4c9d49860574d2c) — *Oracle: outputs the necessary delete statements to delete a row and all rows preventing it from being deleted because of &quot;child record found&quot; error.*
 - [**`fk_delete_recursive.sql`**](https://gist.github.com/57b2719feba6cded14b01e53530941ef) — *Oracle: delete a row and all rows preventing it to be deleted because of &quot;child record found&quot; errors.*
 
-### Dynamic statistics
+### Statistics
 
 #### Most starred repositories
 
