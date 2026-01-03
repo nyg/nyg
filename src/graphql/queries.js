@@ -46,11 +46,27 @@ export const gqlRepositoryFragment = gql`
       url
    }`
 
+export const gqlPullRequestFragment = gql`
+   fragment PullRequestDetail on PullRequest {
+      id
+      url
+      number
+      state
+      repository {
+         id
+         url
+         nameWithOwner
+         owner { login }
+         isPrivate
+      }
+   }`
+
 /* Queries */
 
 export const gqlUserInfo = gql`{
    viewer {
       id
+      login
       createdAt
       pullRequests { totalCount }
       issues { totalCount }
@@ -86,15 +102,8 @@ export const gqlUserGists = gql`
          id
          gists(first: $count, after: $cursor, orderBy: { field: UPDATED_AT, direction: ASC }, privacy: PUBLIC) {
             totalCount
-            pageInfo {
-               hasNextPage
-               endCursor
-            }
-            edges {
-               node {
-                  ...GistDetail
-               }
-            }
+            pageInfo { hasNextPage endCursor }
+            edges { node { ...GistDetail } }
          }
       }
    }`
@@ -106,15 +115,21 @@ export const gqlUserRepositories = gql`
          id
          repositories(first: $count, after: $cursor, orderBy: { field: UPDATED_AT, direction: ASC}, privacy: PUBLIC) {
             totalCount
-            pageInfo {
-               hasNextPage
-               endCursor
-            }
-            edges {
-               node {
-                  ...RepositoryDetail
-               }
-            }
+            pageInfo { hasNextPage endCursor }
+            edges { node { ...RepositoryDetail } }
+         }
+      }
+   }`
+
+export const gqlUserPullRequests = gql`
+   ${gqlPullRequestFragment}
+   query PullRequests($count: Int!, $cursor: String) {
+      viewer {
+         id
+         pullRequests(first: $count, after: $cursor) {
+            totalCount
+            pageInfo { hasNextPage endCursor }
+            edges { node { ...PullRequestDetail } }
          }
       }
    }`

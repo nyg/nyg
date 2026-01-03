@@ -13,8 +13,13 @@
 
 #### Contributions
 
-- [LeMyst/jmxterm](https://github.com/LeMyst/jmxterm) *(active fork)*
-- [jiaqi/jmxterm](https://github.com/jiaqi/jmxterm)
+| Repository | Pull requests |
+| :--- | ---: |
+{{#filterout pullRequests 'repo.owner.login' (array 'panticne' 'gs-2019' 'SoftEng-HEIGVD' 'Quartz-Core')}}
+{{#list this sortBy='prCount' direction='desc'}}
+| [{{repo.nameWithOwner}}]({{repo.url}}) | {{#each prs}}[#{{number}}]({{url}} {{title}}) {{/each}} |
+{{/list}}
+{{/filterout}}
 
 #### Misc
 
@@ -57,7 +62,7 @@
 - {{gist 'fk_generate_delete.sql'}}
 - {{gist 'fk_delete_recursive.sql'}}
 
-### Dynamic statistics
+### Statistics
 
 #### Most starred repositories
 

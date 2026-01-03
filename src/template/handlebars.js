@@ -23,6 +23,19 @@ export const listBlockHelper = function (context, options) {
       .join('')
 }
 
+export const filterOutHelper = function (array, field, excludeValues, options) {
+   const filtered = array.filter(item => {
+      const fieldValue = field.split('.').reduce((obj, key) => obj?.[key], item)
+      return !excludeValues.includes(fieldValue)
+   })
+
+   return options.fn(filtered)
+}
+
+export const arrayHelper = function (...args) {
+   return args.slice(0, -1)
+}
+
 export const gistHelper = function (context, options) {
 
    const render = gist => {
