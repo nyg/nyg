@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">nyg's GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 198, Total Commits  : 1272, Total PRs: 124, Total PRs Merged: 119, Total Issues: 55, Total Discussions Started: 9, Total Discussions Answered: 2, Contributed to (last year): 5</desc>
+        <desc id="descId">Total Stars Earned: 198, Total Commits  : 1273, Total PRs: 124, Total PRs Merged: 119, Total Issues: 55, Total Discussions Started: 9, Total Discussions Answered: 2, Contributed to (last year): 5</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 71.41049361534435;
+        stroke-dashoffset: 71.39847502840026;
       }
     }
   
