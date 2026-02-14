@@ -23,7 +23,7 @@
    },
    "devDependencies": {
       "dotenv": "17.2.3",
-      "eslint": "9.39.2"
+      "eslint": "10.0.0"
    },
    "scripts": {
       "generate": "node src/index.js",
