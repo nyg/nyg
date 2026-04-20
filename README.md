@@ -75,7 +75,7 @@
 | :--- | ---: | ---: | ---: |
 | [Java library to query the Kraken REST API.](https://github.com/nyg/kraken-api-java) | 61 | 28 | 9
 | [Showcasing a bug in iOS when generating a PDF from an HTML page using UIMarkupTextPrintFormatter.](https://github.com/nyg/HTMLWithImagesToPDF) | 44 | 4 | 1
-| [Converts Wiktionary entries into a MOBI dictionary for Kindle, works but will not render templates making it useless. Ideally, use Wiktionary HTML dumps.](https://github.com/nyg/wiktionary-to-kindle) | 40 | 7 | 8
+| [Converts Wiktionary entries into a MOBI dictionary for Kindle, works but will not render templates making it useless. Ideally, use Wiktionary HTML dumps.](https://github.com/nyg/wiktionary-to-kindle) | 40 | 6 | 8
 
 #### Most starred gists
 
