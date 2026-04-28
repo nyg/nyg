@@ -68,19 +68,47 @@
   {{/list}}
 </table>
 
-#### Misc
-
-- {{repo 'HTMLWithImagesToPDF'}}
-- {{repo 'opaque-impl'}}
-- [**`so3-support-graphique`**](https://gitlab.com/nyg/so3-support-graphique) — *My Bachelor project consisted of adding GUI support for the school's own operating system ([SO3](smartobjectoriented/so3)) using [LVGL](lvgl/lvgl). The project is hosted [here](https://nyg.gitlab.io/so3-support-graphique/index.html).*
-- {{srht owner='nyg' name='maven-basics' description='Maven from scratch.'}}
-- {{srht owner='nyg' name='sh' description='My very own post-install scripts and dot files, please don\'t use them.'}}
-
 #### Dictionary
 
 - {{repo 'wiktionary-to-kindle'}}
 - {{repo 'wiktionarize'}}
 - {{repo 'epub-dictionary'}}
+- {{repo 'greek-dictionaries'}}
+- {{repo 'tab2opf'}}
+
+#### iOS & Swift
+
+- {{repo 'HTMLWithImagesToPDF'}}
+- {{repo 'iOSSystemSoundsLibrary'}}
+- {{repo 'DateCellSwift'}}
+- {{gist 'iOSCreatePDF.swift'}}
+- {{gist 'MemoryAddress.swift'}}
+- {{gist 'EXIFUserComment.swift'}}
+- {{gist 'AddJPEGComment.swift'}}
+- {{gist 'Uptime.swift'}}
+- {{gist 'Serialize.swift'}}
+- {{gist 'UIApplicationDelegate.swift'}}
+- {{gist 'sequence_iterator.swift'}}
+
+#### Java & JMX
+
+- {{repo 'homebrew-jmxsh'}}
+- {{gist 'AllJCAServices.java'}}
+- {{gist 'FreeSwap.java'}}
+- {{gist 'AsynchronousServerSocketChannelTest.java'}}
+
+#### Crypto & Finance
+
+- {{repo 'kraken-ticker'}}
+- {{repo 'smart-contracts'}}
+- {{repo 'opaque-impl'}}
+- {{repo 'vagrant-bitcoin-node'}}
+- {{gist 'kraken-ledger.js'}}
+
+#### Tools & Projects
+
+- {{repo 'pagerduty'}}
+- {{repo 'h2-recover'}}
 
 #### Code examples
 
@@ -91,21 +119,23 @@
 - {{srht owner='nyg' name='example-java-querydsl' description='An attempt at defining JPA entities in one Maven module and importing this module in another, and generating QueryDSL\'s query type classes from there (works with Java EE but not Jakarta).'}}
 - {{srht owner='nyg' name='example-java-cli-app' description='An example app that uses the [Apache Commons CLI library](https://commons.apache.org/proper/commons-cli).'}}
 - {{srht owner='nyg' name='example-js-cli-app' description='A simple Node.js command-line app example using ESM.'}}
+- {{srht owner='nyg' name='maven-basics' description='Maven from scratch.'}}
 - {{repo 'ncc-pkg-examples'}}
 
-#### Swift gists
+#### Misc
 
-- {{gist 'AddJPEGComment.swift'}}
-- {{gist 'EXIFUserComment.swift'}}
-- {{gist 'MemoryAddress.swift'}}
-- {{gist 'iOSCreatePDF.swift'}}
-- {{gist 'Uptime.swift'}}
-
-#### Misc gists
-
+- {{srht owner='nyg' name='sh' description='My very own post-install scripts and dot files, please don\'t use them.'}}
+- {{repo 'heig-vd'}}
+- {{repo 'greek-election-data'}}
+- {{repo 'renovate-presets'}}
 - {{gist 'uptime.c'}}
 - {{gist 'pdk.c'}}
-- {{gist 'AllJCAServices.java'}}
+- {{gist 'div_euc_hex.c'}}
+- {{gist 'auto_extract.sh'}}
+- {{gist 'use-local-storage.js'}}
+- {{gist 'request.mjs'}}
+- {{gist 'yql_json.html'}}
+- {{gist 'enlarge_image.php'}}
 - {{gist 'fk_generate_delete.sql'}}
 - {{gist 'fk_delete_recursive.sql'}}
 
