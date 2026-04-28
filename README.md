@@ -4,27 +4,124 @@
 
 #### Top projects
 
+- [**`jmxsh`**](https://github.com/nyg/jmxsh) <sup>1☆</sup> — *jmx.sh — a hopefully active and modern fork of JMXTerm*
 - [**`scrapy-seleniumbase-cdp`**](https://github.com/nyg/scrapy-seleniumbase-cdp) <sup>1☆</sup> — *Scrapy downloader middleware that uses SeleniumBase&#x27;s pure CDP mode to make requests.*
+- [**`mkv-cleaner`**](https://github.com/nyg/mkv-cleaner) — *🎬 AI agent config for cleaning MKV files — removes non-English audio/subtitle tracks, keeps best quality streams.*
 - [**`autoscout24-trends`**](https://github.com/nyg/autoscout24-trends) — *Track AutoScout24 listings over time to visualize price trends and market changes for specific car models.*
 - [**`dependabot-vuln-viewer`**](https://github.com/nyg/dependabot-vuln-viewer) <sup>2☆</sup> — *Displays Dependabot security alerts for multiple GitHub repositories.*
 - [**`kraken-api-java`**](https://github.com/nyg/kraken-api-java) <sup>61☆</sup> — *Java library to query the Kraken REST API.*
 - [**`crypto-tools`**](https://github.com/nyg/crypto-tools) <sup>2☆</sup> — *Miscellaneous cryptocurrency-related tools.*
-- [**`yield-borg`**](https://github.com/nyg/yield-borg) — *Historical charts of the yields available on the SwissBorg platform.*
+- [**`qoqa-compta`**](https://github.com/nyg/qoqa-compta) — *Sync qoqa.ch order data and PDF invoices to PostgreSQL and display a spending dashboard*
 
 #### Contributions
 
-| Repository | Pull requests |
-| :--- | ---: |
-| [LeMyst/jmxterm](https://github.com/LeMyst/jmxterm) | [#143](https://github.com/LeMyst/jmxterm/pull/143 ) [#149](https://github.com/LeMyst/jmxterm/pull/149 ) [#156](https://github.com/LeMyst/jmxterm/pull/156 ) [#166](https://github.com/LeMyst/jmxterm/pull/166 ) [#172](https://github.com/LeMyst/jmxterm/pull/172 )  |
-| [jiaqi/jmxterm](https://github.com/jiaqi/jmxterm) | [#110](https://github.com/jiaqi/jmxterm/pull/110 ) [#112](https://github.com/jiaqi/jmxterm/pull/112 ) [#113](https://github.com/jiaqi/jmxterm/pull/113 ) [#129](https://github.com/jiaqi/jmxterm/pull/129 )  |
-| [pljson/pljson](https://github.com/pljson/pljson) | [#72](https://github.com/pljson/pljson/pull/72 )  |
-| [libjpeg-turbo/libjpeg-turbo](https://github.com/libjpeg-turbo/libjpeg-turbo) | [#175](https://github.com/libjpeg-turbo/libjpeg-turbo/pull/175 )  |
-| [swissquote/carnotzet](https://github.com/swissquote/carnotzet) | [#151](https://github.com/swissquote/carnotzet/pull/151 )  |
-| [renovatebot/renovate](https://github.com/renovatebot/renovate) | [#14431](https://github.com/renovatebot/renovate/pull/14431 )  |
-| [druskacik/binance-staking-notification-bot](https://github.com/druskacik/binance-staking-notification-bot) | [#1](https://github.com/druskacik/binance-staking-notification-bot/pull/1 )  |
-| [aalmiray/mastering-maven](https://github.com/aalmiray/mastering-maven) | [#2](https://github.com/aalmiray/mastering-maven/pull/2 )  |
-| [mojohaus/buildplan-maven-plugin](https://github.com/mojohaus/buildplan-maven-plugin) | [#164](https://github.com/mojohaus/buildplan-maven-plugin/pull/164 )  |
-| [hendrixjoseph/opencsv-record-mapping](https://github.com/hendrixjoseph/opencsv-record-mapping) | [#2](https://github.com/hendrixjoseph/opencsv-record-mapping/pull/2 )  |
+<table>
+  <tr>
+    <th align="left"><img width="700" height="1">Repository</th>
+    <th align="right"><img width="300" height="1">Pull requests</th>
+  </tr>
+  <tr>
+    <td><a href="">LeMyst/jmxterm</a></td>
+    <td align="right"><a href="https://github.com/LeMyst/jmxterm/pull/143" title="">#143</a> <a href="https://github.com/LeMyst/jmxterm/pull/149" title="">#149</a> <a href="https://github.com/LeMyst/jmxterm/pull/156" title="">#156</a> <a href="https://github.com/LeMyst/jmxterm/pull/166" title="">#166</a> <a href="https://github.com/LeMyst/jmxterm/pull/172" title="">#172</a> </td>
+  </tr>
+  <tr>
+    <td><a href="">jiaqi/jmxterm</a></td>
+    <td align="right"><a href="https://github.com/jiaqi/jmxterm/pull/110" title="">#110</a> <a href="https://github.com/jiaqi/jmxterm/pull/112" title="">#112</a> <a href="https://github.com/jiaqi/jmxterm/pull/113" title="">#113</a> <a href="https://github.com/jiaqi/jmxterm/pull/129" title="">#129</a> </td>
+  </tr>
+  <tr>
+    <td><a href="">pljson/pljson</a></td>
+    <td align="right"><a href="https://github.com/pljson/pljson/pull/72" title="">#72</a> </td>
+  </tr>
+  <tr>
+    <td><a href="">libjpeg-turbo/libjpeg-turbo</a></td>
+    <td align="right"><a href="https://github.com/libjpeg-turbo/libjpeg-turbo/pull/175" title="">#175</a> </td>
+  </tr>
+  <tr>
+    <td><a href="">swissquote/carnotzet</a></td>
+    <td align="right"><a href="https://github.com/swissquote/carnotzet/pull/151" title="">#151</a> </td>
+  </tr>
+  <tr>
+    <td><a href="">renovatebot/renovate</a></td>
+    <td align="right"><a href="https://github.com/renovatebot/renovate/pull/14431" title="">#14431</a> </td>
+  </tr>
+  <tr>
+    <td><a href="">druskacik/binance-staking-notification-bot</a></td>
+    <td align="right"><a href="https://github.com/druskacik/binance-staking-notification-bot/pull/1" title="">#1</a> </td>
+  </tr>
+  <tr>
+    <td><a href="">aalmiray/mastering-maven</a></td>
+    <td align="right"><a href="https://github.com/aalmiray/mastering-maven/pull/2" title="">#2</a> </td>
+  </tr>
+  <tr>
+    <td><a href="">mojohaus/buildplan-maven-plugin</a></td>
+    <td align="right"><a href="https://github.com/mojohaus/buildplan-maven-plugin/pull/164" title="">#164</a> </td>
+  </tr>
+  <tr>
+    <td><a href="">hendrixjoseph/opencsv-record-mapping</a></td>
+    <td align="right"><a href="https://github.com/hendrixjoseph/opencsv-record-mapping/pull/2" title="">#2</a> </td>
+  </tr>
+</table>
+
+
+#### Most starred repositories
+
+<table>
+  <tr>
+    <th align="left"><img width="1000" height="1">Description</th>
+    <th align="right"><img width="1" height="1"><img src="assets/stargazers.svg"></th>
+    <th align="right"><img width="1" height="1"><img src="assets/forks.svg"></th>
+    <th align="right"><img width="1" height="1"><img src="assets/issues.svg"></th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/nyg/kraken-api-java">Java library to query the Kraken REST API.</a></td>
+    <td align="right">61</td>
+    <td align="right">28</td>
+    <td align="right">10</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/nyg/HTMLWithImagesToPDF">Showcasing a bug in iOS when generating a PDF from an HTML page using UIMarkupTextPrintFormatter.</a></td>
+    <td align="right">44</td>
+    <td align="right">4</td>
+    <td align="right">1</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/nyg/wiktionary-to-kindle">Converts Wiktionary entries into a MOBI dictionary for Kindle, works but will not render templates making it useless. Ideally, use Wiktionary HTML dumps.</a></td>
+    <td align="right">40</td>
+    <td align="right">5</td>
+    <td align="right">8</td>
+  </tr>
+</table>
+
+
+#### Most starred gists
+
+<table>
+  <tr>
+    <th align="left"><img width="1000" height="1">Description</th>
+    <th align="right"><img width="1" height="1"><img src="assets/stargazers.svg"></th>
+    <th align="right"><img width="1" height="1"><img src="assets/forks.svg"></th>
+    <th align="right"><img width="1" height="1"><img src="assets/comments.svg"></th>
+  </tr>
+  <tr>
+    <td><a href="https://gist.github.com/b8cd742250826cb1471f">iOS, Swift: Create a PDF file from an HTML string.</a></td>
+    <td align="right">75</td>
+    <td align="right">13</td>
+    <td align="right">30</td>
+  </tr>
+  <tr>
+    <td><a href="https://gist.github.com/b6a80bf79e72599230c312c69e963e60">Get the memory address of both class and structure instances in Swift.</a></td>
+    <td align="right">37</td>
+    <td align="right">10</td>
+    <td align="right">0</td>
+  </tr>
+  <tr>
+    <td><a href="https://gist.github.com/c90f36abbd30f72c8b6681ef23db886b">Get and set an EXIF UserComment to a JPEG image using the ImageIO framework.</a></td>
+    <td align="right">11</td>
+    <td align="right">3</td>
+    <td align="right">0</td>
+  </tr>
+</table>
+
 
 #### Misc
 
@@ -69,21 +166,6 @@
 
 ### Statistics
 
-#### Most starred repositories
-
-| Description | ![stargazers](assets/stargazers.svg) | ![forks](assets/forks.svg) | ![issues](assets/issues.svg)
-| :--- | ---: | ---: | ---: |
-| [Java library to query the Kraken REST API.](https://github.com/nyg/kraken-api-java) | 61 | 28 | 10
-| [Showcasing a bug in iOS when generating a PDF from an HTML page using UIMarkupTextPrintFormatter.](https://github.com/nyg/HTMLWithImagesToPDF) | 44 | 4 | 1
-| [Converts Wiktionary entries into a MOBI dictionary for Kindle, works but will not render templates making it useless. Ideally, use Wiktionary HTML dumps.](https://github.com/nyg/wiktionary-to-kindle) | 40 | 5 | 8
-
-#### Most starred gists
-
-| Description | ![stargazers](assets/stargazers.svg) | ![forks](assets/forks.svg) | ![comments](assets/comments.svg)
-| :--- | ---: | ---: | ---: |
-| [iOS, Swift: Create a PDF file from an HTML string.](https://gist.github.com/b8cd742250826cb1471f) | 75 | 13 | 30
-| [Get the memory address of both class and structure instances in Swift.](https://gist.github.com/b6a80bf79e72599230c312c69e963e60) | 37 | 10 | 0
-| [Get and set an EXIF UserComment to a JPEG image using the ImageIO framework.](https://gist.github.com/c90f36abbd30f72c8b6681ef23db886b) | 11 | 3 | 0
 
 #### Cards (by *[readme-tools/github-readme-stats](https://github.com/readme-tools/github-readme-stats)*)
 

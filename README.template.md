@@ -4,22 +4,69 @@
 
 #### Top projects
 
+- {{repo 'jmxsh'}}
 - {{repo 'scrapy-seleniumbase-cdp'}}
+- {{repo 'mkv-cleaner'}}
 - {{repo 'autoscout24-trends'}}
 - {{repo 'dependabot-vuln-viewer'}}
 - {{repo 'kraken-api-java'}}
 - {{repo 'crypto-tools'}}
-- {{repo 'yield-borg'}}
+- {{repo 'qoqa-compta'}}
 
 #### Contributions
 
-| Repository | Pull requests |
-| :--- | ---: |
-{{#filterout pullRequests 'repo.owner.login' (array 'panticne' 'gs-2019' 'SoftEng-HEIGVD' 'Quartz-Core')}}
-{{#list this sortBy='prCount' direction='desc'}}
-| [{{repo.nameWithOwner}}]({{repo.url}}) | {{#each prs}}[#{{number}}]({{url}} {{title}}) {{/each}} |
-{{/list}}
-{{/filterout}}
+<table>
+  <tr>
+    <th align="left"><img width="700" height="1">Repository</th>
+    <th align="right"><img width="300" height="1">Pull requests</th>
+  </tr>
+  {{#filterout pullRequests 'repo.owner.login' (array 'panticne' 'gs-2019' 'SoftEng-HEIGVD' 'Quartz-Core')}}
+  {{#list this sortBy='prCount' direction='desc'}}
+  <tr>
+    <td><a href="{{url}}">{{repo.nameWithOwner}}</a></td>
+    <td align="right">{{#each prs}}<a href="{{url}}" title="{{title}}">#{{number}}</a> {{/each}}</td>
+  </tr>
+  {{/list}}
+  {{/filterout}}
+</table>
+
+#### Most starred repositories
+
+<table>
+  <tr>
+    <th align="left"><img width="700" height="1">Description</th>
+    <th align="right"><img width="100" height="1"><img src="assets/stargazers.svg"></th>
+    <th align="right"><img width="100" height="1"><img src="assets/forks.svg"></th>
+    <th align="right"><img width="100" height="1"><img src="assets/issues.svg"></th>
+  </tr>
+  {{#list repositories sortBy='stargazerCount' direction='desc' top=3}}
+  <tr>
+    <td><a href="{{url}}">{{description}}</a></td>
+    <td align="right">{{stargazerCount}}</td>
+    <td align="right">{{forkCount}}</td>
+    <td align="right">{{issues.totalCount}}</td>
+  </tr>
+  {{/list}}
+</table>
+
+#### Most starred gists
+
+<table>
+  <tr>
+    <th align="left"><img width="700" height="1">Description</th>
+    <th align="right"><img width="100" height="1"><img src="assets/stargazers.svg"></th>
+    <th align="right"><img width="100" height="1"><img src="assets/forks.svg"></th>
+    <th align="right"><img width="100" height="1"><img src="assets/comments.svg"></th>
+  </tr>
+  {{#list gists sortBy='stargazerCount' direction='desc' top=3}}
+  <tr>
+    <td><a href="{{url}}">{{description}}</a></td>
+    <td align="right">{{stargazerCount}}</td>
+    <td align="right">{{forks.totalCount}}</td>
+    <td align="right">{{comments.totalCount}}</td>
+  </tr>
+  {{/list}}
+</table>
 
 #### Misc
 
@@ -64,21 +111,6 @@
 
 ### Statistics
 
-#### Most starred repositories
-
-| Description | ![stargazers](assets/stargazers.svg) | ![forks](assets/forks.svg) | ![issues](assets/issues.svg)
-| :--- | ---: | ---: | ---: |
-{{#list repositories sortBy='stargazerCount' direction='desc' top=3}}
-| [{{description}}]({{url}}) | {{stargazerCount}} | {{forkCount}} | {{issues.totalCount}}
-{{/list}}
-
-#### Most starred gists
-
-| Description | ![stargazers](assets/stargazers.svg) | ![forks](assets/forks.svg) | ![comments](assets/comments.svg)
-| :--- | ---: | ---: | ---: |
-{{#list gists sortBy='stargazerCount' direction='desc' top=3}}
-| [{{description}}]({{url}}) | {{stargazerCount}} | {{forks.totalCount}} | {{comments.totalCount}}
-{{/list}}
 
 #### Cards (by *[readme-tools/github-readme-stats](https://github.com/readme-tools/github-readme-stats)*)
 
