@@ -4,7 +4,7 @@
 
 #### Top projects
 
-- [**`jmxsh`**](https://github.com/nyg/jmxsh) <sup>1☆</sup> — *jmx.sh — a hopefully active and modern fork of JMXTerm*
+- [**`jmxsh`**](https://github.com/nyg/jmxsh) — *jmx.sh — a hopefully active and modern fork of JMXTerm*
 - [**`scrapy-seleniumbase-cdp`**](https://github.com/nyg/scrapy-seleniumbase-cdp) <sup>1☆</sup> — *Scrapy downloader middleware that uses SeleniumBase&#x27;s pure CDP mode to make requests.*
 - [**`mkv-cleaner`**](https://github.com/nyg/mkv-cleaner) — *🎬 AI agent config for cleaning MKV files — removes non-English audio/subtitle tracks, keeps best quality streams.*
 - [**`autoscout24-trends`**](https://github.com/nyg/autoscout24-trends) — *Track AutoScout24 listings over time to visualize price trends and market changes for specific car models.*
@@ -62,15 +62,14 @@
   </tr>
 </table>
 
-
 #### Most starred repositories
 
 <table>
   <tr>
-    <th align="left"><img width="1000" height="1">Description</th>
-    <th align="right"><img width="1" height="1"><img src="assets/stargazers.svg"></th>
-    <th align="right"><img width="1" height="1"><img src="assets/forks.svg"></th>
-    <th align="right"><img width="1" height="1"><img src="assets/issues.svg"></th>
+    <th align="left"><img width="700" height="1">Description</th>
+    <th align="right"><img width="100" height="1"><img src="assets/stargazers.svg"></th>
+    <th align="right"><img width="100" height="1"><img src="assets/forks.svg"></th>
+    <th align="right"><img width="100" height="1"><img src="assets/issues.svg"></th>
   </tr>
   <tr>
     <td><a href="https://github.com/nyg/kraken-api-java">Java library to query the Kraken REST API.</a></td>
@@ -92,15 +91,14 @@
   </tr>
 </table>
 
-
 #### Most starred gists
 
 <table>
   <tr>
-    <th align="left"><img width="1000" height="1">Description</th>
-    <th align="right"><img width="1" height="1"><img src="assets/stargazers.svg"></th>
-    <th align="right"><img width="1" height="1"><img src="assets/forks.svg"></th>
-    <th align="right"><img width="1" height="1"><img src="assets/comments.svg"></th>
+    <th align="left"><img width="700" height="1">Description</th>
+    <th align="right"><img width="100" height="1"><img src="assets/stargazers.svg"></th>
+    <th align="right"><img width="100" height="1"><img src="assets/forks.svg"></th>
+    <th align="right"><img width="100" height="1"><img src="assets/comments.svg"></th>
   </tr>
   <tr>
     <td><a href="https://gist.github.com/b8cd742250826cb1471f">iOS, Swift: Create a PDF file from an HTML string.</a></td>
@@ -121,7 +119,6 @@
     <td align="right">0</td>
   </tr>
 </table>
-
 
 #### Misc
 
