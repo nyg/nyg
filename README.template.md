@@ -36,10 +36,10 @@ I build Java tools, web scrapers, and Kindle dictionaries — with occasional de
 
 <table>
   <tr>
-    <th align="left"><img width="700" height="1">Repository</th>
-    <th align="right"><img width="100" height="1"><img src="assets/stargazers.svg"></th>
-    <th align="right"><img width="100" height="1"><img src="assets/forks.svg"></th>
-    <th align="right"><img width="100" height="1"><img src="assets/issues.svg"></th>
+    <th align="left"><img width="1000" height="1">Repository</th>
+    <th align="right"><img width="1" height="1"><img src="assets/stargazers.svg"></th>
+    <th align="right"><img width="1" height="1"><img src="assets/forks.svg"></th>
+    <th align="right"><img width="1" height="1"><img src="assets/issues.svg"></th>
   </tr>
   {{#list repositories sortBy='stargazerCount' direction='desc' top=3}}
   <tr>
@@ -55,10 +55,10 @@ I build Java tools, web scrapers, and Kindle dictionaries — with occasional de
 
 <table>
   <tr>
-    <th align="left"><img width="700" height="1">Gist</th>
-    <th align="right"><img width="100" height="1"><img src="assets/stargazers.svg"></th>
-    <th align="right"><img width="100" height="1"><img src="assets/forks.svg"></th>
-    <th align="right"><img width="100" height="1"><img src="assets/comments.svg"></th>
+    <th align="left"><img width="1000" height="1">Gist</th>
+    <th align="right"><img width="1" height="1"><img src="assets/stargazers.svg"></th>
+    <th align="right"><img width="1" height="1"><img src="assets/forks.svg"></th>
+    <th align="right"><img width="1" height="1"><img src="assets/comments.svg"></th>
   </tr>
   {{#list gists sortBy='stargazerCount' direction='desc' top=3}}
   <tr>
