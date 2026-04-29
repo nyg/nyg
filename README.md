@@ -1,10 +1,12 @@
 ### Hi there 👋
 
+I build Java tools, web scrapers, and Kindle dictionaries — with occasional detours into iOS and smart contracts.
+
 #### Personal knowledge base: [`notes.andstuff.dev`](https://notes.andstuff.dev)
 
-#### Top projects
+#### Featured projects
 
-- [**`jmxsh`**](https://github.com/nyg/jmxsh) — *jmx.sh — a hopefully active and modern fork of JMXTerm*
+- [**`jmxsh`**](https://github.com/nyg/jmxsh) — *A modern, actively maintained fork of JMXTerm — a command-line shell for interacting with Java MBeans via JMX.*
 - [**`scrapy-seleniumbase-cdp`**](https://github.com/nyg/scrapy-seleniumbase-cdp) <sup>1☆</sup> — *Scrapy downloader middleware that uses SeleniumBase&#x27;s pure CDP mode to make requests.*
 - [**`mkv-cleaner`**](https://github.com/nyg/mkv-cleaner) — *🎬 AI agent config for cleaning MKV files — removes non-English audio/subtitle tracks, keeps best quality streams.*
 - [**`autoscout24-trends`**](https://github.com/nyg/autoscout24-trends) — *Track AutoScout24 listings over time to visualize price trends and market changes for specific car models.*
@@ -21,44 +23,44 @@
     <th align="right"><img width="300" height="1">Pull requests</th>
   </tr>
   <tr>
-    <td><a href="">LeMyst/jmxterm</a></td>
-    <td align="right"><a href="https://github.com/LeMyst/jmxterm/pull/143" title="">#143</a> <a href="https://github.com/LeMyst/jmxterm/pull/149" title="">#149</a> <a href="https://github.com/LeMyst/jmxterm/pull/156" title="">#156</a> <a href="https://github.com/LeMyst/jmxterm/pull/166" title="">#166</a> <a href="https://github.com/LeMyst/jmxterm/pull/172" title="">#172</a> </td>
+    <td><a href="https://github.com/LeMyst/jmxterm">LeMyst/jmxterm</a></td>
+    <td align="right"><a href="https://github.com/LeMyst/jmxterm/pull/143" title="Properly cast vm object">#143</a> <a href="https://github.com/LeMyst/jmxterm/pull/149" title="Clean POM file">#149</a> <a href="https://github.com/LeMyst/jmxterm/pull/156" title="Remove code for JDK 5 and 6">#156</a> <a href="https://github.com/LeMyst/jmxterm/pull/166" title="chore: clean up code">#166</a> <a href="https://github.com/LeMyst/jmxterm/pull/172" title="chore(deps): migrate to JUnit 6">#172</a> </td>
   </tr>
   <tr>
-    <td><a href="">jiaqi/jmxterm</a></td>
-    <td align="right"><a href="https://github.com/jiaqi/jmxterm/pull/110" title="">#110</a> <a href="https://github.com/jiaqi/jmxterm/pull/112" title="">#112</a> <a href="https://github.com/jiaqi/jmxterm/pull/113" title="">#113</a> <a href="https://github.com/jiaqi/jmxterm/pull/129" title="">#129</a> </td>
+    <td><a href="https://github.com/jiaqi/jmxterm">jiaqi/jmxterm</a></td>
+    <td align="right"><a href="https://github.com/jiaqi/jmxterm/pull/110" title="Fix for mvn site command">#110</a> <a href="https://github.com/jiaqi/jmxterm/pull/112" title="Fix tests for Java 17+">#112</a> <a href="https://github.com/jiaqi/jmxterm/pull/113" title="Avoid usage of jdk.jconsole module in Java 9+">#113</a> <a href="https://github.com/jiaqi/jmxterm/pull/129" title="Properly cast vm object">#129</a> </td>
   </tr>
   <tr>
-    <td><a href="">pljson/pljson</a></td>
-    <td align="right"><a href="https://github.com/pljson/pljson/pull/72" title="">#72</a> </td>
+    <td><a href="https://github.com/pljson/pljson">pljson/pljson</a></td>
+    <td align="right"><a href="https://github.com/pljson/pljson/pull/72" title="Fix for issue #69 (pljson_printer prints invalid number if very small)">#72</a> </td>
   </tr>
   <tr>
-    <td><a href="">libjpeg-turbo/libjpeg-turbo</a></td>
-    <td align="right"><a href="https://github.com/libjpeg-turbo/libjpeg-turbo/pull/175" title="">#175</a> </td>
+    <td><a href="https://github.com/libjpeg-turbo/libjpeg-turbo">libjpeg-turbo/libjpeg-turbo</a></td>
+    <td align="right"><a href="https://github.com/libjpeg-turbo/libjpeg-turbo/pull/175" title="Fix copy-paste oversight in comment">#175</a> </td>
   </tr>
   <tr>
-    <td><a href="">swissquote/carnotzet</a></td>
-    <td align="right"><a href="https://github.com/swissquote/carnotzet/pull/151" title="">#151</a> </td>
+    <td><a href="https://github.com/swissquote/carnotzet">swissquote/carnotzet</a></td>
+    <td align="right"><a href="https://github.com/swissquote/carnotzet/pull/151" title="Fix typo in extending-behavior directory">#151</a> </td>
   </tr>
   <tr>
-    <td><a href="">renovatebot/renovate</a></td>
-    <td align="right"><a href="https://github.com/renovatebot/renovate/pull/14431" title="">#14431</a> </td>
+    <td><a href="https://github.com/renovatebot/renovate">renovatebot/renovate</a></td>
+    <td align="right"><a href="https://github.com/renovatebot/renovate/pull/14431" title="fix(github): Ignore vulnerability alerts in FIXED or DISMISSED states">#14431</a> </td>
   </tr>
   <tr>
-    <td><a href="">druskacik/binance-staking-notification-bot</a></td>
-    <td align="right"><a href="https://github.com/druskacik/binance-staking-notification-bot/pull/1" title="">#1</a> </td>
+    <td><a href="https://github.com/druskacik/binance-staking-notification-bot">druskacik/binance-staking-notification-bot</a></td>
+    <td align="right"><a href="https://github.com/druskacik/binance-staking-notification-bot/pull/1" title="Increase pageSize to 200 for locked staking">#1</a> </td>
   </tr>
   <tr>
-    <td><a href="">aalmiray/mastering-maven</a></td>
-    <td align="right"><a href="https://github.com/aalmiray/mastering-maven/pull/2" title="">#2</a> </td>
+    <td><a href="https://github.com/aalmiray/mastering-maven">aalmiray/mastering-maven</a></td>
+    <td align="right"><a href="https://github.com/aalmiray/mastering-maven/pull/2" title="Fix broken link">#2</a> </td>
   </tr>
   <tr>
-    <td><a href="">mojohaus/buildplan-maven-plugin</a></td>
-    <td align="right"><a href="https://github.com/mojohaus/buildplan-maven-plugin/pull/164" title="">#164</a> </td>
+    <td><a href="https://github.com/mojohaus/buildplan-maven-plugin">mojohaus/buildplan-maven-plugin</a></td>
+    <td align="right"><a href="https://github.com/mojohaus/buildplan-maven-plugin/pull/164" title="Fix broken HTML table in report goal when using maven-site-plugin:4.0.0-M4">#164</a> </td>
   </tr>
   <tr>
-    <td><a href="">hendrixjoseph/opencsv-record-mapping</a></td>
-    <td align="right"><a href="https://github.com/hendrixjoseph/opencsv-record-mapping/pull/2" title="">#2</a> </td>
+    <td><a href="https://github.com/hendrixjoseph/opencsv-record-mapping">hendrixjoseph/opencsv-record-mapping</a></td>
+    <td align="right"><a href="https://github.com/hendrixjoseph/opencsv-record-mapping/pull/2" title="Support @CsvBindByName in new strategy">#2</a> </td>
   </tr>
 </table>
 
@@ -66,25 +68,25 @@
 
 <table>
   <tr>
-    <th align="left"><img width="700" height="1">Description</th>
+    <th align="left"><img width="700" height="1">Repository</th>
     <th align="right"><img width="100" height="1"><img src="assets/stargazers.svg"></th>
     <th align="right"><img width="100" height="1"><img src="assets/forks.svg"></th>
     <th align="right"><img width="100" height="1"><img src="assets/issues.svg"></th>
   </tr>
   <tr>
-    <td><a href="https://github.com/nyg/kraken-api-java">Java library to query the Kraken REST API.</a></td>
+    <td><a href="https://github.com/nyg/kraken-api-java"><strong>kraken-api-java</strong></a> — Java library to query the Kraken REST API.</td>
     <td align="right">61</td>
     <td align="right">28</td>
     <td align="right">10</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/nyg/HTMLWithImagesToPDF">Showcasing a bug in iOS when generating a PDF from an HTML page using UIMarkupTextPrintFormatter.</a></td>
+    <td><a href="https://github.com/nyg/HTMLWithImagesToPDF"><strong>HTMLWithImagesToPDF</strong></a> — Showcasing a bug in iOS when generating a PDF from an HTML page using UIMarkupTextPrintFormatter.</td>
     <td align="right">44</td>
     <td align="right">4</td>
     <td align="right">1</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/nyg/wiktionary-to-kindle">Converts Wiktionary entries into a MOBI dictionary for Kindle, works but will not render templates making it useless. Ideally, use Wiktionary HTML dumps.</a></td>
+    <td><a href="https://github.com/nyg/wiktionary-to-kindle"><strong>wiktionary-to-kindle</strong></a> — Converts Wiktionary HTML dumps into a Kindle-compatible MOBI dictionary.</td>
     <td align="right">40</td>
     <td align="right">5</td>
     <td align="right">8</td>
@@ -95,25 +97,25 @@
 
 <table>
   <tr>
-    <th align="left"><img width="700" height="1">Description</th>
+    <th align="left"><img width="700" height="1">Gist</th>
     <th align="right"><img width="100" height="1"><img src="assets/stargazers.svg"></th>
     <th align="right"><img width="100" height="1"><img src="assets/forks.svg"></th>
     <th align="right"><img width="100" height="1"><img src="assets/comments.svg"></th>
   </tr>
   <tr>
-    <td><a href="https://gist.github.com/b8cd742250826cb1471f">iOS, Swift: Create a PDF file from an HTML string.</a></td>
+    <td><a href="https://gist.github.com/b8cd742250826cb1471f"><strong>iOSCreatePDF.swift</strong></a> — iOS, Swift: Create a PDF file from an HTML string.</td>
     <td align="right">75</td>
     <td align="right">13</td>
     <td align="right">30</td>
   </tr>
   <tr>
-    <td><a href="https://gist.github.com/b6a80bf79e72599230c312c69e963e60">Get the memory address of both class and structure instances in Swift.</a></td>
+    <td><a href="https://gist.github.com/b6a80bf79e72599230c312c69e963e60"><strong>MemoryAddress.swift</strong></a> — Get the memory address of both class and structure instances in Swift.</td>
     <td align="right">37</td>
     <td align="right">10</td>
     <td align="right">0</td>
   </tr>
   <tr>
-    <td><a href="https://gist.github.com/c90f36abbd30f72c8b6681ef23db886b">Get and set an EXIF UserComment to a JPEG image using the ImageIO framework.</a></td>
+    <td><a href="https://gist.github.com/c90f36abbd30f72c8b6681ef23db886b"><strong>EXIFUserComment.swift</strong></a> — Get and set an EXIF UserComment to a JPEG image using the ImageIO framework.</td>
     <td align="right">11</td>
     <td align="right">3</td>
     <td align="right">0</td>
@@ -122,7 +124,7 @@
 
 #### Dictionary
 
-- [**`wiktionary-to-kindle`**](https://github.com/nyg/wiktionary-to-kindle) <sup>40☆</sup> — *Converts Wiktionary entries into a MOBI dictionary for Kindle, works but will not render templates making it useless. Ideally, use Wiktionary HTML dumps.*
+- [**`wiktionary-to-kindle`**](https://github.com/nyg/wiktionary-to-kindle) <sup>40☆</sup> — *Converts Wiktionary HTML dumps into a Kindle-compatible MOBI dictionary.*
 - [**`wiktionarize`**](https://github.com/nyg/wiktionarize) — *Simple web pages that searches words of a text in multiple Wiktionaries.*
 - [**`epub-dictionary`**](https://github.com/nyg/epub-dictionary) — *An abandoned attempt at creating an EPUB library.*
 - [**`greek-dictionaries`**](https://github.com/nyg/greek-dictionaries) — *Extract results from a Greek reverse dictionary, see README.*
@@ -162,6 +164,9 @@
 - [**`pagerduty`**](https://github.com/nyg/pagerduty) — *PagerDuty monitoring dashboard with browser notifications.*
 - [**`h2-recover`**](https://github.com/nyg/h2-recover) <sup>9☆</sup> — *Hack to recover some h2 databases...*
 
+<details>
+<summary>Experiments & more</summary>
+
 #### Code examples
 
 - [**`example-java-jca`**](https://git.sr.ht/~nyg/example-java-jca) — *Some code example with the Java Cryptography Architecture API, and an attempt at writing a pure-JCA (i.e. Provider-indenpendent) ECDSA and EdDSA signature verification class.*
@@ -190,6 +195,8 @@
 - [**`enlarge_image.php`**](https://gist.github.com/ef6293c31030276968dee1cb4b6b3efa) — *Enlarge a given image.*
 - [**`fk_generate_delete.sql`**](https://gist.github.com/eb091e6c7c59b71fa4c9d49860574d2c) — *Oracle: outputs the necessary delete statements to delete a row and all rows preventing it from being deleted because of &quot;child record found&quot; error.*
 - [**`fk_delete_recursive.sql`**](https://gist.github.com/57b2719feba6cded14b01e53530941ef) — *Oracle: delete a row and all rows preventing it to be deleted because of &quot;child record found&quot; errors.*
+
+</details>
 
 ### Statistics
 
