@@ -1,8 +1,10 @@
 ### Hi there 👋
 
+I build Java tools, web scrapers, and Kindle dictionaries — with occasional detours into iOS and smart contracts.
+
 #### Personal knowledge base: [`notes.andstuff.dev`](https://notes.andstuff.dev)
 
-#### Top projects
+#### Featured projects
 
 - {{repo 'jmxsh'}}
 - {{repo 'scrapy-seleniumbase-cdp'}}
@@ -23,7 +25,7 @@
   {{#filterout pullRequests 'repo.owner.login' (array 'panticne' 'gs-2019' 'SoftEng-HEIGVD' 'Quartz-Core')}}
   {{#list this sortBy='prCount' direction='desc'}}
   <tr>
-    <td><a href="{{url}}">{{repo.nameWithOwner}}</a></td>
+    <td><a href="{{repo.url}}">{{repo.nameWithOwner}}</a></td>
     <td align="right">{{#each prs}}<a href="{{url}}" title="{{title}}">#{{number}}</a> {{/each}}</td>
   </tr>
   {{/list}}
@@ -34,14 +36,14 @@
 
 <table>
   <tr>
-    <th align="left"><img width="700" height="1">Description</th>
+    <th align="left"><img width="700" height="1">Repository</th>
     <th align="right"><img width="100" height="1"><img src="assets/stargazers.svg"></th>
     <th align="right"><img width="100" height="1"><img src="assets/forks.svg"></th>
     <th align="right"><img width="100" height="1"><img src="assets/issues.svg"></th>
   </tr>
   {{#list repositories sortBy='stargazerCount' direction='desc' top=3}}
   <tr>
-    <td><a href="{{url}}">{{description}}</a></td>
+    <td><a href="{{url}}"><strong>{{name}}</strong></a> — {{description}}</td>
     <td align="right">{{stargazerCount}}</td>
     <td align="right">{{forkCount}}</td>
     <td align="right">{{issues.totalCount}}</td>
@@ -53,14 +55,14 @@
 
 <table>
   <tr>
-    <th align="left"><img width="700" height="1">Description</th>
+    <th align="left"><img width="700" height="1">Gist</th>
     <th align="right"><img width="100" height="1"><img src="assets/stargazers.svg"></th>
     <th align="right"><img width="100" height="1"><img src="assets/forks.svg"></th>
     <th align="right"><img width="100" height="1"><img src="assets/comments.svg"></th>
   </tr>
   {{#list gists sortBy='stargazerCount' direction='desc' top=3}}
   <tr>
-    <td><a href="{{url}}">{{description}}</a></td>
+    <td><a href="{{url}}"><strong>{{files.[0].name}}</strong></a> — {{description}}</td>
     <td align="right">{{stargazerCount}}</td>
     <td align="right">{{forks.totalCount}}</td>
     <td align="right">{{comments.totalCount}}</td>
@@ -110,6 +112,9 @@
 - {{repo 'pagerduty'}}
 - {{repo 'h2-recover'}}
 
+<details>
+<summary>Experiments & more</summary>
+
 #### Code examples
 
 - {{srht owner='nyg' name='example-java-jca' description='Some code example with the Java Cryptography Architecture API, and an attempt at writing a pure-JCA (i.e. Provider-indenpendent) ECDSA and EdDSA signature verification class.'}}
@@ -138,6 +143,8 @@
 - {{gist 'enlarge_image.php'}}
 - {{gist 'fk_generate_delete.sql'}}
 - {{gist 'fk_delete_recursive.sql'}}
+
+</details>
 
 ### Statistics
 

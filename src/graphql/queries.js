@@ -51,6 +51,7 @@ export const gqlPullRequestFragment = gql`
       id
       url
       number
+      title
       state
       repository {
          id
