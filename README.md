@@ -68,10 +68,10 @@ I build Java tools, web scrapers, and Kindle dictionaries — with occasional de
 
 <table>
   <tr>
-    <th align="left"><img width="700" height="1">Repository</th>
-    <th align="right"><img width="100" height="1"><img src="assets/stargazers.svg"></th>
-    <th align="right"><img width="100" height="1"><img src="assets/forks.svg"></th>
-    <th align="right"><img width="100" height="1"><img src="assets/issues.svg"></th>
+    <th align="left"><img width="1000" height="1">Repository</th>
+    <th align="right"><img width="1" height="1"><img src="assets/stargazers.svg"></th>
+    <th align="right"><img width="1" height="1"><img src="assets/forks.svg"></th>
+    <th align="right"><img width="1" height="1"><img src="assets/issues.svg"></th>
   </tr>
   <tr>
     <td><a href="https://github.com/nyg/kraken-api-java"><strong>kraken-api-java</strong></a> — Java library to query the Kraken REST API.</td>
@@ -97,10 +97,10 @@ I build Java tools, web scrapers, and Kindle dictionaries — with occasional de
 
 <table>
   <tr>
-    <th align="left"><img width="700" height="1">Gist</th>
-    <th align="right"><img width="100" height="1"><img src="assets/stargazers.svg"></th>
-    <th align="right"><img width="100" height="1"><img src="assets/forks.svg"></th>
-    <th align="right"><img width="100" height="1"><img src="assets/comments.svg"></th>
+    <th align="left"><img width="1000" height="1">Gist</th>
+    <th align="right"><img width="1" height="1"><img src="assets/stargazers.svg"></th>
+    <th align="right"><img width="1" height="1"><img src="assets/forks.svg"></th>
+    <th align="right"><img width="1" height="1"><img src="assets/comments.svg"></th>
   </tr>
   <tr>
     <td><a href="https://gist.github.com/b8cd742250826cb1471f"><strong>iOSCreatePDF.swift</strong></a> — iOS, Swift: Create a PDF file from an HTML string.</td>
