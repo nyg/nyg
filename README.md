@@ -87,9 +87,9 @@ I build Java tools, web scrapers, and Kindle dictionaries — with occasional de
   </tr>
   <tr>
     <td><a href="https://github.com/nyg/wiktionary-to-kindle"><strong>wiktionary-to-kindle</strong></a> — Converts Wiktionary HTML dumps into a Kindle-compatible MOBI dictionary.</td>
-    <td align="right">40</td>
+    <td align="right">41</td>
     <td align="right">5</td>
-    <td align="right">8</td>
+    <td align="right">19</td>
   </tr>
 </table>
 
@@ -124,9 +124,9 @@ I build Java tools, web scrapers, and Kindle dictionaries — with occasional de
 
 #### Dictionary
 
-- [**`wiktionary-to-kindle`**](https://github.com/nyg/wiktionary-to-kindle) <sup>40☆</sup> — *Converts Wiktionary HTML dumps into a Kindle-compatible MOBI dictionary.*
+- [**`wiktionary-to-kindle`**](https://github.com/nyg/wiktionary-to-kindle) <sup>41☆</sup> — *Converts Wiktionary HTML dumps into a Kindle-compatible MOBI dictionary.*
 - [**`wiktionarize`**](https://github.com/nyg/wiktionarize) — *Simple web pages that searches words of a text in multiple Wiktionaries.*
-- [**`epub-dictionary`**](https://github.com/nyg/epub-dictionary) — *An abandoned attempt at creating an EPUB library.*
+- Error: no repo found with information: epub-dictionary
 - [**`greek-dictionaries`**](https://github.com/nyg/greek-dictionaries) — *Extract results from a Greek reverse dictionary, see README.*
 - [**`tab2opf`**](https://github.com/nyg/tab2opf) <sup>2☆</sup> — *Remake of tab2opf dictionary builder for kindle*
 
