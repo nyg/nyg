@@ -6,14 +6,15 @@ I build Java tools, web scrapers, and Kindle dictionaries — with occasional de
 
 #### Featured projects
 
-- [**`jmxsh`**](https://github.com/nyg/jmxsh) — *A modern, actively maintained fork of JMXTerm — a command-line shell for interacting with Java MBeans via JMX.*
+- [**`wiktionary-to-kindle`**](https://github.com/nyg/wiktionary-to-kindle) <sup>41☆</sup> — *Converts Wiktionary HTML dumps into a Kindle-compatible MOBI dictionary.*
 - [**`scrapy-seleniumbase-cdp`**](https://github.com/nyg/scrapy-seleniumbase-cdp) <sup>1☆</sup> — *Scrapy downloader middleware that uses SeleniumBase&#x27;s pure CDP mode to make requests.*
 - [**`mkv-cleaner`**](https://github.com/nyg/mkv-cleaner) — *🎬 AI agent config for cleaning MKV files — removes non-English audio/subtitle tracks, keeps best quality streams.*
+- [**`jmxsh`**](https://github.com/nyg/jmxsh) — *A modern, actively maintained fork of JMXTerm — a command-line shell for interacting with Java MBeans via JMX.*
 - [**`autoscout24-trends`**](https://github.com/nyg/autoscout24-trends) — *Track AutoScout24 listings over time to visualize price trends and market changes for specific car models.*
 - [**`dependabot-vuln-viewer`**](https://github.com/nyg/dependabot-vuln-viewer) <sup>2☆</sup> — *Displays Dependabot security alerts for multiple GitHub repositories.*
 - [**`kraken-api-java`**](https://github.com/nyg/kraken-api-java) <sup>61☆</sup> — *Java library to query the Kraken REST API.*
-- [**`crypto-tools`**](https://github.com/nyg/crypto-tools) <sup>2☆</sup> — *Miscellaneous cryptocurrency-related tools.*
 - [**`qoqa-compta`**](https://github.com/nyg/qoqa-compta) — *Sync qoqa.ch order data and PDF invoices to PostgreSQL and display a spending dashboard*
+- [**`crypto-tools`**](https://github.com/nyg/crypto-tools) <sup>2☆</sup> — *Miscellaneous cryptocurrency-related tools.*
 
 #### Contributions
 
@@ -124,17 +125,13 @@ I build Java tools, web scrapers, and Kindle dictionaries — with occasional de
 
 #### Dictionary
 
-- [**`wiktionary-to-kindle`**](https://github.com/nyg/wiktionary-to-kindle) <sup>41☆</sup> — *Converts Wiktionary HTML dumps into a Kindle-compatible MOBI dictionary.*
 - [**`wiktionarize`**](https://github.com/nyg/wiktionarize) — *Simple web pages that searches words of a text in multiple Wiktionaries.*
-- Error: no repo found with information: epub-dictionary
 - [**`greek-dictionaries`**](https://github.com/nyg/greek-dictionaries) — *Extract results from a Greek reverse dictionary, see README.*
-- [**`tab2opf`**](https://github.com/nyg/tab2opf) <sup>2☆</sup> — *Remake of tab2opf dictionary builder for kindle*
 
 #### iOS & Swift
 
 - [**`HTMLWithImagesToPDF`**](https://github.com/nyg/HTMLWithImagesToPDF) <sup>44☆</sup> — *Showcasing a bug in iOS when generating a PDF from an HTML page using UIMarkupTextPrintFormatter.*
 - [**`iOSSystemSoundsLibrary`**](https://github.com/nyg/iOSSystemSoundsLibrary) <sup>1☆</sup> — *List of all system sounds available in iOS.*
-- [**`DateCellSwift`**](https://github.com/nyg/DateCellSwift) — *Apple&#x27;s DateCell code sample rewritten in Swift.*
 - [**`iOSCreatePDF.swift`**](https://gist.github.com/b8cd742250826cb1471f) <sup>75☆</sup> — *iOS, Swift: Create a PDF file from an HTML string.*
 - [**`MemoryAddress.swift`**](https://gist.github.com/b6a80bf79e72599230c312c69e963e60) <sup>37☆</sup> — *Get the memory address of both class and structure instances in Swift.*
 - [**`EXIFUserComment.swift`**](https://gist.github.com/c90f36abbd30f72c8b6681ef23db886b) <sup>11☆</sup> — *Get and set an EXIF UserComment to a JPEG image using the ImageIO framework.*
@@ -146,18 +143,15 @@ I build Java tools, web scrapers, and Kindle dictionaries — with occasional de
 
 #### Java & JMX
 
-- [**`homebrew-jmxsh`**](https://github.com/nyg/homebrew-jmxsh) — *Homebrew tap for nyg/jmxsh*
 - [**`AllJCAServices.java`**](https://gist.github.com/feedae9fd75fee0f27f788b2dc155633) — *List all JCA security provider services and export them to a CSV file.*
 - [**`FreeSwap.java`**](https://gist.github.com/8f8b099f957ebc18656c062eb8ca20e4) — *Display available free Swap memory using JMX*
 - [**`AsynchronousServerSocketChannelTest.java`**](https://gist.github.com/dc1cbdc4e262b549fc3c01a7f509d42b) — *Basic code example for AsynchronousServerSocketChannel.*
 
 #### Crypto & Finance
 
-- [**`kraken-ticker`**](https://github.com/nyg/kraken-ticker) <sup>2☆</sup> — *Kraken ticker, all currency pairs, updates every 1.5 second.*
 - [**`smart-contracts`**](https://github.com/nyg/smart-contracts) <sup>3☆</sup> — *Set of smart contracts developed for educational purposes.*
 - [**`opaque-impl`**](https://github.com/nyg/opaque-impl) <sup>1☆</sup> — *PoC implementation in SageMath of OPAQUE, an asymmetric PAKE protocol.*
 - [**`vagrant-bitcoin-node`**](https://github.com/nyg/vagrant-bitcoin-node) — *Vagrantfile for a Bitcoin node (WIP)*
-- [**`kraken-ledger.js`**](https://gist.github.com/3d398df40570fbd942d2) <sup>2☆</sup> — *Get all entries of your Kraken.com ledger.*
 
 #### Tools & Projects
 
