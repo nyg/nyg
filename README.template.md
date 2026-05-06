@@ -6,14 +6,15 @@ I build Java tools, web scrapers, and Kindle dictionaries — with occasional de
 
 #### Featured projects
 
-- {{repo 'jmxsh'}}
+- {{repo 'wiktionary-to-kindle'}}
 - {{repo 'scrapy-seleniumbase-cdp'}}
 - {{repo 'mkv-cleaner'}}
+- {{repo 'jmxsh'}}
 - {{repo 'autoscout24-trends'}}
 - {{repo 'dependabot-vuln-viewer'}}
 - {{repo 'kraken-api-java'}}
-- {{repo 'crypto-tools'}}
 - {{repo 'qoqa-compta'}}
+- {{repo 'crypto-tools'}}
 
 #### Contributions
 
@@ -72,17 +73,13 @@ I build Java tools, web scrapers, and Kindle dictionaries — with occasional de
 
 #### Dictionary
 
-- {{repo 'wiktionary-to-kindle'}}
 - {{repo 'wiktionarize'}}
-- {{repo 'epub-dictionary'}}
 - {{repo 'greek-dictionaries'}}
-- {{repo 'tab2opf'}}
 
 #### iOS & Swift
 
 - {{repo 'HTMLWithImagesToPDF'}}
 - {{repo 'iOSSystemSoundsLibrary'}}
-- {{repo 'DateCellSwift'}}
 - {{gist 'iOSCreatePDF.swift'}}
 - {{gist 'MemoryAddress.swift'}}
 - {{gist 'EXIFUserComment.swift'}}
@@ -94,18 +91,15 @@ I build Java tools, web scrapers, and Kindle dictionaries — with occasional de
 
 #### Java & JMX
 
-- {{repo 'homebrew-jmxsh'}}
 - {{gist 'AllJCAServices.java'}}
 - {{gist 'FreeSwap.java'}}
 - {{gist 'AsynchronousServerSocketChannelTest.java'}}
 
 #### Crypto & Finance
 
-- {{repo 'kraken-ticker'}}
 - {{repo 'smart-contracts'}}
 - {{repo 'opaque-impl'}}
 - {{repo 'vagrant-bitcoin-node'}}
-- {{gist 'kraken-ledger.js'}}
 
 #### Tools & Projects
 
