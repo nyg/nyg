@@ -8,12 +8,12 @@ I build Java tools, web scrapers, and Kindle dictionaries — with occasional de
 
 - [**`wiktionary-to-kindle`**](https://github.com/nyg/wiktionary-to-kindle) <sup>41☆</sup> — *Converts Wiktionary HTML dumps into a Kindle-compatible MOBI dictionary.*
 - [**`scrapy-seleniumbase-cdp`**](https://github.com/nyg/scrapy-seleniumbase-cdp) <sup>1☆</sup> — *Scrapy downloader middleware that uses SeleniumBase&#x27;s pure CDP mode to make requests.*
-- [**`mkv-cleaner`**](https://github.com/nyg/mkv-cleaner) — *🎬 AI agent config for cleaning MKV files — removes non-English audio/subtitle tracks, keeps best quality streams.*
+- [**`mkv-cleaner`**](https://github.com/nyg/mkv-cleaner) — *AI agent for cleaning MKV files — removes non-English audio/subtitle tracks, keeps best quality streams.*
 - [**`jmxsh`**](https://github.com/nyg/jmxsh) — *A modern, actively maintained fork of JMXTerm — a command-line shell for interacting with Java MBeans via JMX.*
 - [**`autoscout24-trends`**](https://github.com/nyg/autoscout24-trends) — *Track AutoScout24 listings over time to visualize price trends and market changes for specific car models.*
 - [**`dependabot-vuln-viewer`**](https://github.com/nyg/dependabot-vuln-viewer) <sup>2☆</sup> — *Displays Dependabot security alerts for multiple GitHub repositories.*
 - [**`kraken-api-java`**](https://github.com/nyg/kraken-api-java) <sup>61☆</sup> — *Java library to query the Kraken REST API.*
-- [**`qoqa-compta`**](https://github.com/nyg/qoqa-compta) — *Sync qoqa.ch order data and PDF invoices to PostgreSQL and display a spending dashboard*
+- [**`qoqa-compta`**](https://github.com/nyg/qoqa-compta) — *Sync your qoqa.ch orders and invoices to a local db and display a spending dashboard*
 - [**`crypto-tools`**](https://github.com/nyg/crypto-tools) <sup>2☆</sup> — *Miscellaneous cryptocurrency-related tools.*
 
 #### Contributions
