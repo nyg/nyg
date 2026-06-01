@@ -17,8 +17,8 @@
       "url": "https://github.com/nyg/nyg/issues"
    },
    "dependencies": {
-      "@apollo/client": "4.1.9",
-      "graphql": "16.13.2",
+      "@apollo/client": "4.2.0",
+      "graphql": "16.14.0",
       "handlebars": "4.7.9"
    },
    "devDependencies": {
