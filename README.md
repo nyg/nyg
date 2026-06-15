@@ -1,6 +1,6 @@
 #### Featured projects
 
-- [**`wiktionary-to-kindle`**](https://github.com/nyg/wiktionary-to-kindle) <sup>41☆</sup> — *Converts Wiktionary HTML dumps into a Kindle-compatible MOBI dictionary.*
+- [**`wiktionary-to-kindle`**](https://github.com/nyg/wiktionary-to-kindle) <sup>42☆</sup> — *Converts Wiktionary HTML dumps into a Kindle-compatible MOBI dictionary.*
 - [**`scrapy-seleniumbase-cdp`**](https://github.com/nyg/scrapy-seleniumbase-cdp) <sup>1☆</sup> — *Scrapy downloader middleware that uses SeleniumBase&#x27;s pure CDP mode to make requests.*
 - [**`jmxsh`**](https://github.com/nyg/jmxsh) — *A modern, actively maintained fork of JMXTerm — a command-line shell for interacting with Java MBeans via JMX.*
 - [**`qoqa-compta`**](https://github.com/nyg/qoqa-compta) — *Sync your qoqa.ch orders and invoices to a local db and display a spending dashboard*
@@ -77,7 +77,7 @@
 - [**`MemoryAddress.swift`**](https://gist.github.com/b6a80bf79e72599230c312c69e963e60) <sup>37☆</sup> — *Get the memory address of both class and structure instances in Swift.*
 - [**`EXIFUserComment.swift`**](https://gist.github.com/c90f36abbd30f72c8b6681ef23db886b) <sup>11☆</sup> — *Get and set an EXIF UserComment to a JPEG image using the ImageIO framework.*
 - [**`AddJPEGComment.swift`**](https://gist.github.com/bdeae8190a41b4b56bde8e13dd471ecc) <sup>2☆</sup> — *Add a JPEG comment marker to file in pure Swift.*
-- [**`Uptime.swift`**](https://gist.github.com/d81308a92fbf7e9c44c5f72db5ee2171) <sup>4☆</sup> — *Get boot time and uptime for macOS &amp; iOS.*
+- [**`Uptime.swift`**](https://gist.github.com/d81308a92fbf7e9c44c5f72db5ee2171) <sup>5☆</sup> — *Get boot time and uptime for macOS &amp; iOS.*
 - [**`Serialize.swift`**](https://gist.github.com/8104d52292af99e69935bf3cbd78469d) — *Serialize NSObject (or array of) to XML in Swift.*
 - [**`UIApplicationDelegate.swift`**](https://gist.github.com/45ac81abd94efc38b64fbc4cc964e5fa) — *Adding &#x60;shared&#x60; property to UIApplicationDelegate*
 - [**`sequence_iterator.swift`**](https://gist.github.com/7b69d0a34e0927a42a5514b88d1cfbe1) — *Implementing Sequence &amp; IteratorProtocol, Swift 3*
@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td><a href="https://github.com/nyg/wiktionary-to-kindle"><strong>wiktionary-to-kindle</strong></a> — Converts Wiktionary HTML dumps into a Kindle-compatible MOBI dictionary.</td>
-    <td align="right">41</td>
+    <td align="right">42</td>
     <td align="right">5</td>
     <td align="right">19</td>
   </tr>
