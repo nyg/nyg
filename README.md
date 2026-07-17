@@ -166,7 +166,7 @@
     <td><a href="https://github.com/nyg/wiktionary-to-kindle"><strong>wiktionary-to-kindle</strong></a> — Converts Wiktionary HTML dumps into a Kindle-compatible MOBI dictionary.</td>
     <td align="right">42</td>
     <td align="right">5</td>
-    <td align="right">19</td>
+    <td align="right">20</td>
   </tr>
 </table>
 
