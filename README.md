@@ -1,14 +1,29 @@
-#### Featured projects
+#### Desktop apps
 
-- [**`wiktionary-to-kindle`**](https://github.com/nyg/wiktionary-to-kindle) <sup>42☆</sup> — *Converts Wiktionary HTML dumps into a Kindle-compatible MOBI dictionary.*
-- [**`scrapy-seleniumbase-cdp`**](https://github.com/nyg/scrapy-seleniumbase-cdp) <sup>1☆</sup> — *Scrapy downloader middleware that uses SeleniumBase&#x27;s pure CDP mode to make requests.*
-- [**`jmxsh`**](https://github.com/nyg/jmxsh) — *A modern, actively maintained fork of JMXTerm — a command-line shell for interacting with Java MBeans via JMX.*
 - [**`qoqa-compta`**](https://github.com/nyg/qoqa-compta) — *Sync your qoqa.ch orders and invoices to a local db and display a spending dashboard*
+- [**`crypto-tools`**](https://github.com/nyg/crypto-tools) <sup>2☆</sup> — *Miscellaneous cryptocurrency-related tools.*
+
+#### Web apps
+
 - [**`autoscout24-trends`**](https://github.com/nyg/autoscout24-trends) — *Track AutoScout24 listings over time to visualize price trends and market changes for specific car models.*
 - [**`dependabot-vuln-viewer`**](https://github.com/nyg/dependabot-vuln-viewer) <sup>2☆</sup> — *Displays Dependabot security alerts for multiple GitHub repositories.*
+- [**`climbmania-tracker`**](https://github.com/nyg/climbmania-tracker) <sup>1☆</sup> — **
+- [**`yield-borg`**](https://github.com/nyg/yield-borg) — *Historical charts of the yields available on the SwissBorg platform.*
+
+#### CLI tools
+
+- [**`wiktionary-to-kindle`**](https://github.com/nyg/wiktionary-to-kindle) <sup>44☆</sup> — *Converts Wiktionary HTML dumps into a Kindle-compatible MOBI dictionary.*
+- [**`jmxsh`**](https://github.com/nyg/jmxsh) — *A modern, actively maintained fork of JMXTerm — a command-line shell for interacting with Java MBeans via JMX.*
+
+#### Libraries
+
 - [**`kraken-api-java`**](https://github.com/nyg/kraken-api-java) <sup>62☆</sup> — *Java library to query the Kraken REST API.*
-- [**`crypto-tools`**](https://github.com/nyg/crypto-tools) <sup>2☆</sup> — *Miscellaneous cryptocurrency-related tools.*
+- [**`scrapy-seleniumbase-cdp`**](https://github.com/nyg/scrapy-seleniumbase-cdp) <sup>1☆</sup> — *Scrapy downloader middleware that uses SeleniumBase&#x27;s pure CDP mode to make requests.*
+- [**`libdegiro`**](https://github.com/nyg/libdegiro) — *Parse DEGIRO Account.csv statements into typed movements and transactions, with exact-decimal money and portfolio roll-ups.*
+
+#### Misc
 - [**`mkv-cleaner`**](https://github.com/nyg/mkv-cleaner) — *AI agent for cleaning MKV files — removes non-English audio/subtitle tracks, keeps best quality streams.*
+- [**`vagrant-bitcoin-node`**](https://github.com/nyg/vagrant-bitcoin-node) — *Vagrantfile for a Bitcoin node (WIP)*
 
 #### Contributions
 
@@ -164,7 +179,7 @@
   </tr>
   <tr>
     <td><a href="https://github.com/nyg/wiktionary-to-kindle"><strong>wiktionary-to-kindle</strong></a> — Converts Wiktionary HTML dumps into a Kindle-compatible MOBI dictionary.</td>
-    <td align="right">42</td>
+    <td align="right">44</td>
     <td align="right">5</td>
     <td align="right">20</td>
   </tr>
