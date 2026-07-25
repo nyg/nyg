@@ -1,14 +1,29 @@
-#### Featured projects
+#### Desktop apps
 
-- {{repo 'wiktionary-to-kindle'}}
-- {{repo 'scrapy-seleniumbase-cdp'}}
-- {{repo 'jmxsh'}}
 - {{repo 'qoqa-compta'}}
+- {{repo 'crypto-tools'}}
+
+#### Web apps
+
 - {{repo 'autoscout24-trends'}}
 - {{repo 'dependabot-vuln-viewer'}}
+- {{repo 'climbmania-tracker'}}
+- {{repo 'yield-borg'}}
+
+#### CLI tools
+
+- {{repo 'wiktionary-to-kindle'}}
+- {{repo 'jmxsh'}}
+
+#### Libraries
+
 - {{repo 'kraken-api-java'}}
-- {{repo 'crypto-tools'}}
+- {{repo 'scrapy-seleniumbase-cdp'}}
+- {{repo 'libdegiro'}}
+
+#### Misc
 - {{repo 'mkv-cleaner'}}
+- {{repo 'vagrant-bitcoin-node'}}
 
 #### Contributions
 
