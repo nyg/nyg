@@ -5,9 +5,9 @@
 
 #### Web apps
 
-- [**`autoscout24-trends`**](https://github.com/nyg/autoscout24-trends) — *Track AutoScout24 listings over time to visualize price trends and market changes for specific car models.*
+- [**`autoscout24-trends`**](https://github.com/nyg/autoscout24-trends) — *Track AutoScout24 listings over time to visualize price trends for specific car models.*
 - [**`dependabot-vuln-viewer`**](https://github.com/nyg/dependabot-vuln-viewer) <sup>2☆</sup> — *Displays Dependabot security alerts for multiple GitHub repositories.*
-- [**`climbmania-tracker`**](https://github.com/nyg/climbmania-tracker) <sup>1☆</sup> — **
+- [**`climbmania-tracker`**](https://github.com/nyg/climbmania-tracker) <sup>1☆</sup> — *Track a bouldering athlete&#x27;s tops and zones across Climbmania events.*
 - [**`yield-borg`**](https://github.com/nyg/yield-borg) — *Historical charts of the yields available on the SwissBorg platform.*
 
 #### CLI tools
@@ -19,7 +19,7 @@
 
 - [**`kraken-api-java`**](https://github.com/nyg/kraken-api-java) <sup>62☆</sup> — *Java library to query the Kraken REST API.*
 - [**`scrapy-seleniumbase-cdp`**](https://github.com/nyg/scrapy-seleniumbase-cdp) <sup>1☆</sup> — *Scrapy downloader middleware that uses SeleniumBase&#x27;s pure CDP mode to make requests.*
-- [**`libdegiro`**](https://github.com/nyg/libdegiro) — *Parse DEGIRO Account.csv statements into typed movements and transactions, with exact-decimal money and portfolio roll-ups.*
+- [**`libdegiro`**](https://github.com/nyg/libdegiro) — *Parse DEGIRO Account.csv statements into typed movements, transactions and portfolio roll-ups.*
 
 #### Misc
 - [**`mkv-cleaner`**](https://github.com/nyg/mkv-cleaner) — *AI agent for cleaning MKV files — removes non-English audio/subtitle tracks, keeps best quality streams.*
