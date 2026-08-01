@@ -1,5 +1,6 @@
 #### Desktop apps
 
+- {{repo 'wiktionary-to-kindle'}}
 - {{repo 'qoqa-compta'}}
 - {{repo 'crypto-tools'}}
 
@@ -7,12 +8,11 @@
 
 - {{repo 'autoscout24-trends'}}
 - {{repo 'dependabot-vuln-viewer'}}
-- {{repo 'climbmania-tracker'}}
 - {{repo 'yield-borg'}}
+- {{repo 'climbmania-tracker'}}
 
 #### CLI tools
 
-- {{repo 'wiktionary-to-kindle'}}
 - {{repo 'jmxsh'}}
 
 #### Libraries
