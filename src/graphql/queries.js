@@ -11,20 +11,8 @@ export const gqlGistFragment = gql`
       stargazerCount
       createdAt
       updatedAt
-      forks(first: 1, orderBy: { direction: DESC, field: CREATED_AT }) {
-         totalCount
-         nodes {
-            createdAt
-            owner { login }
-         }
-      }
-      comments(last: 1) {
-         totalCount
-         nodes {
-            createdAt
-            author { login }
-         }
-      }
+      forks { totalCount }
+      comments { totalCount }
       files {
          name
       }
