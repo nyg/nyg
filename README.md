@@ -169,7 +169,7 @@
     <td><a href="https://github.com/nyg/kraken-api-java"><strong>kraken-api-java</strong></a> — Java library to query the Kraken REST API.</td>
     <td align="right">62</td>
     <td align="right">27</td>
-    <td align="right">10</td>
+    <td align="right">12</td>
   </tr>
   <tr>
     <td><a href="https://github.com/nyg/HTMLWithImagesToPDF"><strong>HTMLWithImagesToPDF</strong></a> — Showcasing a bug in iOS when generating a PDF from an HTML page using UIMarkupTextPrintFormatter.</td>
@@ -181,7 +181,7 @@
     <td><a href="https://github.com/nyg/wiktionary-to-kindle"><strong>wiktionary-to-kindle</strong></a> — Converts Wiktionary HTML dumps into a Kindle-compatible MOBI dictionary.</td>
     <td align="right">44</td>
     <td align="right">5</td>
-    <td align="right">20</td>
+    <td align="right">22</td>
   </tr>
 </table>
 
