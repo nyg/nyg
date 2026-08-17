@@ -1,6 +1,6 @@
 #### Desktop apps
 
-- [**`wiktionary-to-kindle`**](https://github.com/nyg/wiktionary-to-kindle) <sup>44☆</sup> — *Converts Wiktionary HTML dumps into a Kindle-compatible MOBI dictionary.*
+- [**`wiktionary-to-kindle`**](https://github.com/nyg/wiktionary-to-kindle) <sup>45☆</sup> — *Converts Wiktionary HTML dumps into a Kindle-compatible MOBI dictionary.*
 - [**`qoqa-compta`**](https://github.com/nyg/qoqa-compta) — *Sync your qoqa.ch orders and invoices to a local db and display a spending dashboard*
 - [**`crypto-tools`**](https://github.com/nyg/crypto-tools) <sup>2☆</sup> — *Miscellaneous cryptocurrency-related tools.*
 
@@ -125,7 +125,7 @@
 - [**`example-java-cli-app`**](https://git.sr.ht/~nyg/example-java-cli-app) — *An example app that uses the [Apache Commons CLI library](https://commons.apache.org/proper/commons-cli).*
 - [**`example-js-cli-app`**](https://git.sr.ht/~nyg/example-js-cli-app) — *A simple Node.js command-line app example using ESM.*
 - [**`maven-basics`**](https://git.sr.ht/~nyg/maven-basics) — *Maven from scratch.*
-- [**`ncc-pkg-examples`**](https://github.com/nyg/ncc-pkg-examples) — *Trying and failing to package a Next.js app with ncc and pkg.*
+- Error: no repo found with information: ncc-pkg-examples
 
 #### Misc
 
@@ -172,16 +172,16 @@
     <td align="right">12</td>
   </tr>
   <tr>
+    <td><a href="https://github.com/nyg/wiktionary-to-kindle"><strong>wiktionary-to-kindle</strong></a> — Converts Wiktionary HTML dumps into a Kindle-compatible MOBI dictionary.</td>
+    <td align="right">45</td>
+    <td align="right">6</td>
+    <td align="right">25</td>
+  </tr>
+  <tr>
     <td><a href="https://github.com/nyg/HTMLWithImagesToPDF"><strong>HTMLWithImagesToPDF</strong></a> — Showcasing a bug in iOS when generating a PDF from an HTML page using UIMarkupTextPrintFormatter.</td>
     <td align="right">44</td>
     <td align="right">4</td>
     <td align="right">1</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/nyg/wiktionary-to-kindle"><strong>wiktionary-to-kindle</strong></a> — Converts Wiktionary HTML dumps into a Kindle-compatible MOBI dictionary.</td>
-    <td align="right">44</td>
-    <td align="right">5</td>
-    <td align="right">22</td>
   </tr>
 </table>
 
