@@ -19,7 +19,7 @@
 
 - [**`kraken-api-java`**](https://github.com/nyg/kraken-api-java) <sup>62☆</sup> — *Java library to query the Kraken REST API.*
 - [**`scrapy-seleniumbase-cdp`**](https://github.com/nyg/scrapy-seleniumbase-cdp) <sup>1☆</sup> — *Scrapy downloader middleware that uses SeleniumBase&#x27;s pure CDP mode to make requests.*
-- [**`libdegiro`**](https://github.com/nyg/libdegiro) — *Parse DEGIRO Account.csv statements into typed movements, transactions and portfolio roll-ups.*
+- [**`libdegiro`**](https://github.com/nyg/libdegiro) — *TypeScript lib to parse DEGIRO Account.csv*
 
 #### Misc
 - [**`mkv-cleaner`**](https://github.com/nyg/mkv-cleaner) — *AI agent for cleaning MKV files — removes non-English audio/subtitle tracks, keeps best quality streams.*
@@ -106,7 +106,7 @@
 #### Crypto & Finance
 
 - [**`smart-contracts`**](https://github.com/nyg/smart-contracts) <sup>3☆</sup> — *Set of smart contracts developed for educational purposes.*
-- [**`opaque-impl`**](https://github.com/nyg/opaque-impl) <sup>1☆</sup> — *PoC implementation in SageMath of OPAQUE, an asymmetric PAKE protocol.*
+- [**`opaque-impl`**](https://github.com/nyg/opaque-impl) — *PoC implementation in SageMath of OPAQUE, an asymmetric PAKE protocol.*
 - [**`vagrant-bitcoin-node`**](https://github.com/nyg/vagrant-bitcoin-node) — *Vagrantfile for a Bitcoin node (WIP)*
 
 #### Tools & Projects
@@ -169,7 +169,7 @@
     <td><a href="https://github.com/nyg/kraken-api-java"><strong>kraken-api-java</strong></a> — Java library to query the Kraken REST API.</td>
     <td align="right">62</td>
     <td align="right">27</td>
-    <td align="right">12</td>
+    <td align="right">20</td>
   </tr>
   <tr>
     <td><a href="https://github.com/nyg/wiktionary-to-kindle"><strong>wiktionary-to-kindle</strong></a> — Converts Wiktionary HTML dumps into a Kindle-compatible MOBI dictionary.</td>
