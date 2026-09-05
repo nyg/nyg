@@ -1,6 +1,8 @@
+<a href="https://buymeacoffee.com/_nyg" title="Buy me a coffee"><img align="right" height="40" src="https://raw.githubusercontent.com/pachadotdev/buymeacoffee-badges/main/bmc-donate-yellow.svg" alt="Buy Me A Coffee" /></a>
+
 #### Desktop apps
 
-- [**`wiktionary-to-kindle`**](https://github.com/nyg/wiktionary-to-kindle) <sup>45☆</sup> — *Converts Wiktionary HTML dumps into a Kindle-compatible MOBI dictionary.*
+- [**`wiktionary-to-kindle`**](https://github.com/nyg/wiktionary-to-kindle) <sup>46☆</sup> — *Converts Wiktionary HTML dumps into a Kindle-compatible MOBI dictionary.*
 - [**`qoqa-compta`**](https://github.com/nyg/qoqa-compta) — *Sync your qoqa.ch orders and invoices to a local db and display a spending dashboard*
 - [**`crypto-tools`**](https://github.com/nyg/crypto-tools) <sup>2☆</sup> — *Miscellaneous cryptocurrency-related tools.*
 
@@ -19,7 +21,7 @@
 
 - [**`kraken-api-java`**](https://github.com/nyg/kraken-api-java) <sup>62☆</sup> — *Java library to query the Kraken REST API.*
 - [**`scrapy-seleniumbase-cdp`**](https://github.com/nyg/scrapy-seleniumbase-cdp) <sup>1☆</sup> — *Scrapy downloader middleware that uses SeleniumBase&#x27;s pure CDP mode to make requests.*
-- [**`libdegiro`**](https://github.com/nyg/libdegiro) — *TypeScript lib to parse DEGIRO Account.csv*
+- [**`libdegiro`**](https://github.com/nyg/libdegiro) — *TypeScript lib to parse DEGIRO Account.csv + client-side account dashboard*
 
 #### Misc
 - [**`mkv-cleaner`**](https://github.com/nyg/mkv-cleaner) — *AI agent for cleaning MKV files — removes non-English audio/subtitle tracks, keeps best quality streams.*
@@ -173,7 +175,7 @@
   </tr>
   <tr>
     <td><a href="https://github.com/nyg/wiktionary-to-kindle"><strong>wiktionary-to-kindle</strong></a> — Converts Wiktionary HTML dumps into a Kindle-compatible MOBI dictionary.</td>
-    <td align="right">45</td>
+    <td align="right">46</td>
     <td align="right">6</td>
     <td align="right">25</td>
   </tr>
