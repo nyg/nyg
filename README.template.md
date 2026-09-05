@@ -1,3 +1,5 @@
+<a href="https://buymeacoffee.com/_nyg" title="Buy me a coffee"><img align="right" height="40" src="https://raw.githubusercontent.com/pachadotdev/buymeacoffee-badges/main/bmc-donate-yellow.svg" alt="Buy Me A Coffee" /></a>
+
 #### Desktop apps
 
 - {{repo 'wiktionary-to-kindle'}}
