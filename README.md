@@ -2,8 +2,8 @@
 
 #### Desktop apps
 
-- [**`wiktionary-to-kindle`**](https://github.com/nyg/wiktionary-to-kindle) <sup>46☆</sup> — *Converts Wiktionary HTML dumps into a Kindle-compatible MOBI dictionary.*
-- [**`qoqa-compta`**](https://github.com/nyg/qoqa-compta) — *Sync your qoqa.ch orders and invoices to a local db and display a spending dashboard*
+- [**`wiktionary-to-kindle`**](https://github.com/nyg/wiktionary-to-kindle) <sup>47☆</sup> — *Converts Wiktionary HTML dumps into a Kindle-compatible MOBI dictionary.*
+- [**`qoqa-compta`**](https://github.com/nyg/qoqa-compta) <sup>1☆</sup> — *Sync your qoqa.ch orders and invoices to a local db and display a spending dashboard*
 - [**`crypto-tools`**](https://github.com/nyg/crypto-tools) <sup>2☆</sup> — *Miscellaneous cryptocurrency-related tools.*
 
 #### Web apps
@@ -73,6 +73,10 @@
   <tr>
     <td><a href="https://github.com/hendrixjoseph/opencsv-record-mapping">hendrixjoseph/opencsv-record-mapping</a></td>
     <td align="right"><a href="https://github.com/hendrixjoseph/opencsv-record-mapping/pull/2" title="Support @CsvBindByName in new strategy">#2</a> </td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/blackboardsh/electrobun">blackboardsh/electrobun</a></td>
+    <td align="right"><a href="https://github.com/blackboardsh/electrobun/pull/546" title="docs: add QoQa Compta and Crypto Tools to project list">#546</a> </td>
   </tr>
 </table>
 
@@ -175,7 +179,7 @@
   </tr>
   <tr>
     <td><a href="https://github.com/nyg/wiktionary-to-kindle"><strong>wiktionary-to-kindle</strong></a> — Converts Wiktionary HTML dumps into a Kindle-compatible MOBI dictionary.</td>
-    <td align="right">46</td>
+    <td align="right">47</td>
     <td align="right">6</td>
     <td align="right">25</td>
   </tr>
