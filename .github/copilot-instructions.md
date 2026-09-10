@@ -27,7 +27,6 @@ Custom Handlebars helpers defined in `src/template/handlebars.js`:
 |---|---|---|
 | `{{repo 'name'}}` | inline | Renders a GitHub repo link with star count and description, looked up from fetched data |
 | `{{gist 'filename'}}` | inline | Renders a gist link by filename or gist name |
-| `{{srht owner='...' name='...' description='...'}}` | inline | Renders a SourceHut repo link (static, not fetched) |
 | `{{#list array sortBy='field' direction='asc\|desc' top=N}}` | block | Sorts the array by a (dot-notation) field, optionally limits to top N |
 | `{{#filterout array 'field' (array 'val1' 'val2')}}` | block | Removes items where `field` matches any of the given values |
 | `{{array 'a' 'b'}}` | inline | Constructs an array literal (used as argument to `filterout`) |

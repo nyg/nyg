@@ -87,19 +87,13 @@
 
 #### Code examples
 
-- {{srht owner='nyg' name='example-java-jca' description='Some code example with the Java Cryptography Architecture API, and an attempt at writing a pure-JCA (i.e. Provider-indenpendent) ECDSA and EdDSA signature verification class.'}}
-- {{srht owner='nyg' name='example-java-jmx' description='Some tests with Java\'s JMX API.'}}
-- {{srht owner='nyg' name='example-java-spring-batch-bug' description='Showcasing a currently opened bug ([#4427](spring-projects/spring-batch/issues/4427)) in Spring Batch with the Oracle database when using `List<>` as a parameter.'}}
-- {{srht owner='nyg' name='example-java-carnotzet' description='A simple app using Swissquote\'s [Carnotzet](swissquote/carnotzet) framework.'}}
-- {{srht owner='nyg' name='example-java-querydsl' description='An attempt at defining JPA entities in one Maven module and importing this module in another, and generating QueryDSL\'s query type classes from there (works with Java EE but not Jakarta).'}}
-- {{srht owner='nyg' name='example-java-cli-app' description='An example app that uses the [Apache Commons CLI library](https://commons.apache.org/proper/commons-cli).'}}
-- {{srht owner='nyg' name='example-js-cli-app' description='A simple Node.js command-line app example using ESM.'}}
-- {{srht owner='nyg' name='maven-basics' description='Maven from scratch.'}}
-- {{repo 'ncc-pkg-examples'}}
+- {{repo 'example-jmx'}}
+- {{repo 'example-spring-batch-bug'}}
+- {{repo 'maven-basics'}}
 
 #### Misc
 
-- {{srht owner='nyg' name='sh' description='My very own post-install scripts and dot files, please don\'t use them.'}}
+- {{repo 'sh'}}
 - {{repo 'heig-vd'}}
 - {{repo 'greek-election-data'}}
 - {{repo 'renovate-presets'}}
