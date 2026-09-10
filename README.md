@@ -20,7 +20,7 @@
 #### Libraries
 
 - [**`kraken-api-java`**](https://github.com/nyg/kraken-api-java) <sup>62☆</sup> — *Java library to query the Kraken REST API.*
-- [**`scrapy-seleniumbase-cdp`**](https://github.com/nyg/scrapy-seleniumbase-cdp) <sup>1☆</sup> — *Scrapy downloader middleware that uses SeleniumBase&#x27;s pure CDP mode to make requests.*
+- [**`scrapy-seleniumbase-cdp`**](https://github.com/nyg/scrapy-seleniumbase-cdp) <sup>2☆</sup> — *Scrapy downloader middleware that uses SeleniumBase&#x27;s pure CDP mode to make requests.*
 - [**`libdegiro`**](https://github.com/nyg/libdegiro) — *TypeScript lib to parse DEGIRO Account.csv + client-side account dashboard*
 
 #### Misc
@@ -123,19 +123,13 @@
 
 #### Code examples
 
-- [**`example-java-jca`**](https://git.sr.ht/~nyg/example-java-jca) — *Some code example with the Java Cryptography Architecture API, and an attempt at writing a pure-JCA (i.e. Provider-indenpendent) ECDSA and EdDSA signature verification class.*
-- [**`example-java-jmx`**](https://git.sr.ht/~nyg/example-java-jmx) — *Some tests with Java&#x27;s JMX API.*
-- [**`example-java-spring-batch-bug`**](https://git.sr.ht/~nyg/example-java-spring-batch-bug) — *Showcasing a currently opened bug ([#4427](spring-projects/spring-batch/issues/4427)) in Spring Batch with the Oracle database when using &#x60;List&lt;&gt;&#x60; as a parameter.*
-- [**`example-java-carnotzet`**](https://git.sr.ht/~nyg/example-java-carnotzet) — *A simple app using Swissquote&#x27;s [Carnotzet](swissquote/carnotzet) framework.*
-- [**`example-java-querydsl`**](https://git.sr.ht/~nyg/example-java-querydsl) — *An attempt at defining JPA entities in one Maven module and importing this module in another, and generating QueryDSL&#x27;s query type classes from there (works with Java EE but not Jakarta).*
-- [**`example-java-cli-app`**](https://git.sr.ht/~nyg/example-java-cli-app) — *An example app that uses the [Apache Commons CLI library](https://commons.apache.org/proper/commons-cli).*
-- [**`example-js-cli-app`**](https://git.sr.ht/~nyg/example-js-cli-app) — *A simple Node.js command-line app example using ESM.*
-- [**`maven-basics`**](https://git.sr.ht/~nyg/maven-basics) — *Maven from scratch.*
-- Error: no repo found with information: ncc-pkg-examples
+- [**`example-jmx`**](https://github.com/nyg/example-jmx) — *Some tests with Java&#x27;s JMX API.*
+- [**`example-spring-batch-bug`**](https://github.com/nyg/example-spring-batch-bug) — *Showcasing a currently opened bug (#4427) in Spring Batch with the Oracle database when using List&lt;&gt; as a parameter.*
+- [**`maven-basics`**](https://github.com/nyg/maven-basics) — *Maven from scratch.*
 
 #### Misc
 
-- [**`sh`**](https://git.sr.ht/~nyg/sh) — *My very own post-install scripts and dot files, please don&#x27;t use them.*
+- [**`sh`**](https://github.com/nyg/sh) — *My very own post-install scripts and dot files, please don&#x27;t use them.*
 - [**`heig-vd`**](https://github.com/nyg/heig-vd) — *Archive of HEIG-VD projects &amp; labs*
 - [**`greek-election-data`**](https://github.com/nyg/greek-election-data) — *Ruby scripts to extract election data from the official website.*
 - [**`renovate-presets`**](https://github.com/nyg/renovate-presets) — *My Renovate presets*
