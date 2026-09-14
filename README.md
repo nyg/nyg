@@ -78,6 +78,10 @@
     <td><a href="https://github.com/blackboardsh/electrobun">blackboardsh/electrobun</a></td>
     <td align="right"><a href="https://github.com/blackboardsh/electrobun/pull/546" title="docs: add QoQa Compta and Crypto Tools to project list">#546</a> </td>
   </tr>
+  <tr>
+    <td><a href="https://github.com/debba/gitdeck">debba/gitdeck</a></td>
+    <td align="right"><a href="https://github.com/debba/gitdeck/pull/40" title="fix: keep footer at the bottom of the viewport on short pages">#40</a> </td>
+  </tr>
 </table>
 
 #### More stuff
