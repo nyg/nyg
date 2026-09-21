@@ -2,7 +2,7 @@
 
 #### Desktop apps
 
-- [**`wiktionary-to-kindle`**](https://github.com/nyg/wiktionary-to-kindle) <sup>47☆</sup> — *Converts Wiktionary HTML dumps into a Kindle-compatible MOBI dictionary.*
+- [**`wiktionary-to-kindle`**](https://github.com/nyg/wiktionary-to-kindle) <sup>48☆</sup> — *Converts Wiktionary HTML dumps into a Kindle-compatible MOBI dictionary.*
 - [**`qoqa-compta`**](https://github.com/nyg/qoqa-compta) <sup>1☆</sup> — *Sync your qoqa.ch orders and invoices to a local db and display a spending dashboard*
 - [**`crypto-tools`**](https://github.com/nyg/crypto-tools) <sup>2☆</sup> — *Miscellaneous cryptocurrency-related tools.*
 
@@ -177,7 +177,7 @@
   </tr>
   <tr>
     <td><a href="https://github.com/nyg/wiktionary-to-kindle"><strong>wiktionary-to-kindle</strong></a> — Converts Wiktionary HTML dumps into a Kindle-compatible MOBI dictionary.</td>
-    <td align="right">47</td>
+    <td align="right">48</td>
     <td align="right">6</td>
     <td align="right">25</td>
   </tr>
