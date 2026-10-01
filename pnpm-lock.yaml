@@ -9,8 +9,8 @@ importers:
   .:
     dependencies:
       '@apollo/client':
-        specifier: 4.2.8
-        version: 4.2.8(graphql@17.0.2)(rxjs@7.8.2)
+        specifier: 4.3.1
+        version: 4.3.1(graphql@17.0.2)(rxjs@7.8.2)
       graphql:
         specifier: 17.0.2
         version: 17.0.2
@@ -19,16 +19,16 @@ importers:
         version: 4.7.9
     devDependencies:
       dotenv:
-        specifier: 18.0.0
-        version: 18.0.0
+        specifier: 18.0.4
+        version: 18.0.4
       eslint:
         specifier: 10.2.1
         version: 10.2.1
 
 packages:
 
-  '@apollo/client@4.2.8':
-    resolution: {integrity: sha512-Iw/e/5fpOx+/2CgtcFNLdwxtdPzwTfmD4mYRjHA1UBdkfe6WOtWLRQeRESCUJCh49blXwp9I496A0MIoLgmCsw==}
+  '@apollo/client@4.3.1':
+    resolution: {integrity: sha512-MFHzUfHxS+A6AzH+cS4896jHuSTRw5ACUANijz1gyesWZDLsbgZ17oCb/KfRAOUuoUr8AzCaBE+xJPi7R7ZOCA==}
     peerDependencies:
       graphql: ^16.0.0 || ^17.0.0
       graphql-ws: ^5.5.5 || ^6.0.3
@@ -163,8 +163,8 @@ packages:
   deep-is@0.1.4:
     resolution: {integrity: sha512-oIPzksmTg4/MriiaYGO+okXDT7ztn/w3Eptv/+gSIdMdKsJo0u4CfYNFJPy+4SKMuCqGw2wxnA+URMg3t8a/bQ==}
 
-  dotenv@18.0.0:
-    resolution: {integrity: sha512-16YSUvsKtKbwrTbESvtTSZzzJUug6jdFdqiBFg9Q6Bk1JY9r0hAtrtTiWxdI9YrsgOTmkjZRdgU0n3LnwGpECw==}
+  dotenv@18.0.4:
+    resolution: {integrity: sha512-jGt9uI5BIxpVO15kvy+iEFqNAwxYClKWnkptLjSNPnFLC003Imd0ofr3aEVsbpHdSBdSsbcApNIlz4nbyGMwdA==}
     engines: {node: '>=12'}
     hasBin: true
 
@@ -391,7 +391,7 @@ packages:
 
 snapshots:
 
-  '@apollo/client@4.2.8(graphql@17.0.2)(rxjs@7.8.2)':
+  '@apollo/client@4.3.1(graphql@17.0.2)(rxjs@7.8.2)':
     dependencies:
       '@graphql-typed-document-node/core': 3.2.0(graphql@17.0.2)
       '@wry/caches': 1.0.1
@@ -506,7 +506,7 @@ snapshots:
 
   deep-is@0.1.4: {}
 
-  dotenv@18.0.0: {}
+  dotenv@18.0.4: {}
 
   escape-string-regexp@4.0.0: {}
 
