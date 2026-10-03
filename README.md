@@ -25,7 +25,7 @@
 
 #### Misc
 - [**`mkv-cleaner`**](https://github.com/nyg/mkv-cleaner) — *AI agent for cleaning MKV files — removes non-English audio/subtitle tracks, keeps best quality streams.*
-- [**`vagrant-bitcoin-node`**](https://github.com/nyg/vagrant-bitcoin-node) — *Vagrantfile for a Bitcoin node (WIP)*
+- [**`vagrant-bitcoin-node`**](https://github.com/nyg/vagrant-bitcoin-node) — *Vagrantfile for a Bitcoin node*
 
 #### Contributions
 
@@ -117,7 +117,7 @@
 
 - [**`smart-contracts`**](https://github.com/nyg/smart-contracts) <sup>3☆</sup> — *Set of smart contracts developed for educational purposes.*
 - [**`opaque-impl`**](https://github.com/nyg/opaque-impl) — *PoC implementation in SageMath of OPAQUE, an asymmetric PAKE protocol.*
-- [**`vagrant-bitcoin-node`**](https://github.com/nyg/vagrant-bitcoin-node) — *Vagrantfile for a Bitcoin node (WIP)*
+- [**`vagrant-bitcoin-node`**](https://github.com/nyg/vagrant-bitcoin-node) — *Vagrantfile for a Bitcoin node*
 
 #### Tools & Projects
 
