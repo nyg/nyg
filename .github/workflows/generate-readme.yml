@@ -52,7 +52,7 @@ jobs:
           pnpm generate
         env:
           # note: GITHUB_TOKEN doesn't seem to work due to permissions
-          USER_TOKEN: ${{ secrets.USER_TOKEN }}
+          USER_TOKEN: ${{ secrets.RELEASE_TOKEN }}
 
       - name: Commit changes if any
         # https://github.com/actions/checkout/pull/1184
