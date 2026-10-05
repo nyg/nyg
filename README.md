@@ -43,6 +43,10 @@
     <td align="right"><a href="https://github.com/jiaqi/jmxterm/pull/110" title="Fix for mvn site command">#110</a> <a href="https://github.com/jiaqi/jmxterm/pull/112" title="Fix tests for Java 17+">#112</a> <a href="https://github.com/jiaqi/jmxterm/pull/113" title="Avoid usage of jdk.jconsole module in Java 9+">#113</a> <a href="https://github.com/jiaqi/jmxterm/pull/129" title="Properly cast vm object">#129</a> </td>
   </tr>
   <tr>
+    <td><a href="https://github.com/debba/gitdeck">debba/gitdeck</a></td>
+    <td align="right"><a href="https://github.com/debba/gitdeck/pull/40" title="fix: keep footer at the bottom of the viewport on short pages">#40</a> <a href="https://github.com/debba/gitdeck/pull/41" title="fix: clearer Board errors for token problems">#41</a> <a href="https://github.com/debba/gitdeck/pull/42" title="feat: add board filter to the Issues page">#42</a> </td>
+  </tr>
+  <tr>
     <td><a href="https://github.com/pljson/pljson">pljson/pljson</a></td>
     <td align="right"><a href="https://github.com/pljson/pljson/pull/72" title="Fix for issue #69 (pljson_printer prints invalid number if very small)">#72</a> </td>
   </tr>
@@ -77,10 +81,6 @@
   <tr>
     <td><a href="https://github.com/blackboardsh/electrobun">blackboardsh/electrobun</a></td>
     <td align="right"><a href="https://github.com/blackboardsh/electrobun/pull/546" title="docs: add QoQa Compta and Crypto Tools to project list">#546</a> </td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/debba/gitdeck">debba/gitdeck</a></td>
-    <td align="right"><a href="https://github.com/debba/gitdeck/pull/40" title="fix: keep footer at the bottom of the viewport on short pages">#40</a> </td>
   </tr>
 </table>
 
