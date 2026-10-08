@@ -3,7 +3,7 @@
 #### Desktop apps
 
 - [**`wiktionary-to-kindle`**](https://github.com/nyg/wiktionary-to-kindle) <sup>49☆</sup> — *Converts Wiktionary HTML dumps into a Kindle-compatible MOBI dictionary.*
-- [**`qoqa-compta`**](https://github.com/nyg/qoqa-compta) <sup>1☆</sup> — *Sync your qoqa.ch orders and invoices to a local db and display a spending dashboard*
+- [**`qoqa-compta`**](https://github.com/nyg/qoqa-compta) <sup>1☆</sup> — *Sync your qoqa.ch orders and invoices to a local db and display a spending dashboard.*
 - [**`crypto-tools`**](https://github.com/nyg/crypto-tools) <sup>2☆</sup> — *Miscellaneous cryptocurrency-related tools.*
 
 #### Web apps
@@ -21,11 +21,11 @@
 
 - [**`kraken-api-java`**](https://github.com/nyg/kraken-api-java) <sup>62☆</sup> — *Java library to query the Kraken REST API.*
 - [**`scrapy-seleniumbase-cdp`**](https://github.com/nyg/scrapy-seleniumbase-cdp) <sup>2☆</sup> — *Scrapy downloader middleware that uses SeleniumBase&#x27;s pure CDP mode to make requests.*
-- [**`libdegiro`**](https://github.com/nyg/libdegiro) <sup>1☆</sup> — *TypeScript lib to parse DEGIRO Account.csv + client-side account dashboard*
+- [**`libdegiro`**](https://github.com/nyg/libdegiro) <sup>1☆</sup> — *TypeScript lib to parse DEGIRO Account.csv + client-side account dashboard.*
 
 #### Misc
 - [**`mkv-cleaner`**](https://github.com/nyg/mkv-cleaner) — *AI agent for cleaning MKV files — removes non-English audio/subtitle tracks, keeps best quality streams.*
-- [**`vagrant-bitcoin-node`**](https://github.com/nyg/vagrant-bitcoin-node) — *Vagrantfile for a Bitcoin node*
+- [**`vagrant-bitcoin-node`**](https://github.com/nyg/vagrant-bitcoin-node) — *Vagrantfile for a Bitcoin node.*
 
 #### Contributions
 
@@ -117,7 +117,7 @@
 
 - [**`smart-contracts`**](https://github.com/nyg/smart-contracts) <sup>3☆</sup> — *Set of smart contracts developed for educational purposes.*
 - [**`opaque-impl`**](https://github.com/nyg/opaque-impl) — *PoC implementation in SageMath of OPAQUE, an asymmetric PAKE protocol.*
-- [**`vagrant-bitcoin-node`**](https://github.com/nyg/vagrant-bitcoin-node) — *Vagrantfile for a Bitcoin node*
+- [**`vagrant-bitcoin-node`**](https://github.com/nyg/vagrant-bitcoin-node) — *Vagrantfile for a Bitcoin node.*
 
 #### Tools & Projects
 
