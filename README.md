@@ -207,7 +207,7 @@
   <tr>
     <td><a href="https://gist.github.com/b6a80bf79e72599230c312c69e963e60"><strong>MemoryAddress.swift</strong></a> — Get the memory address of both class and structure instances in Swift.</td>
     <td align="right">37</td>
-    <td align="right">10</td>
+    <td align="right">8</td>
     <td align="right">0</td>
   </tr>
   <tr>
