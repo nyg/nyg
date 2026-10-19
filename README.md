@@ -134,7 +134,7 @@
 #### Misc
 
 - [**`sh`**](https://github.com/nyg/sh) — *My very own post-install scripts and dot files, please don&#x27;t use them.*
-- [**`heig-vd`**](https://github.com/nyg/heig-vd) — *Archive of HEIG-VD projects &amp; labs*
+- Error: no repo found with information: heig-vd
 - [**`greek-election-data`**](https://github.com/nyg/greek-election-data) — *Ruby scripts to extract election data from the official website.*
 - [**`renovate-presets`**](https://github.com/nyg/renovate-presets) — *My Renovate presets*
 - [**`uptime.c`**](https://gist.github.com/dbdef21a1a0632c389d4d756d4fc1c0d) <sup>1☆</sup> — *Get boot time and uptime on macOS in C.*
