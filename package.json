@@ -17,12 +17,12 @@
       "url": "https://github.com/nyg/nyg/issues"
    },
    "dependencies": {
-      "@apollo/client": "4.3.1",
+      "@apollo/client": "4.3.5",
       "graphql": "17.0.2",
       "handlebars": "4.7.10"
    },
    "devDependencies": {
-      "dotenv": "18.0.4",
+      "dotenv": "18.0.9",
       "eslint": "10.2.1"
    },
    "scripts": {
