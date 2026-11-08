@@ -82,6 +82,10 @@
     <td><a href="https://github.com/blackboardsh/electrobun">blackboardsh/electrobun</a></td>
     <td align="right"><a href="https://github.com/blackboardsh/electrobun/pull/546" title="docs: add QoQa Compta and Crypto Tools to project list">#546</a> </td>
   </tr>
+  <tr>
+    <td><a href="https://github.com/novitae/njsparser">novitae/njsparser</a></td>
+    <td align="right"><a href="https://github.com/novitae/njsparser/pull/12" title="Keep parsing flight data when one row fails to decode or validate">#12</a> </td>
+  </tr>
 </table>
 
 #### More stuff
