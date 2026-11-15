@@ -14,7 +14,7 @@ const compare = (items) => {
 
 export const listBlockHelper = function (context, options) {
    const { sortBy: field, direction = 'asc', top: length } = options.hash
-   const items = (a, b) => !field ? [a] : (direction == 'desc' ? [b, a] : [a, b])
+   const items = (a, b) => !field ? [a] : (direction === 'desc' ? [b, a] : [a, b])
    const fieldOf = items => items.map(item => !field ? item : field.split('.').reduce((obj, prop) => obj[prop], item))
    return context
       .toSorted((a, b) => compare(fieldOf(items(a, b))))
@@ -52,11 +52,9 @@ export const gistHelper = function (context, options) {
 
    if (gistWithFileName) {
       return render(gistWithFileName)
-   }
-   else if (gistWithName) {
+   } else if (gistWithName) {
       return render(gistWithName)
-   }
-   else {
+   } else {
       return `Error: no gist found with information: ${context}`
    }
 }
