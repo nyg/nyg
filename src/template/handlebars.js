@@ -52,11 +52,9 @@ export const gistHelper = function (context, options) {
 
    if (gistWithFileName) {
       return render(gistWithFileName)
-   }
-   else if (gistWithName) {
+   } else if (gistWithName) {
       return render(gistWithName)
-   }
-   else {
+   } else {
       return `Error: no gist found with information: ${context}`
    }
 }
