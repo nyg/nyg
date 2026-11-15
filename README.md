@@ -2,7 +2,7 @@
 
 #### Desktop apps
 
-- [**`wiktionary-to-kindle`**](https://github.com/nyg/wiktionary-to-kindle) <sup>49☆</sup> — *Converts Wiktionary HTML dumps into a Kindle-compatible MOBI dictionary.*
+- [**`wiktionary-to-kindle`**](https://github.com/nyg/wiktionary-to-kindle) <sup>49☆</sup> — *Builds Kindle MOBI dictionaries from Wiktionary, for any language pair kaikki.org publishes. Desktop app and CLI.*
 - [**`qoqa-compta`**](https://github.com/nyg/qoqa-compta) <sup>1☆</sup> — *Sync your qoqa.ch orders and invoices to a local db and display a spending dashboard.*
 - [**`crypto-tools`**](https://github.com/nyg/crypto-tools) <sup>2☆</sup> — *Miscellaneous cryptocurrency-related tools.*
 
@@ -47,6 +47,10 @@
     <td align="right"><a href="https://github.com/debba/gitdeck/pull/40" title="fix: keep footer at the bottom of the viewport on short pages">#40</a> <a href="https://github.com/debba/gitdeck/pull/41" title="fix: clearer Board errors for token problems">#41</a> <a href="https://github.com/debba/gitdeck/pull/42" title="feat: add board filter to the Issues page">#42</a> </td>
   </tr>
   <tr>
+    <td><a href="https://github.com/novitae/njsparser">novitae/njsparser</a></td>
+    <td align="right"><a href="https://github.com/novitae/njsparser/pull/12" title="Keep parsing flight data when one row fails to decode or validate">#12</a> <a href="https://github.com/novitae/njsparser/pull/13" title="fix: resolve references and accept Turbopack chunk lists in &#x60;I&#x60; rows">#13</a> </td>
+  </tr>
+  <tr>
     <td><a href="https://github.com/pljson/pljson">pljson/pljson</a></td>
     <td align="right"><a href="https://github.com/pljson/pljson/pull/72" title="Fix for issue #69 (pljson_printer prints invalid number if very small)">#72</a> </td>
   </tr>
@@ -81,10 +85,6 @@
   <tr>
     <td><a href="https://github.com/blackboardsh/electrobun">blackboardsh/electrobun</a></td>
     <td align="right"><a href="https://github.com/blackboardsh/electrobun/pull/546" title="docs: add QoQa Compta and Crypto Tools to project list">#546</a> </td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/novitae/njsparser">novitae/njsparser</a></td>
-    <td align="right"><a href="https://github.com/novitae/njsparser/pull/12" title="Keep parsing flight data when one row fails to decode or validate">#12</a> </td>
   </tr>
 </table>
 
@@ -180,7 +180,7 @@
     <td align="right">21</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/nyg/wiktionary-to-kindle"><strong>wiktionary-to-kindle</strong></a> — Converts Wiktionary HTML dumps into a Kindle-compatible MOBI dictionary.</td>
+    <td><a href="https://github.com/nyg/wiktionary-to-kindle"><strong>wiktionary-to-kindle</strong></a> — Builds Kindle MOBI dictionaries from Wiktionary, for any language pair kaikki.org publishes. Desktop app and CLI.</td>
     <td align="right">49</td>
     <td align="right">6</td>
     <td align="right">25</td>
