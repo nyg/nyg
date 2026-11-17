@@ -1,31 +1,36 @@
 ### Hello 👋 <a href="https://buymeacoffee.com/_nyg" title="Buy me a coffee"><img align="right" src="https://raw.githubusercontent.com/pachadotdev/buymeacoffee-badges/main/bmc-donate-yellow.svg" alt="Buy Me A Coffee" /></a>
 
-#### Desktop apps
+#### Featured
 
 - {{repo 'wiktionary-to-kindle'}}
-- {{repo 'qoqa-compta'}}
-- {{repo 'crypto-tools'}}
+- {{repo 'jmxsh'}}
+- {{repo 'repo-rewind'}}
+- {{repo 'stars-visualizer'}}
+- {{repo 'kraken-api-java'}}
 
-#### Web apps
+#### Developer tools
+
+- {{repo 'scrapy-seleniumbase-cdp'}}
+- {{repo 'dependabot-vuln-viewer'}}
+
+#### Finance & crypto
+
+- {{repo 'crypto-tools'}}
+- {{repo 'libdegiro'}}
+- {{repo 'yield-borg'}}
+
+#### Made for Switzerland
 
 - {{repo 'autoscout24-trends'}}
-- {{repo 'dependabot-vuln-viewer'}}
-- {{repo 'yield-borg'}}
+- {{repo 'qoqa-compta'}}
+- {{repo 'supercard-receipts'}}
+- {{repo 'acv-genealogie-index'}}
 - {{repo 'climbmania-tracker'}}
 
-#### CLI tools
+#### AI agents
 
-- {{repo 'jmxsh'}}
-
-#### Libraries
-
-- {{repo 'kraken-api-java'}}
-- {{repo 'scrapy-seleniumbase-cdp'}}
-- {{repo 'libdegiro'}}
-
-#### Misc
 - {{repo 'mkv-cleaner'}}
-- {{repo 'vagrant-bitcoin-node'}}
+- {{repo 'youtube-transcripts'}}
 
 #### Contributions
 
@@ -84,6 +89,17 @@
 - {{repo 'pagerduty'}}
 - {{repo 'h2-recover'}}
 
+#### Tooling
+
+- {{repo 'eslint-config'}}
+- {{repo 'renovate-presets'}}
+- {{repo 'homebrew-tap'}}
+- {{repo 'scoop-bucket'}}
+
+#### Writing
+
+- {{repo 'so3-graphics-support'}}
+- {{repo 'notes'}}
 
 #### Code examples
 
@@ -94,9 +110,7 @@
 #### Misc
 
 - {{repo 'sh'}}
-- {{repo 'heig-vd'}}
 - {{repo 'greek-election-data'}}
-- {{repo 'renovate-presets'}}
 - {{gist 'uptime.c'}}
 - {{gist 'pdk.c'}}
 - {{gist 'div_euc_hex.c'}}
