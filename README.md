@@ -1,31 +1,36 @@
 ### Hello 👋 <a href="https://buymeacoffee.com/_nyg" title="Buy me a coffee"><img align="right" src="https://raw.githubusercontent.com/pachadotdev/buymeacoffee-badges/main/bmc-donate-yellow.svg" alt="Buy Me A Coffee" /></a>
 
-#### Desktop apps
+#### Featured
 
 - [**`wiktionary-to-kindle`**](https://github.com/nyg/wiktionary-to-kindle) <sup>49☆</sup> — *Builds Kindle MOBI dictionaries from Wiktionary, for any language pair kaikki.org publishes. Desktop app and CLI.*
-- [**`qoqa-compta`**](https://github.com/nyg/qoqa-compta) <sup>1☆</sup> — *Sync your qoqa.ch orders and invoices to a local db and display a spending dashboard.*
-- [**`crypto-tools`**](https://github.com/nyg/crypto-tools) <sup>2☆</sup> — *Miscellaneous cryptocurrency-related tools.*
+- [**`jmxsh`**](https://github.com/nyg/jmxsh) — *A modern, actively maintained fork of JMXTerm — a command-line shell for interacting with Java MBeans via JMX.*
+- [**`repo-rewind`**](https://github.com/nyg/repo-rewind) — *Rank your GitHub repositories by recent activity and travel back in time.*
+- [**`stars-visualizer`**](https://github.com/nyg/stars-visualizer) — *Explore any GitHub user&#x27;s starred repositories as an animated cloud of topics*
+- [**`kraken-api-java`**](https://github.com/nyg/kraken-api-java) <sup>62☆</sup> — *Java library to query the Kraken REST API.*
 
-#### Web apps
+#### Developer tools
+
+- [**`scrapy-seleniumbase-cdp`**](https://github.com/nyg/scrapy-seleniumbase-cdp) <sup>2☆</sup> — *Scrapy downloader middleware that uses SeleniumBase&#x27;s pure CDP mode to make requests.*
+- [**`dependabot-vuln-viewer`**](https://github.com/nyg/dependabot-vuln-viewer) <sup>2☆</sup> — *Displays Dependabot security alerts for multiple GitHub repositories.*
+
+#### Finance & crypto
+
+- [**`crypto-tools`**](https://github.com/nyg/crypto-tools) <sup>2☆</sup> — *Miscellaneous cryptocurrency-related tools.*
+- [**`libdegiro`**](https://github.com/nyg/libdegiro) <sup>1☆</sup> — *TypeScript lib to parse DEGIRO Account.csv + client-side account dashboard.*
+- [**`yield-borg`**](https://github.com/nyg/yield-borg) — *Historical charts of the yields available on the SwissBorg platform.*
+
+#### Made for Switzerland
 
 - [**`autoscout24-trends`**](https://github.com/nyg/autoscout24-trends) — *Track AutoScout24 listings over time to visualize price trends for specific car models.*
-- [**`dependabot-vuln-viewer`**](https://github.com/nyg/dependabot-vuln-viewer) <sup>2☆</sup> — *Displays Dependabot security alerts for multiple GitHub repositories.*
-- [**`yield-borg`**](https://github.com/nyg/yield-borg) — *Historical charts of the yields available on the SwissBorg platform.*
+- [**`qoqa-compta`**](https://github.com/nyg/qoqa-compta) <sup>1☆</sup> — *Sync your qoqa.ch orders and invoices to a local db and display a spending dashboard.*
+- [**`supercard-receipts`**](https://github.com/nyg/supercard-receipts) <sup>1☆</sup> — *Download your Coop Supercard digital till receipts from supercard.ch as PDFs, by date range*
+- [**`acv-genealogie-index`**](https://github.com/nyg/acv-genealogie-index) — *Index des registres d&#x27;état civil des Archives cantonales vaudoises (ACV) : pour un lieu, un événement et une date, quel registre et quel PDF consulter.*
 - [**`climbmania-tracker`**](https://github.com/nyg/climbmania-tracker) <sup>1☆</sup> — *Track a bouldering athlete&#x27;s tops and zones across Climbmania events.*
 
-#### CLI tools
+#### AI agents
 
-- [**`jmxsh`**](https://github.com/nyg/jmxsh) — *A modern, actively maintained fork of JMXTerm — a command-line shell for interacting with Java MBeans via JMX.*
-
-#### Libraries
-
-- [**`kraken-api-java`**](https://github.com/nyg/kraken-api-java) <sup>62☆</sup> — *Java library to query the Kraken REST API.*
-- [**`scrapy-seleniumbase-cdp`**](https://github.com/nyg/scrapy-seleniumbase-cdp) <sup>2☆</sup> — *Scrapy downloader middleware that uses SeleniumBase&#x27;s pure CDP mode to make requests.*
-- [**`libdegiro`**](https://github.com/nyg/libdegiro) <sup>1☆</sup> — *TypeScript lib to parse DEGIRO Account.csv + client-side account dashboard.*
-
-#### Misc
 - [**`mkv-cleaner`**](https://github.com/nyg/mkv-cleaner) — *AI agent for cleaning MKV files — removes non-English audio/subtitle tracks, keeps best quality streams.*
-- [**`vagrant-bitcoin-node`**](https://github.com/nyg/vagrant-bitcoin-node) — *Vagrantfile for a Bitcoin node.*
+- [**`youtube-transcripts`**](https://github.com/nyg/youtube-transcripts) — *Summarize a YouTube channel&#x27;s recent videos with Claude.*
 
 #### Contributions
 
@@ -128,6 +133,17 @@
 - [**`pagerduty`**](https://github.com/nyg/pagerduty) — *PagerDuty monitoring dashboard with browser notifications.*
 - [**`h2-recover`**](https://github.com/nyg/h2-recover) <sup>9☆</sup> — *Hack to recover some h2 databases...*
 
+#### Tooling
+
+- [**`eslint-config`**](https://github.com/nyg/eslint-config) — *My ESLint presets*
+- [**`renovate-presets`**](https://github.com/nyg/renovate-presets) — *My Renovate presets*
+- [**`homebrew-tap`**](https://github.com/nyg/homebrew-tap) — *Homebrew tap for nyg packages*
+- [**`scoop-bucket`**](https://github.com/nyg/scoop-bucket) — *Repository for Scoop releases*
+
+#### Writing
+
+- [**`so3-graphics-support`**](https://github.com/nyg/so3-graphics-support) — *English edition of my Bachelor thesis on graphics support in SO3 and SOO*
+- [**`notes`**](https://github.com/nyg/notes) — *Notes to remember stuff I&#x27;ve learnt and quickly forgotten.*
 
 #### Code examples
 
@@ -138,9 +154,7 @@
 #### Misc
 
 - [**`sh`**](https://github.com/nyg/sh) — *My very own post-install scripts and dot files, please don&#x27;t use them.*
-- Error: no repo found with information: heig-vd
 - [**`greek-election-data`**](https://github.com/nyg/greek-election-data) — *Ruby scripts to extract election data from the official website.*
-- [**`renovate-presets`**](https://github.com/nyg/renovate-presets) — *My Renovate presets*
 - [**`uptime.c`**](https://gist.github.com/dbdef21a1a0632c389d4d756d4fc1c0d) <sup>1☆</sup> — *Get boot time and uptime on macOS in C.*
 - [**`pdk.c`**](https://gist.github.com/e366c27a70a77bf06581a0e6a8211cc9) — *Create a password-derived key using libsodium.*
 - [**`div_euc_hex.c`**](https://gist.github.com/4c29ba0da5655029754a4e3d3e6fb21c) — *Euclidean division in C.*
