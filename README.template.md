@@ -54,33 +54,16 @@
 <details>
 <summary>Other repositories</summary>
 
-#### Dictionary
-
-- {{repo 'wiktionarize'}}
-- {{repo 'greek-dictionaries'}}
-
 #### iOS & Swift
 
 - {{repo 'HTMLWithImagesToPDF'}}
-- {{repo 'iOSSystemSoundsLibrary'}}
 - {{gist 'iOSCreatePDF.swift'}}
 - {{gist 'MemoryAddress.swift'}}
 - {{gist 'EXIFUserComment.swift'}}
 - {{gist 'AddJPEGComment.swift'}}
-- {{gist 'Uptime.swift'}}
-- {{gist 'Serialize.swift'}}
-- {{gist 'UIApplicationDelegate.swift'}}
-- {{gist 'sequence_iterator.swift'}}
-
-#### Java & JMX
-
-- {{gist 'AllJCAServices.java'}}
-- {{gist 'FreeSwap.java'}}
-- {{gist 'AsynchronousServerSocketChannelTest.java'}}
 
 #### Crypto & Finance
 
-- {{repo 'smart-contracts'}}
 - {{repo 'opaque-impl'}}
 - {{repo 'vagrant-bitcoin-node'}}
 
@@ -89,36 +72,14 @@
 - {{repo 'pagerduty'}}
 - {{repo 'h2-recover'}}
 
-#### Tooling
-
-- {{repo 'eslint-config'}}
-- {{repo 'renovate-presets'}}
-- {{repo 'homebrew-tap'}}
-- {{repo 'scoop-bucket'}}
-
 #### Writing
 
 - {{repo 'so3-graphics-support'}}
 - {{repo 'notes'}}
 
-#### Code examples
-
-- {{repo 'example-jmx'}}
-- {{repo 'example-spring-batch-bug'}}
-- {{repo 'maven-basics'}}
-
 #### Misc
 
-- {{repo 'sh'}}
-- {{repo 'greek-election-data'}}
-- {{gist 'uptime.c'}}
 - {{gist 'pdk.c'}}
-- {{gist 'div_euc_hex.c'}}
-- {{gist 'auto_extract.sh'}}
-- {{gist 'use-local-storage.js'}}
-- {{gist 'request.mjs'}}
-- {{gist 'yql_json.html'}}
-- {{gist 'enlarge_image.php'}}
 - {{gist 'fk_generate_delete.sql'}}
 - {{gist 'fk_delete_recursive.sql'}}
 
