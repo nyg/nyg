@@ -2,34 +2,34 @@
 
 #### Featured
 
-- [**`wiktionary-to-kindle`**](https://github.com/nyg/wiktionary-to-kindle) <sup>49☆</sup> — *Builds Kindle MOBI dictionaries from Wiktionary, for any language pair kaikki.org publishes. Desktop app and CLI.*
-- [**`jmxsh`**](https://github.com/nyg/jmxsh) — *A modern, actively maintained fork of JMXTerm — a command-line shell for interacting with Java MBeans via JMX.*
+- [**`wiktionary-to-kindle`**](https://github.com/nyg/wiktionary-to-kindle) <sup>49☆</sup> — *Builds Kindle dictionaries from Wiktionary, for any language pair. Desktop app and CLI.*
+- [**`jmxsh`**](https://github.com/nyg/jmxsh) — *Command-line shell for Java MBeans over JMX. Maintained successor to JMXTerm, on Homebrew and apt.*
 - [**`repo-rewind`**](https://github.com/nyg/repo-rewind) — *Rank your GitHub repositories by recent activity and travel back in time.*
 - [**`stars-visualizer`**](https://github.com/nyg/stars-visualizer) — *Explore any GitHub user&#x27;s starred repositories as an animated cloud of topics*
-- [**`kraken-api-java`**](https://github.com/nyg/kraken-api-java) <sup>62☆</sup> — *Java library to query the Kraken REST API.*
+- [**`kraken-api-java`**](https://github.com/nyg/kraken-api-java) <sup>62☆</sup> — *Java client for the Kraken crypto exchange REST API, on Maven Central.*
 
 #### Developer tools
 
-- [**`scrapy-seleniumbase-cdp`**](https://github.com/nyg/scrapy-seleniumbase-cdp) <sup>2☆</sup> — *Scrapy downloader middleware that uses SeleniumBase&#x27;s pure CDP mode to make requests.*
-- [**`dependabot-vuln-viewer`**](https://github.com/nyg/dependabot-vuln-viewer) <sup>2☆</sup> — *Displays Dependabot security alerts for multiple GitHub repositories.*
+- [**`scrapy-seleniumbase-cdp`**](https://github.com/nyg/scrapy-seleniumbase-cdp) <sup>2☆</sup> — *Scrapy middleware using SeleniumBase&#x27;s CDP mode to get past anti-bot protections.*
+- [**`dependabot-vuln-viewer`**](https://github.com/nyg/dependabot-vuln-viewer) <sup>2☆</sup> — *See the Dependabot alerts of all your GitHub repositories on one page.*
 
 #### Finance & crypto
 
-- [**`crypto-tools`**](https://github.com/nyg/crypto-tools) <sup>2☆</sup> — *Miscellaneous cryptocurrency-related tools.*
-- [**`libdegiro`**](https://github.com/nyg/libdegiro) <sup>1☆</sup> — *TypeScript lib to parse DEGIRO Account.csv + client-side account dashboard.*
+- [**`crypto-tools`**](https://github.com/nyg/crypto-tools) <sup>2☆</sup> — *Desktop app for Kraken, Binance and Bybit: ledger, balances, staking and portfolios.*
+- [**`libdegiro`**](https://github.com/nyg/libdegiro) <sup>1☆</sup> — *TypeScript library that parses DEGIRO Account.csv exports, plus a browser-only account dashboard.*
 - [**`yield-borg`**](https://github.com/nyg/yield-borg) — *Historical charts of the yields available on the SwissBorg platform.*
 
 #### Made for Switzerland
 
 - [**`autoscout24-trends`**](https://github.com/nyg/autoscout24-trends) — *Track AutoScout24 listings over time to visualize price trends for specific car models.*
-- [**`qoqa-compta`**](https://github.com/nyg/qoqa-compta) <sup>1☆</sup> — *Sync your qoqa.ch orders and invoices to a local db and display a spending dashboard.*
+- [**`qoqa-compta`**](https://github.com/nyg/qoqa-compta) <sup>1☆</sup> — *Spending dashboard for your qoqa.ch orders, synced with their invoices to a local database.*
 - [**`supercard-receipts`**](https://github.com/nyg/supercard-receipts) <sup>1☆</sup> — *Download your Coop Supercard digital till receipts from supercard.ch as PDFs, by date range*
-- [**`acv-genealogie-index`**](https://github.com/nyg/acv-genealogie-index) — *Index des registres d&#x27;état civil des Archives cantonales vaudoises (ACV) : pour un lieu, un événement et une date, quel registre et quel PDF consulter.*
+- [**`acv-genealogie-index`**](https://github.com/nyg/acv-genealogie-index) — *Index des registres d&#x27;état civil vaudois : quel registre et quel PDF consulter.*
 - [**`climbmania-tracker`**](https://github.com/nyg/climbmania-tracker) <sup>1☆</sup> — *Track a bouldering athlete&#x27;s tops and zones across Climbmania events.*
 
 #### AI agents
 
-- [**`mkv-cleaner`**](https://github.com/nyg/mkv-cleaner) — *AI agent for cleaning MKV files — removes non-English audio/subtitle tracks, keeps best quality streams.*
+- [**`mkv-cleaner`**](https://github.com/nyg/mkv-cleaner) — *AI agent that losslessly remuxes MKV files to the best audio and subtitles in your language.*
 - [**`youtube-transcripts`**](https://github.com/nyg/youtube-transcripts) — *Summarize a YouTube channel&#x27;s recent videos with Claude.*
 
 #### Contributions
@@ -98,33 +98,16 @@
 <details>
 <summary>Other repositories</summary>
 
-#### Dictionary
-
-- [**`wiktionarize`**](https://github.com/nyg/wiktionarize) — *Simple web pages that searches words of a text in multiple Wiktionaries.*
-- [**`greek-dictionaries`**](https://github.com/nyg/greek-dictionaries) — *Extract results from a Greek reverse dictionary, see README.*
-
 #### iOS & Swift
 
 - [**`HTMLWithImagesToPDF`**](https://github.com/nyg/HTMLWithImagesToPDF) <sup>44☆</sup> — *Showcasing a bug in iOS when generating a PDF from an HTML page using UIMarkupTextPrintFormatter.*
-- [**`iOSSystemSoundsLibrary`**](https://github.com/nyg/iOSSystemSoundsLibrary) <sup>1☆</sup> — *List of all system sounds available in iOS.*
 - [**`iOSCreatePDF.swift`**](https://gist.github.com/b8cd742250826cb1471f) <sup>75☆</sup> — *iOS, Swift: Create a PDF file from an HTML string.*
 - [**`MemoryAddress.swift`**](https://gist.github.com/b6a80bf79e72599230c312c69e963e60) <sup>37☆</sup> — *Get the memory address of both class and structure instances in Swift.*
 - [**`EXIFUserComment.swift`**](https://gist.github.com/c90f36abbd30f72c8b6681ef23db886b) <sup>11☆</sup> — *Get and set an EXIF UserComment to a JPEG image using the ImageIO framework.*
 - [**`AddJPEGComment.swift`**](https://gist.github.com/bdeae8190a41b4b56bde8e13dd471ecc) <sup>2☆</sup> — *Add a JPEG comment marker to file in pure Swift.*
-- [**`Uptime.swift`**](https://gist.github.com/d81308a92fbf7e9c44c5f72db5ee2171) <sup>5☆</sup> — *Get boot time and uptime for macOS &amp; iOS.*
-- [**`Serialize.swift`**](https://gist.github.com/8104d52292af99e69935bf3cbd78469d) — *Serialize NSObject (or array of) to XML in Swift.*
-- [**`UIApplicationDelegate.swift`**](https://gist.github.com/45ac81abd94efc38b64fbc4cc964e5fa) — *Adding &#x60;shared&#x60; property to UIApplicationDelegate*
-- [**`sequence_iterator.swift`**](https://gist.github.com/7b69d0a34e0927a42a5514b88d1cfbe1) — *Implementing Sequence &amp; IteratorProtocol, Swift 3*
-
-#### Java & JMX
-
-- [**`AllJCAServices.java`**](https://gist.github.com/feedae9fd75fee0f27f788b2dc155633) — *List all JCA security provider services and export them to a CSV file.*
-- [**`FreeSwap.java`**](https://gist.github.com/8f8b099f957ebc18656c062eb8ca20e4) — *Display available free Swap memory using JMX*
-- [**`AsynchronousServerSocketChannelTest.java`**](https://gist.github.com/dc1cbdc4e262b549fc3c01a7f509d42b) — *Basic code example for AsynchronousServerSocketChannel.*
 
 #### Crypto & Finance
 
-- [**`smart-contracts`**](https://github.com/nyg/smart-contracts) <sup>3☆</sup> — *Set of smart contracts developed for educational purposes.*
 - [**`opaque-impl`**](https://github.com/nyg/opaque-impl) — *PoC implementation in SageMath of OPAQUE, an asymmetric PAKE protocol.*
 - [**`vagrant-bitcoin-node`**](https://github.com/nyg/vagrant-bitcoin-node) — *Vagrantfile for a Bitcoin node.*
 
@@ -133,36 +116,14 @@
 - [**`pagerduty`**](https://github.com/nyg/pagerduty) — *PagerDuty monitoring dashboard with browser notifications.*
 - [**`h2-recover`**](https://github.com/nyg/h2-recover) <sup>9☆</sup> — *Hack to recover some h2 databases...*
 
-#### Tooling
-
-- [**`eslint-config`**](https://github.com/nyg/eslint-config) — *My ESLint presets*
-- [**`renovate-presets`**](https://github.com/nyg/renovate-presets) — *My Renovate presets*
-- [**`homebrew-tap`**](https://github.com/nyg/homebrew-tap) — *Homebrew tap for nyg packages*
-- [**`scoop-bucket`**](https://github.com/nyg/scoop-bucket) — *Repository for Scoop releases*
-
 #### Writing
 
 - [**`so3-graphics-support`**](https://github.com/nyg/so3-graphics-support) — *English edition of my Bachelor thesis on graphics support in SO3 and SOO*
 - [**`notes`**](https://github.com/nyg/notes) — *Notes to remember stuff I&#x27;ve learnt and quickly forgotten.*
 
-#### Code examples
-
-- [**`example-jmx`**](https://github.com/nyg/example-jmx) — *Some tests with Java&#x27;s JMX API.*
-- [**`example-spring-batch-bug`**](https://github.com/nyg/example-spring-batch-bug) — *Showcasing a currently opened bug (#4427) in Spring Batch with the Oracle database when using List&lt;&gt; as a parameter.*
-- [**`maven-basics`**](https://github.com/nyg/maven-basics) — *Maven from scratch.*
-
 #### Misc
 
-- [**`sh`**](https://github.com/nyg/sh) — *My very own post-install scripts and dot files, please don&#x27;t use them.*
-- [**`greek-election-data`**](https://github.com/nyg/greek-election-data) — *Ruby scripts to extract election data from the official website.*
-- [**`uptime.c`**](https://gist.github.com/dbdef21a1a0632c389d4d756d4fc1c0d) <sup>1☆</sup> — *Get boot time and uptime on macOS in C.*
 - [**`pdk.c`**](https://gist.github.com/e366c27a70a77bf06581a0e6a8211cc9) — *Create a password-derived key using libsodium.*
-- [**`div_euc_hex.c`**](https://gist.github.com/4c29ba0da5655029754a4e3d3e6fb21c) — *Euclidean division in C.*
-- [**`auto_extract.sh`**](https://gist.github.com/3e989e4ad3379e80c08d2900668693fd) — *Script to recursively extract archives*
-- [**`use-local-storage.js`**](https://gist.github.com/d81aaeaaa207d37b144f5fcc02e7b94d) — *Custom useLocalStorage hook for Next.js*
-- [**`request.mjs`**](https://gist.github.com/b1fd4709d8c62d2a56d850cd6c8c0a53) — *HTTP request with Node.js*
-- [**`yql_json.html`**](https://gist.github.com/d5c906a47dbeb9ad84cbed9fd207105d) — *Using Yahoo Query Language (YQL) to get JSON from an external URL and bypass the Access-Control-Allow-Origin restriction.*
-- [**`enlarge_image.php`**](https://gist.github.com/ef6293c31030276968dee1cb4b6b3efa) — *Enlarge a given image.*
 - [**`fk_generate_delete.sql`**](https://gist.github.com/eb091e6c7c59b71fa4c9d49860574d2c) — *Oracle: outputs the necessary delete statements to delete a row and all rows preventing it from being deleted because of &quot;child record found&quot; error.*
 - [**`fk_delete_recursive.sql`**](https://gist.github.com/57b2719feba6cded14b01e53530941ef) — *Oracle: delete a row and all rows preventing it to be deleted because of &quot;child record found&quot; errors.*
 
@@ -188,13 +149,13 @@
     <th align="right"><img width="1" height="1"><img src="assets/issues.svg"></th>
   </tr>
   <tr>
-    <td><a href="https://github.com/nyg/kraken-api-java"><strong>kraken-api-java</strong></a> — Java library to query the Kraken REST API.</td>
+    <td><a href="https://github.com/nyg/kraken-api-java"><strong>kraken-api-java</strong></a> — Java client for the Kraken crypto exchange REST API, on Maven Central.</td>
     <td align="right">62</td>
     <td align="right">27</td>
     <td align="right">21</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/nyg/wiktionary-to-kindle"><strong>wiktionary-to-kindle</strong></a> — Builds Kindle MOBI dictionaries from Wiktionary, for any language pair kaikki.org publishes. Desktop app and CLI.</td>
+    <td><a href="https://github.com/nyg/wiktionary-to-kindle"><strong>wiktionary-to-kindle</strong></a> — Builds Kindle dictionaries from Wiktionary, for any language pair. Desktop app and CLI.</td>
     <td align="right">49</td>
     <td align="right">6</td>
     <td align="right">25</td>
