@@ -110,7 +110,6 @@
 #### Misc
 
 - {{repo 'sh'}}
-- {{repo 'heig-vd'}}
 - {{repo 'greek-election-data'}}
 - {{gist 'uptime.c'}}
 - {{gist 'pdk.c'}}
