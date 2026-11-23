@@ -2,7 +2,7 @@
 
 #### Featured
 
-- [**`wiktionary-to-kindle`**](https://github.com/nyg/wiktionary-to-kindle) <sup>49☆</sup> — *Builds Kindle dictionaries from Wiktionary, for any language pair. Desktop app and CLI.*
+- [**`wiktionary-to-kindle`**](https://github.com/nyg/wiktionary-to-kindle) <sup>50☆</sup> — *Builds Kindle dictionaries from Wiktionary, for any language pair. Desktop app and CLI.*
 - [**`jmxsh`**](https://github.com/nyg/jmxsh) — *Command-line shell for Java MBeans over JMX. Maintained successor to JMXTerm, on Homebrew and apt.*
 - [**`repo-rewind`**](https://github.com/nyg/repo-rewind) — *Rank your GitHub repositories by recent activity and travel back in time.*
 - [**`stars-visualizer`**](https://github.com/nyg/stars-visualizer) — *Explore any GitHub user&#x27;s starred repositories as an animated cloud of topics*
@@ -48,12 +48,12 @@
     <td align="right"><a href="https://github.com/jiaqi/jmxterm/pull/110" title="Fix for mvn site command">#110</a> <a href="https://github.com/jiaqi/jmxterm/pull/112" title="Fix tests for Java 17+">#112</a> <a href="https://github.com/jiaqi/jmxterm/pull/113" title="Avoid usage of jdk.jconsole module in Java 9+">#113</a> <a href="https://github.com/jiaqi/jmxterm/pull/129" title="Properly cast vm object">#129</a> </td>
   </tr>
   <tr>
-    <td><a href="https://github.com/debba/gitdeck">debba/gitdeck</a></td>
-    <td align="right"><a href="https://github.com/debba/gitdeck/pull/40" title="fix: keep footer at the bottom of the viewport on short pages">#40</a> <a href="https://github.com/debba/gitdeck/pull/41" title="fix: clearer Board errors for token problems">#41</a> <a href="https://github.com/debba/gitdeck/pull/42" title="feat: add board filter to the Issues page">#42</a> </td>
+    <td><a href="https://github.com/novitae/njsparser">novitae/njsparser</a></td>
+    <td align="right"><a href="https://github.com/novitae/njsparser/pull/12" title="Keep parsing flight data when one row fails to decode or validate">#12</a> <a href="https://github.com/novitae/njsparser/pull/13" title="fix: resolve references and accept Turbopack chunk lists in &#x60;I&#x60; rows">#13</a> <a href="https://github.com/novitae/njsparser/pull/14" title="feat: read flight data rows by their tag and group stream rows">#14</a> <a href="https://github.com/novitae/njsparser/pull/15" title="feat: find values by key and resolve references to other rows">#15</a> </td>
   </tr>
   <tr>
-    <td><a href="https://github.com/novitae/njsparser">novitae/njsparser</a></td>
-    <td align="right"><a href="https://github.com/novitae/njsparser/pull/12" title="Keep parsing flight data when one row fails to decode or validate">#12</a> <a href="https://github.com/novitae/njsparser/pull/13" title="fix: resolve references and accept Turbopack chunk lists in &#x60;I&#x60; rows">#13</a> </td>
+    <td><a href="https://github.com/debba/gitdeck">debba/gitdeck</a></td>
+    <td align="right"><a href="https://github.com/debba/gitdeck/pull/40" title="fix: keep footer at the bottom of the viewport on short pages">#40</a> <a href="https://github.com/debba/gitdeck/pull/41" title="fix: clearer Board errors for token problems">#41</a> <a href="https://github.com/debba/gitdeck/pull/42" title="feat: add board filter to the Issues page">#42</a> </td>
   </tr>
   <tr>
     <td><a href="https://github.com/pljson/pljson">pljson/pljson</a></td>
@@ -156,7 +156,7 @@
   </tr>
   <tr>
     <td><a href="https://github.com/nyg/wiktionary-to-kindle"><strong>wiktionary-to-kindle</strong></a> — Builds Kindle dictionaries from Wiktionary, for any language pair. Desktop app and CLI.</td>
-    <td align="right">49</td>
+    <td align="right">50</td>
     <td align="right">6</td>
     <td align="right">25</td>
   </tr>
