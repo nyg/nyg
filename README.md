@@ -2,6 +2,7 @@
 
 #### Featured
 
+- [**`PowerDarwin`**](https://github.com/nyg/PowerDarwin) — *Darwin 9.8 for PowerPC Macs: the open core of Mac OS X 10.5.8 Leopard, built from Apple&#x27;s published sources with every change documented.*
 - [**`wiktionary-to-kindle`**](https://github.com/nyg/wiktionary-to-kindle) <sup>50☆</sup> — *Builds Kindle dictionaries from Wiktionary, for any language pair. Desktop app and CLI.*
 - [**`jmxsh`**](https://github.com/nyg/jmxsh) — *Command-line shell for Java MBeans over JMX. Maintained successor to JMXTerm, on Homebrew and apt.*
 - [**`repo-rewind`**](https://github.com/nyg/repo-rewind) — *Rank your GitHub repositories by recent activity and travel back in time.*
@@ -15,6 +16,7 @@
 
 #### Finance & crypto
 
+- [**`saxo-dashboard`**](https://github.com/nyg/saxo-dashboard) — *Saxo Bank portfolio and margin dashboard that keeps its OpenAPI login alive.*
 - [**`crypto-tools`**](https://github.com/nyg/crypto-tools) <sup>2☆</sup> — *Desktop app for Kraken, Binance and Bybit: ledger, balances, staking and portfolios.*
 - [**`libdegiro`**](https://github.com/nyg/libdegiro) <sup>1☆</sup> — *TypeScript library that parses DEGIRO Account.csv exports, plus a browser-only account dashboard.*
 - [**`yield-borg`**](https://github.com/nyg/yield-borg) — *Historical charts of the yields available on the SwissBorg platform.*
