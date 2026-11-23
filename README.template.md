@@ -2,6 +2,7 @@
 
 #### Featured
 
+- {{repo 'PowerDarwin'}}
 - {{repo 'wiktionary-to-kindle'}}
 - {{repo 'jmxsh'}}
 - {{repo 'repo-rewind'}}
@@ -15,6 +16,7 @@
 
 #### Finance & crypto
 
+- {{repo 'saxo-dashboard'}}
 - {{repo 'crypto-tools'}}
 - {{repo 'libdegiro'}}
 - {{repo 'yield-borg'}}
